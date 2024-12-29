@@ -1,0 +1,441 @@
+resultId,raceId,driverId,positionOrder,points,laps,rank,statusId,time_,fastestLapTime_,fastestLapSpeed_,year,round,circuitId,name,url,date & time
+25846,1098,830,1,25.0,57,6,1,0 days 01:33:56.736000,0 days 00:01:36.236000,202.452,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25847,1098,815,2,18.0,57,7,1,0 days 01:34:08.723000,0 days 00:01:36.344000,202.225,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25848,1098,4,3,15.0,57,5,1,0 days 01:34:35.373000,0 days 00:01:36.156000,202.62,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25849,1098,832,4,12.0,57,14,1,0 days 01:34:44.788000,0 days 00:01:37.130000,200.588,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25850,1098,1,5,10.0,57,10,1,0 days 01:34:47.713000,0 days 00:01:36.546000,201.802,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25851,1098,840,6,8.0,57,9,1,0 days 01:34:51.238000,0 days 00:01:36.546000,201.802,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25852,1098,847,7,6.0,57,17,1,0 days 01:34:52.609000,0 days 00:01:37.221000,200.401,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25853,1098,822,8,4.0,57,18,1,0 days 01:35:09.383000,0 days 00:01:37.379000,200.075,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25854,1098,842,9,2.0,57,2,1,0 days 01:35:10.489000,0 days 00:01:35.068000,204.939,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25855,1098,848,10,1.0,57,15,1,0 days 01:35:26.510000,0 days 00:01:37.144000,200.559,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25856,1098,852,11,0.0,57,12,1,0 days 01:35:27.606000,0 days 00:01:36.637000,201.612,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25857,1098,858,12,0.0,56,4,11,,0 days 00:01:36.037000,202.871,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25858,1098,825,13,0.0,56,8,11,,0 days 00:01:36.471000,201.959,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25859,1098,856,14,0.0,56,19,11,,0 days 00:01:37.709000,199.4,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25860,1098,807,15,0.0,56,11,11,,0 days 00:01:36.616000,201.656,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25861,1098,855,16,0.0,56,1,11,,0 days 00:01:33.996000,207.276,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25862,1098,846,17,0.0,55,3,12,,0 days 00:01:35.822000,203.327,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25863,1098,839,18,0.0,41,13,26,,0 days 00:01:36.797000,201.278,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25864,1098,844,19,0.0,39,16,5,,0 days 00:01:37.170000,200.506,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25865,1098,857,20,0.0,13,20,10,,0 days 00:01:40.691000,193.494,2023,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+25866,1099,815,1,25.0,50,2,1,0 days 01:21:14.894000,0 days 00:01:32.188000,241.098,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25867,1099,830,2,19.0,50,1,1,0 days 01:21:20.249000,0 days 00:01:31.906000,241.838,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25868,1099,4,3,15.0,50,3,1,0 days 01:21:35.622000,0 days 00:01:32.240000,240.962,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25869,1099,847,4,12.0,50,4,1,0 days 01:21:40.760000,0 days 00:01:32.433000,240.459,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25870,1099,1,5,10.0,50,6,1,0 days 01:21:45.959000,0 days 00:01:32.941000,239.145,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25871,1099,832,6,8.0,50,5,1,0 days 01:21:50.770000,0 days 00:01:32.822000,239.451,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25872,1099,844,7,6.0,50,7,1,0 days 01:21:58.056000,0 days 00:01:33.056000,238.849,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25873,1099,839,8,4.0,50,8,1,0 days 01:22:07.726000,0 days 00:01:33.222000,238.424,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25874,1099,842,9,2.0,50,10,1,0 days 01:22:09.641000,0 days 00:01:33.392000,237.99,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25875,1099,825,10,1.0,50,9,1,0 days 01:22:19.720000,0 days 00:01:33.374000,238.036,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25876,1099,852,11,0.0,50,14,1,0 days 01:22:22.388000,0 days 00:01:33.931000,236.624,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25877,1099,807,12,0.0,50,12,1,0 days 01:22:25.482000,0 days 00:01:33.780000,237.005,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25878,1099,855,13,0.0,50,13,1,0 days 01:22:30.954000,0 days 00:01:33.894000,236.718,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25879,1099,856,14,0.0,50,11,1,0 days 01:22:32.372000,0 days 00:01:33.609000,237.438,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25880,1099,857,15,0.0,50,16,1,0 days 01:22:39.915000,0 days 00:01:34.287000,235.731,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25881,1099,858,16,0.0,50,18,1,0 days 01:22:41.187000,0 days 00:01:34.469000,235.277,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25882,1099,846,17,0.0,50,15,1,0 days 01:22:41.339000,0 days 00:01:34.122000,236.144,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25883,1099,822,18,0.0,49,17,11,,0 days 00:01:34.384000,235.489,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25884,1099,848,19,0.0,27,20,23,,0 days 00:01:35.567000,232.574,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25885,1099,840,20,0.0,16,19,5,,0 days 00:01:35.140000,233.617,2023,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+25886,1100,830,1,25.0,58,2,1,0 days 02:32:38.371000,0 days 00:01:20.342000,236.498,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25887,1100,1,2,18.0,58,5,1,0 days 02:32:38.550000,0 days 00:01:20.613000,235.703,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25888,1100,4,3,15.0,58,4,1,0 days 02:32:39.140000,0 days 00:01:20.476000,236.105,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25889,1100,840,4,12.0,58,6,1,0 days 02:32:41.453000,0 days 00:01:20.934000,234.769,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25890,1100,815,5,11.0,58,1,1,0 days 02:32:41.691000,0 days 00:01:20.235000,236.814,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25891,1100,846,6,8.0,58,9,1,0 days 02:32:42.072000,0 days 00:01:21.173000,234.077,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25892,1100,807,7,6.0,58,8,1,0 days 02:32:43.310000,0 days 00:01:21.124000,234.219,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25893,1100,857,8,4.0,58,12,1,0 days 02:32:43.753000,0 days 00:01:21.335000,233.611,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25894,1100,855,9,2.0,58,16,1,0 days 02:32:44.084000,0 days 00:01:21.819000,232.229,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25895,1100,852,10,1.0,58,15,1,0 days 02:32:44.423000,0 days 00:01:21.789000,232.314,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25896,1100,822,11,0.0,58,17,1,0 days 02:32:44.884000,0 days 00:01:22.233000,231.06,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25897,1100,832,12,0.0,58,3,1,0 days 02:32:44.965000,0 days 00:01:20.467000,236.131,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25898,1100,842,13,0.0,56,7,4,,0 days 00:01:20.995000,234.592,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25899,1100,839,14,0.0,56,11,4,,0 days 00:01:21.203000,233.991,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25900,1100,856,15,0.0,56,10,4,,0 days 00:01:21.183000,234.049,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25901,1100,858,16,0.0,56,13,4,,0 days 00:01:21.456000,233.264,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25902,1100,825,17,0.0,52,14,3,,0 days 00:01:21.685000,232.61,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25903,1100,847,18,0.0,17,18,5,,0 days 00:01:22.680000,229.811,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25904,1100,848,19,0.0,6,19,3,,0 days 00:01:23.349000,227.966,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25905,1100,844,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2023,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+25906,1101,815,1,25.0,51,5,1,0 days 01:32:42.436000,0 days 00:01:44.589000,206.625,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25907,1101,830,2,18.0,51,2,1,0 days 01:32:44.573000,0 days 00:01:44.232000,207.333,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25908,1101,844,3,15.0,51,4,1,0 days 01:33:03.653000,0 days 00:01:44.561000,206.681,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25909,1101,4,4,12.0,51,3,1,0 days 01:33:04.460000,0 days 00:01:44.241000,207.315,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25910,1101,832,5,10.0,51,6,1,0 days 01:33:27.927000,0 days 00:01:45.175000,205.474,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25911,1101,1,6,8.0,51,7,1,0 days 01:33:28.581000,0 days 00:01:45.346000,205.141,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25912,1101,840,7,6.0,51,9,1,0 days 01:33:34.053000,0 days 00:01:45.627000,204.595,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25913,1101,847,8,5.0,51,1,1,0 days 01:33:56.676000,0 days 00:01:43.370000,209.062,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25914,1101,846,9,2.0,51,12,1,0 days 01:34:02.812000,0 days 00:01:45.738000,204.38,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25915,1101,852,10,1.0,51,11,1,0 days 01:34:06.298000,0 days 00:01:45.727000,204.401,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25916,1101,857,11,0.0,51,10,1,0 days 01:34:08.937000,0 days 00:01:45.631000,204.587,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25917,1101,848,12,0.0,51,15,1,0 days 01:34:11.059000,0 days 00:01:45.925000,204.019,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25918,1101,825,13,0.0,51,13,1,0 days 01:34:12.165000,0 days 00:01:45.850000,204.164,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25919,1101,842,14,0.0,51,8,1,0 days 01:34:13.768000,0 days 00:01:45.540000,204.764,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25920,1101,839,15,0.0,51,14,1,0 days 01:34:20.230000,0 days 00:01:45.908000,204.052,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25921,1101,858,16,0.0,51,17,1,0 days 01:34:23.379000,0 days 00:01:46.501000,202.916,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25922,1101,807,17,0.0,50,18,11,,0 days 00:01:46.731000,202.479,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25923,1101,822,18,0.0,50,16,11,,0 days 00:01:46.304000,203.292,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25924,1101,855,19,0.0,36,19,25,,0 days 00:01:47.553000,200.931,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25925,1101,856,20,0.0,9,20,3,,0 days 00:01:48.781000,198.663,2023,4,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+25926,1102,830,1,26.0,57,1,1,0 days 01:27:38.241000,0 days 00:01:29.708000,217.184,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25927,1102,815,2,18.0,57,3,1,0 days 01:27:43.625000,0 days 00:01:30.560000,215.141,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25928,1102,4,3,15.0,57,2,1,0 days 01:28:04.546000,0 days 00:01:30.519000,215.238,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25929,1102,847,4,12.0,57,7,1,0 days 01:28:11.470000,0 days 00:01:31.015000,214.065,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25930,1102,832,5,10.0,57,10,1,0 days 01:28:20.752000,0 days 00:01:31.362000,213.252,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25931,1102,1,6,8.0,57,4,1,0 days 01:28:29.490000,0 days 00:01:30.669000,214.882,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25932,1102,844,7,6.0,57,11,1,0 days 01:28:31.229000,0 days 00:01:31.434000,213.084,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25933,1102,842,8,4.0,57,17,1,0 days 01:28:33.911000,0 days 00:01:31.971000,211.84,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25934,1102,839,9,2.0,57,9,1,0 days 01:28:36.364000,0 days 00:01:31.143000,213.765,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25935,1102,825,10,1.0,57,13,1,0 days 01:28:41.186000,0 days 00:01:31.691000,212.487,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25936,1102,852,11,0.0,57,8,1,0 days 01:28:42.550000,0 days 00:01:31.038000,214.011,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25937,1102,840,12,0.0,57,5,1,0 days 01:28:42.995000,0 days 00:01:30.862000,214.426,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25938,1102,822,13,0.0,57,15,1,0 days 01:28:49.878000,0 days 00:01:31.838000,212.147,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25939,1102,848,14,0.0,57,16,1,0 days 01:28:51.102000,0 days 00:01:31.852000,212.115,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25940,1102,807,15,0.0,57,6,1,0 days 01:28:53.191000,0 days 00:01:30.901000,214.334,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25941,1102,855,16,0.0,57,14,1,0 days 01:28:56.681000,0 days 00:01:31.736000,212.383,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25942,1102,846,17,0.0,57,20,1,0 days 01:29:05.958000,0 days 00:01:32.401000,210.854,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25943,1102,856,18,0.0,57,12,1,0 days 01:29:07.190000,0 days 00:01:31.562000,212.786,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25944,1102,857,19,0.0,56,18,11,,0 days 00:01:32.006000,211.76,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25945,1102,858,20,0.0,56,19,11,,0 days 00:01:32.384000,210.893,2023,5,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+25946,1104,830,1,25.0,78,7,1,0 days 01:48:51.980000,0 days 00:01:16.604000,156.822,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25947,1104,4,2,18.0,78,9,1,0 days 01:49:19.901000,0 days 00:01:16.674000,156.678,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25948,1104,839,3,15.0,78,6,1,0 days 01:49:28.970000,0 days 00:01:16.528000,156.977,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25949,1104,1,4,13.0,78,1,1,0 days 01:49:31.042000,0 days 00:01:15.650000,158.799,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25950,1104,847,5,10.0,78,10,1,0 days 01:49:48.264000,0 days 00:01:16.798000,156.425,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25951,1104,844,6,8.0,78,2,1,0 days 01:49:53.870000,0 days 00:01:15.773000,158.541,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25952,1104,842,7,6.0,78,3,1,0 days 01:49:54.342000,0 days 00:01:15.831000,158.42,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25953,1104,832,8,4.0,78,5,1,0 days 01:49:55.371000,0 days 00:01:16.449000,157.14,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25954,1104,846,9,2.0,77,19,11,,0 days 00:01:17.844000,154.324,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25955,1104,857,10,1.0,77,14,11,,0 days 00:01:17.513000,154.983,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25956,1104,822,11,0.0,77,18,11,,0 days 00:01:17.824000,154.363,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25957,1104,856,12,0.0,77,15,11,,0 days 00:01:17.561000,154.887,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25958,1104,855,13,0.0,77,11,11,,0 days 00:01:16.926000,156.165,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25959,1104,848,14,0.0,77,8,11,,0 days 00:01:16.672000,156.683,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25960,1104,852,15,0.0,76,16,12,,0 days 00:01:17.680000,154.649,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25961,1104,815,16,0.0,76,4,12,,0 days 00:01:16.269000,157.51,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25962,1104,807,17,0.0,76,12,12,,0 days 00:01:16.991000,156.033,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25963,1104,858,18,0.0,76,13,12,,0 days 00:01:17.302000,155.406,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25964,1104,825,19,0.0,70,20,130,,0 days 00:01:18.351000,153.325,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25965,1104,840,20,0.0,53,17,3,,0 days 00:01:17.769000,154.472,2023,6,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+25966,1105,830,1,26.0,66,1,1,0 days 01:27:57.940000,0 days 00:01:16.330000,219.641,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25967,1105,1,2,18.0,66,3,1,0 days 01:28:22.030000,0 days 00:01:16.676000,218.649,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25968,1105,847,3,15.0,66,5,1,0 days 01:28:30.329000,0 days 00:01:17.875000,215.283,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25969,1105,815,4,12.0,66,2,1,0 days 01:28:33.752000,0 days 00:01:16.666000,218.678,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25970,1105,832,5,10.0,66,11,1,0 days 01:28:43.638000,0 days 00:01:18.403000,213.833,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25971,1105,840,6,8.0,66,14,1,0 days 01:29:01.260000,0 days 00:01:18.722000,212.967,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25972,1105,4,7,6.0,66,7,1,0 days 01:29:02.067000,0 days 00:01:18.083000,214.709,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25973,1105,839,8,4.0,66,18,1,0 days 01:29:07.182000,0 days 00:01:18.946000,212.362,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25974,1105,855,9,2.0,66,15,1,0 days 01:29:09.818000,0 days 00:01:18.753000,212.883,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25975,1105,842,10,1.0,66,10,1,0 days 01:29:11.470000,0 days 00:01:18.375000,213.91,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25976,1105,844,11,0.0,66,9,1,0 days 01:29:12.359000,0 days 00:01:18.357000,213.959,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25977,1105,852,12,0.0,66,17,1,0 days 01:29:13.356000,0 days 00:01:18.904000,212.475,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25978,1105,857,13,0.0,65,13,11,,0 days 00:01:18.679000,213.083,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25979,1105,856,14,0.0,65,12,11,,0 days 00:01:18.594000,213.313,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25980,1105,807,15,0.0,65,16,11,,0 days 00:01:18.776000,212.821,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25981,1105,848,16,0.0,65,19,11,,0 days 00:01:19.133000,211.861,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25982,1105,846,17,0.0,65,4,11,,0 days 00:01:17.182000,217.216,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25983,1105,825,18,0.0,65,6,11,,0 days 00:01:18.069000,214.748,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25984,1105,822,19,0.0,65,8,11,,0 days 00:01:18.242000,214.273,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25985,1105,858,20,0.0,65,20,11,,0 days 00:01:19.247000,211.556,2023,7,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+25986,1106,830,1,25.0,70,3,1,0 days 01:33:58.348000,0 days 00:01:15.594000,207.683,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25987,1106,4,2,18.0,70,4,1,0 days 01:34:07.918000,0 days 00:01:15.779000,207.176,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25988,1106,1,3,15.0,70,2,1,0 days 01:34:02.946000,0 days 00:01:15.396000,208.228,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25989,1106,844,4,12.0,70,5,1,0 days 01:34:16.996000,0 days 00:01:15.907000,206.826,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25990,1106,832,5,10.0,70,6,1,0 days 01:34:19.888000,0 days 00:01:15.911000,206.815,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25991,1106,815,6,9.0,70,1,1,0 days 01:34:49.376000,0 days 00:01:14.481000,210.786,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25992,1106,848,7,6.0,70,16,1,0 days 01:34:59.161000,0 days 00:01:16.917000,204.11,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25993,1106,839,8,4.0,70,15,1,0 days 01:35:00.040000,0 days 00:01:16.782000,204.469,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25994,1106,840,9,2.0,70,10,1,0 days 01:35:02.750000,0 days 00:01:16.564000,205.051,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25995,1106,822,10,1.0,70,12,1,0 days 01:35:02.780000,0 days 00:01:16.625000,204.888,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25996,1106,857,11,0.0,70,11,1,0 days 01:35:03.449000,0 days 00:01:16.598000,204.96,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25997,1106,842,12,0.0,70,9,1,0 days 01:35:03.597000,0 days 00:01:16.425000,205.424,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25998,1106,846,13,0.0,70,8,1,0 days 01:35:06.711000,0 days 00:01:16.374000,205.562,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+25999,1106,852,14,0.0,70,14,1,0 days 01:35:11.771000,0 days 00:01:16.666000,204.779,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+26000,1106,807,15,0.0,69,19,11,,0 days 00:01:17.232000,203.278,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+26001,1106,855,16,0.0,69,17,11,,0 days 00:01:17.090000,203.652,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+26002,1106,825,17,0.0,69,7,11,,0 days 00:01:16.126000,206.231,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+26003,1106,856,18,0.0,69,13,11,,0 days 00:01:16.656000,204.805,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+26004,1106,847,19,0.0,53,18,23,,0 days 00:01:17.097000,203.634,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+26005,1106,858,20,0.0,6,20,5,,0 days 00:01:18.437000,200.155,2023,8,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+26006,1107,830,1,26.0,71,1,1,0 days 01:25:33.607000,0 days 00:01:07.012000,231.97,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26007,1107,844,2,18.0,71,5,1,0 days 01:25:38.762000,0 days 00:01:08.820000,225.876,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26008,1107,815,3,15.0,71,2,1,0 days 01:25:50.795000,0 days 00:01:08.111000,228.227,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26009,1107,846,4,12.0,71,4,1,0 days 01:25:59.934000,0 days 00:01:08.739000,226.142,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26010,1107,4,5,10.0,71,8,1,0 days 01:26:03.924000,0 days 00:01:09.108000,224.934,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26011,1107,832,6,8.0,71,6,1,0 days 01:26:04.984000,0 days 00:01:08.880000,225.679,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26012,1107,847,7,6.0,71,10,1,0 days 01:26:22.010000,0 days 00:01:09.283000,224.366,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26013,1107,1,8,4.0,71,9,1,0 days 01:26:22.803000,0 days 00:01:09.160000,224.765,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26014,1107,840,9,2.0,71,3,1,0 days 01:26:32.650000,0 days 00:01:08.463000,227.054,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26015,1107,842,10,1.0,71,7,1,0 days 01:26:41.274000,0 days 00:01:09.046000,225.136,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26016,1107,848,11,0.0,71,11,1,0 days 01:26:53.374000,0 days 00:01:09.560000,223.473,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26017,1107,855,12,0.0,70,14,11,,0 days 00:01:09.786000,222.749,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26018,1107,858,13,0.0,70,12,11,,0 days 00:01:09.611000,223.309,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26019,1107,839,14,0.0,70,15,11,,0 days 00:01:09.797000,222.714,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26020,1107,822,15,0.0,70,18,11,,0 days 00:01:09.940000,222.259,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26021,1107,857,16,0.0,70,17,11,,0 days 00:01:09.862000,222.507,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26022,1107,856,17,0.0,70,16,11,,0 days 00:01:09.852000,222.539,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26023,1107,825,18,0.0,70,19,11,,0 days 00:01:10.176000,221.511,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26024,1107,852,19,0.0,70,13,11,,0 days 00:01:09.620000,223.28,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26025,1107,807,20,0.0,12,20,75,,0 days 00:01:11.066000,218.737,2023,9,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+26026,1108,830,1,26.0,52,1,1,0 days 01:25:16.938000,0 days 00:01:30.275000,234.922,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26027,1108,846,2,18.0,52,2,1,0 days 01:25:20.736000,0 days 00:01:30.543000,234.226,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26028,1108,1,3,15.0,52,3,1,0 days 01:25:23.721000,0 days 00:01:30.545000,234.221,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26029,1108,857,4,12.0,52,4,1,0 days 01:25:24.714000,0 days 00:01:30.850000,233.435,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26030,1108,847,5,10.0,52,6,1,0 days 01:25:28.144000,0 days 00:01:31.124000,232.733,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26031,1108,815,6,8.0,52,5,1,0 days 01:25:29.820000,0 days 00:01:30.914000,233.271,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26032,1108,4,7,6.0,52,9,1,0 days 01:25:34.131000,0 days 00:01:31.338000,232.188,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26033,1108,848,8,4.0,52,8,1,0 days 01:25:34.816000,0 days 00:01:31.273000,232.353,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26034,1108,844,9,2.0,52,7,1,0 days 01:25:35.627000,0 days 00:01:31.255000,232.399,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26035,1108,832,10,1.0,52,10,1,0 days 01:25:36.386000,0 days 00:01:31.366000,232.116,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26036,1108,858,11,0.0,52,13,1,0 days 01:25:40.570000,0 days 00:01:31.699000,231.274,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26037,1108,822,12,0.0,52,16,1,0 days 01:25:42.768000,0 days 00:01:31.852000,230.888,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26038,1108,807,13,0.0,52,15,1,0 days 01:25:43.601000,0 days 00:01:31.776000,231.08,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26039,1108,840,14,0.0,52,11,1,0 days 01:25:44.421000,0 days 00:01:31.508000,231.756,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26040,1108,855,15,0.0,52,14,1,0 days 01:25:46.758000,0 days 00:01:31.769000,231.097,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26041,1108,852,16,0.0,52,17,1,0 days 01:25:48.163000,0 days 00:01:32.084000,230.307,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26042,1108,856,17,0.0,52,18,1,0 days 01:25:50.066000,0 days 00:01:32.353000,229.636,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26043,1108,842,18,0.0,46,12,130,,0 days 00:01:31.539000,231.678,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26044,1108,825,19,0.0,31,19,5,,0 days 00:01:33.356000,227.169,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26045,1108,839,20,0.0,9,20,44,,0 days 00:01:33.941000,225.754,2023,10,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+26046,1109,830,1,26.0,70,1,1,0 days 01:38:08.634000,0 days 00:01:20.504000,195.91,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26047,1109,846,2,18.0,70,4,1,0 days 01:38:42.365000,0 days 00:01:22.178000,191.919,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26048,1109,815,3,15.0,70,5,1,0 days 01:38:46.237000,0 days 00:01:22.295000,191.647,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26049,1109,1,4,12.0,70,2,1,0 days 01:38:47.768000,0 days 00:01:21.601000,193.277,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26050,1109,857,5,10.0,70,8,1,0 days 01:39:11.206000,0 days 00:01:22.736000,190.625,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26051,1109,847,6,8.0,70,3,1,0 days 01:39:14.459000,0 days 00:01:22.158000,191.966,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26052,1109,844,7,6.0,70,6,1,0 days 01:39:18.951000,0 days 00:01:22.469000,191.242,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26053,1109,832,8,4.0,70,7,1,0 days 01:39:19.707000,0 days 00:01:22.584000,190.976,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26054,1109,4,9,2.0,70,9,1,0 days 01:39:24.343000,0 days 00:01:22.745000,190.604,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26055,1109,840,10,1.0,69,11,11,,0 days 00:01:23.425000,189.051,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26056,1109,848,11,0.0,69,18,11,,0 days 00:01:24.051000,187.643,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26057,1109,822,12,0.0,69,14,11,,0 days 00:01:23.651000,188.54,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26058,1109,817,13,0.0,69,17,11,,0 days 00:01:23.934000,187.904,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26059,1109,807,14,0.0,69,13,11,,0 days 00:01:23.573000,188.716,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26060,1109,852,15,0.0,69,10,11,,0 days 00:01:23.269000,189.405,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26061,1109,855,16,0.0,69,15,11,,0 days 00:01:23.743000,188.333,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26062,1109,825,17,0.0,69,16,11,,0 days 00:01:23.864000,188.061,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26063,1109,858,18,0.0,67,12,31,,0 days 00:01:23.496000,188.89,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26064,1109,839,19,0.0,2,0,130,,0 days 00:01:28.217748947,210.58524607730575,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26065,1109,842,20,0.0,1,0,130,,0 days 00:01:28.217748947,210.58524607730575,2023,11,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+26066,1110,830,1,25.0,44,2,1,0 days 01:22:30.450000,0 days 00:01:48.922000,231.49,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26067,1110,815,2,18.0,44,6,1,0 days 01:22:52.755000,0 days 00:01:50.308000,228.581,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26068,1110,844,3,15.0,44,7,1,0 days 01:23:02.709000,0 days 00:01:50.436000,228.316,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26069,1110,1,4,13.0,44,1,1,0 days 01:23:20.121000,0 days 00:01:47.305000,234.978,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26070,1110,4,5,10.0,44,13,1,0 days 01:23:26.634000,0 days 00:01:50.938000,227.283,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26071,1110,847,6,8.0,44,11,1,0 days 01:23:33.551000,0 days 00:01:50.603000,227.972,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26072,1110,846,7,6.0,44,18,1,0 days 01:23:44.169000,0 days 00:01:51.682000,225.769,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26073,1110,839,8,4.0,44,8,1,0 days 01:23:45.169000,0 days 00:01:50.439000,228.31,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26074,1110,840,9,2.0,44,16,1,0 days 01:23:49.790000,0 days 00:01:51.297000,226.55,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26075,1110,852,10,1.0,44,17,1,0 days 01:23:50.671000,0 days 00:01:51.394000,226.353,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26076,1110,842,11,0.0,44,12,1,0 days 01:23:53.534000,0 days 00:01:50.911000,227.339,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26077,1110,822,12,0.0,44,10,1,0 days 01:23:55.641000,0 days 00:01:50.515000,228.153,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26078,1110,855,13,0.0,44,5,1,0 days 01:24:05.891000,0 days 00:01:50.188000,228.83,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26079,1110,848,14,0.0,44,3,1,0 days 01:24:06.634000,0 days 00:01:49.841000,229.553,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26080,1110,825,15,0.0,44,14,1,0 days 01:24:12.204000,0 days 00:01:50.993000,227.171,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26081,1110,817,16,0.0,44,15,1,0 days 01:24:13.521000,0 days 00:01:50.994000,227.169,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26082,1110,858,17,0.0,44,9,1,0 days 01:24:14.926000,0 days 00:01:50.486000,228.213,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26083,1110,807,18,0.0,44,4,1,0 days 01:24:20.900000,0 days 00:01:49.907000,229.415,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26084,1110,832,19,0.0,23,19,130,,0 days 00:01:53.138000,222.864,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26085,1110,857,20,0.0,0,0,130,,0 days 00:01:28.217748947,210.58524607730575,2023,12,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+26086,1111,830,1,25.0,72,2,1,0 days 02:24:04.411000,0 days 00:01:13.889000,207.505,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26087,1111,4,2,19.0,72,1,1,0 days 02:24:08.155000,0 days 00:01:13.837000,207.651,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26088,1111,842,3,15.0,72,7,1,0 days 02:24:11.469000,0 days 00:01:14.441000,205.967,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26089,1111,815,4,12.0,72,4,1,0 days 02:24:15.093000,0 days 00:01:14.231000,206.549,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26090,1111,832,5,10.0,72,13,1,0 days 02:24:16.952000,0 days 00:01:14.934000,204.612,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26091,1111,1,6,8.0,72,3,1,0 days 02:24:17.620000,0 days 00:01:13.904000,207.463,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26092,1111,846,7,6.0,72,6,1,0 days 02:24:17.643000,0 days 00:01:14.390000,206.108,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26093,1111,848,8,4.0,72,8,1,0 days 02:24:19.566000,0 days 00:01:14.468000,205.892,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26094,1111,857,9,2.0,72,5,1,0 days 02:24:20.991000,0 days 00:01:14.299000,206.36,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26095,1111,839,10,1.0,72,10,1,0 days 02:24:22.757000,0 days 00:01:14.570000,205.61,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26096,1111,840,11,0.0,72,15,1,0 days 02:24:24.498000,0 days 00:01:15.171000,203.966,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26097,1111,807,12,0.0,72,9,1,0 days 02:24:25.251000,0 days 00:01:14.472000,205.881,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26098,1111,859,13,0.0,72,12,1,0 days 02:24:30.558000,0 days 00:01:14.820000,204.923,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26099,1111,822,14,0.0,72,11,1,0 days 02:24:31.799000,0 days 00:01:14.698000,205.258,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26100,1111,852,15,0.0,72,18,1,0 days 02:24:42.344000,0 days 00:01:16.253000,201.072,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26101,1111,825,16,0.0,72,17,1,0 days 02:24:39.515000,0 days 00:01:15.489000,203.107,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26102,1111,847,17,0.0,72,14,1,0 days 02:25:00.165000,0 days 00:01:15.124000,204.094,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26103,1111,855,18,0.0,62,16,3,,0 days 00:01:15.417000,203.301,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26104,1111,844,19,0.0,41,19,140,,0 days 00:01:17.277000,198.408,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26105,1111,858,20,0.0,14,20,3,,0 days 00:01:17.399000,198.095,2023,13,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+26106,1112,830,1,25.0,51,2,1,0 days 01:13:41.143000,0 days 00:01:25.240000,244.659,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26107,1112,815,2,18.0,51,4,1,0 days 01:13:47.207000,0 days 00:01:25.522000,243.853,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26108,1112,832,3,15.0,51,3,1,0 days 01:13:52.336000,0 days 00:01:25.501000,243.912,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26109,1112,844,4,12.0,51,5,1,0 days 01:13:52.520000,0 days 00:01:25.580000,243.687,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26110,1112,847,5,10.0,51,9,1,0 days 01:14:04.171000,0 days 00:01:25.847000,242.929,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26111,1112,1,6,8.0,51,6,1,0 days 01:14:23.822000,0 days 00:01:25.582000,243.682,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26112,1112,848,7,6.0,51,16,1,0 days 01:14:26.249000,0 days 00:01:26.389000,241.405,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26113,1112,846,8,4.0,51,14,1,0 days 01:14:26.592000,0 days 00:01:26.144000,242.092,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26114,1112,4,9,2.0,51,13,1,0 days 01:14:27.437000,0 days 00:01:26.105000,242.201,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26115,1112,822,10,1.0,51,12,1,0 days 01:14:45.199000,0 days 00:01:25.988000,242.531,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26116,1112,859,11,0.0,51,8,1,0 days 01:14:51.781000,0 days 00:01:25.842000,242.944,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26117,1112,857,12,0.0,51,1,1,0 days 01:14:54.217000,0 days 00:01:25.072000,245.142,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26118,1112,858,13,0.0,51,18,1,0 days 01:14:59.700000,0 days 00:01:26.840000,240.152,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26119,1112,855,14,0.0,51,11,1,0 days 01:15:01.307000,0 days 00:01:25.983000,242.545,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26120,1112,842,15,0.0,51,7,1,0 days 01:15:03.653000,0 days 00:01:25.758000,243.181,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26121,1112,840,16,0.0,51,17,1,0 days 01:15:08.409000,0 days 00:01:26.617000,240.77,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26122,1112,807,17,0.0,50,10,11,,0 days 00:01:25.894000,242.796,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26123,1112,825,18,0.0,50,15,11,,0 days 00:01:26.278000,241.716,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26124,1112,839,19,0.0,39,19,38,,0 days 00:01:26.963000,239.812,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26125,1112,852,20,0.0,0,0,5,,0 days 00:01:28.217748947,210.58524607730575,2023,14,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+26126,1113,832,1,25.0,62,7,1,0 days 01:46:37.418000,0 days 00:01:37.666000,182.089,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26127,1113,846,2,18.0,62,8,1,0 days 01:46:38.230000,0 days 00:01:38.046000,181.384,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26128,1113,1,3,16.0,62,1,1,0 days 01:46:38.687000,0 days 00:01:35.867000,185.507,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26129,1113,844,4,12.0,62,11,1,0 days 01:46:58.595000,0 days 00:01:38.275000,180.961,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26130,1113,830,5,10.0,62,4,1,0 days 01:46:58.859000,0 days 00:01:36.575000,184.147,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26131,1113,842,6,8.0,62,12,1,0 days 01:47:15.859000,0 days 00:01:38.277000,180.957,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26132,1113,857,7,6.0,62,13,1,0 days 01:47:18.897000,0 days 00:01:38.492000,180.562,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26133,1113,815,8,4.0,62,5,1,0 days 01:47:36.952000,0 days 00:01:37.108000,183.136,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26134,1113,859,9,2.0,62,15,1,0 days 01:47:43.336000,0 days 00:01:39.028000,179.585,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26135,1113,825,10,1.0,62,10,1,0 days 01:47:49.534000,0 days 00:01:38.107000,181.271,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26136,1113,848,11,0.0,62,6,1,0 days 01:47:50.835000,0 days 00:01:37.342000,182.696,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26137,1113,855,12,0.0,62,16,1,0 days 01:48:01.067000,0 days 00:01:39.316000,179.064,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26138,1113,807,13,0.0,62,17,1,0 days 01:48:03.619000,0 days 00:01:39.923000,177.977,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26139,1113,858,14,0.0,62,14,1,0 days 01:48:04.307000,0 days 00:01:38.531000,180.491,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26140,1113,4,15,0.0,62,3,1,0 days 01:48:05.021000,0 days 00:01:36.456000,184.374,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26141,1113,847,16,0.0,61,2,3,,0 days 00:01:36.273000,184.724,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26142,1113,822,17,0.0,51,9,39,,0 days 00:01:38.075000,181.33,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26143,1113,839,18,0.0,42,18,6,,0 days 00:01:39.930000,177.964,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26144,1113,852,19,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26145,1113,840,20,0.0,0,0,54,,0 days 00:01:28.217748947,210.58524607730575,2023,15,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+26146,1114,830,1,26.0,53,1,1,0 days 01:30:58.421000,0 days 00:01:34.183000,221.963,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26147,1114,846,2,18.0,53,2,1,0 days 01:31:17.808000,0 days 00:01:35.247000,219.484,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26148,1114,857,3,15.0,53,5,1,0 days 01:31:34.915000,0 days 00:01:36.328000,217.021,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26149,1114,844,4,12.0,53,6,1,0 days 01:31:42.419000,0 days 00:01:36.362000,216.944,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26150,1114,1,5,10.0,53,3,1,0 days 01:31:47.797000,0 days 00:01:35.611000,218.648,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26151,1114,832,6,8.0,53,4,1,0 days 01:31:48.642000,0 days 00:01:36.187000,217.339,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26152,1114,847,7,6.0,53,11,1,0 days 01:31:56.080000,0 days 00:01:37.653000,214.076,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26153,1114,4,8,4.0,53,8,1,0 days 01:32:13.146000,0 days 00:01:37.203000,215.067,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26154,1114,839,9,2.0,53,10,1,0 days 01:32:18.099000,0 days 00:01:37.398000,214.636,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26155,1114,842,10,1.0,53,7,1,0 days 01:32:21.576000,0 days 00:01:36.371000,216.924,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26156,1114,859,11,0.0,52,15,11,,0 days 00:01:38.267000,212.738,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26157,1114,852,12,0.0,52,12,11,,0 days 00:01:37.768000,213.824,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26158,1114,855,13,0.0,52,13,11,,0 days 00:01:37.791000,213.774,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26159,1114,807,14,0.0,52,9,11,,0 days 00:01:37.250000,214.963,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26160,1114,825,15,0.0,52,14,11,,0 days 00:01:37.842000,213.662,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26161,1114,848,16,0.0,26,18,130,,0 days 00:01:39.185000,210.769,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26162,1114,858,17,0.0,22,16,130,,0 days 00:01:38.848000,211.488,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26163,1114,840,18,0.0,20,17,65,,0 days 00:01:39.050000,211.057,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26164,1114,815,19,0.0,15,19,130,,0 days 00:01:39.704000,209.672,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26165,1114,822,20,0.0,7,20,130,,0 days 00:02:02.755000,170.3,2023,16,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+26166,1115,830,1,26.0,57,1,1,0 days 01:27:39.168000,0 days 00:01:24.319000,231.364,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26167,1115,857,2,18.0,57,3,1,0 days 01:27:44.001000,0 days 00:01:24.921000,229.724,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26168,1115,846,3,15.0,57,2,1,0 days 01:27:45.137000,0 days 00:01:24.842000,229.938,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26169,1115,847,4,12.0,57,5,1,0 days 01:28:13.287000,0 days 00:01:25.770000,227.45,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26170,1115,844,5,10.0,57,4,1,0 days 01:28:18.144000,0 days 00:01:24.992000,229.532,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26171,1115,4,6,8.0,57,6,1,0 days 01:28:28.200000,0 days 00:01:26.045000,226.723,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26172,1115,839,7,6.0,57,11,1,0 days 01:28:41.558000,0 days 00:01:26.450000,225.661,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26173,1115,822,8,4.0,57,13,1,0 days 01:28:45.731000,0 days 00:01:26.652000,225.135,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26174,1115,855,9,2.0,57,9,1,0 days 01:28:55.295000,0 days 00:01:26.323000,225.993,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26175,1115,815,10,1.0,57,7,1,0 days 01:28:59.349000,0 days 00:01:26.220000,226.263,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26176,1115,840,11,0.0,57,10,1,0 days 01:29:00.820000,0 days 00:01:26.352000,225.917,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26177,1115,842,12,0.0,57,8,1,0 days 01:29:01.468000,0 days 00:01:26.310000,226.027,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26178,1115,848,13,0.0,57,14,1,0 days 01:29:10.182000,0 days 00:01:26.666000,225.098,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26179,1115,825,14,0.0,56,15,11,,0 days 00:01:27.067000,224.061,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26180,1115,852,15,0.0,56,17,11,,0 days 00:01:27.174000,223.786,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26181,1115,807,16,0.0,56,12,11,,0 days 00:01:26.489000,225.559,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26182,1115,859,17,0.0,56,16,11,,0 days 00:01:27.113000,223.943,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26183,1115,858,18,0.0,40,18,139,,0 days 00:01:27.983000,221.729,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26184,1115,1,19,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26185,1115,832,20,0.0,0,0,95,,0 days 00:01:28.217748947,210.58524607730575,2023,17,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 17:00:00
+26186,1116,830,1,25.0,56,9,1,0 days 01:35:21.362000,0 days 00:01:40.028000,198.412,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26187,1116,846,2,18.0,56,8,1,0 days 01:35:32.092000,0 days 00:01:39.985000,198.497,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26188,1116,832,3,15.0,56,10,1,0 days 01:35:36.496000,0 days 00:01:40.034000,198.4,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26189,1116,815,4,12.0,56,5,1,0 days 01:35:39.822000,0 days 00:01:39.737000,198.991,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26190,1116,847,5,10.0,56,3,1,0 days 01:35:46.361000,0 days 00:01:39.393000,199.68,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26191,1116,842,6,8.0,56,11,1,0 days 01:36:09.358000,0 days 00:01:40.412000,197.653,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26192,1116,840,7,6.0,56,6,1,0 days 01:36:10.058000,0 days 00:01:39.908000,198.65,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26193,1116,852,8,5.0,56,1,1,0 days 01:36:35.747000,0 days 00:01:38.139000,202.231,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26194,1116,848,9,2.0,56,15,1,0 days 01:36:48.076000,0 days 00:01:41.371000,195.783,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26195,1116,858,10,1.0,56,14,1,0 days 01:36:49.360000,0 days 00:01:41.238000,196.041,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26196,1116,807,11,0.0,56,12,1,0 days 01:36:51.266000,0 days 00:01:40.925000,196.648,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26197,1116,822,12,0.0,56,18,1,0 days 01:36:59.963000,0 days 00:01:41.972000,194.629,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26198,1116,855,13,0.0,55,17,11,,0 days 00:01:41.879000,194.807,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26199,1116,825,14,0.0,55,16,11,,0 days 00:01:41.506000,195.523,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26200,1116,817,15,0.0,55,2,11,,0 days 00:01:39.366000,199.734,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26201,1116,4,16,0.0,49,7,140,,0 days 00:01:39.954000,198.559,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26202,1116,857,17,0.0,10,19,21,,0 days 00:01:42.705000,193.24,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26203,1116,839,18,0.0,6,20,130,,0 days 00:01:44.789000,189.397,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26204,1116,1,19,0.0,56,4,2,,0 days 00:01:39.582000,199.301,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26205,1116,844,20,0.0,56,0,2,,0 days 00:01:28.217748947,210.58524607730575,2023,18,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+26206,1117,830,1,25.0,71,2,1,0 days 02:02:30.814000,0 days 00:01:21.644000,189.78,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26207,1117,1,2,19.0,71,1,1,0 days 02:02:44.689000,0 days 00:01:21.334000,190.503,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26208,1117,844,3,15.0,71,4,1,0 days 02:02:53.938000,0 days 00:01:22.332000,188.194,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26209,1117,832,4,12.0,71,6,1,0 days 02:02:57.968000,0 days 00:01:22.539000,187.722,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26210,1117,846,5,10.0,71,3,1,0 days 02:03:04.080000,0 days 00:01:21.944000,189.085,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26211,1117,847,6,8.0,71,10,1,0 days 02:03:11.834000,0 days 00:01:22.780000,187.175,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26212,1117,817,7,6.0,71,7,1,0 days 02:03:12.384000,0 days 00:01:22.679000,187.404,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26213,1117,857,8,4.0,71,8,1,0 days 02:03:13.918000,0 days 00:01:22.760000,187.22,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26214,1117,848,9,2.0,71,9,1,0 days 02:03:19.387000,0 days 00:01:22.773000,187.191,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26215,1117,839,10,1.0,71,11,1,0 days 02:03:33.693000,0 days 00:01:22.976000,186.733,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26216,1117,842,11,0.0,71,16,1,0 days 02:03:37.022000,0 days 00:01:23.230000,186.163,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26217,1117,852,12,0.0,71,5,1,0 days 02:03:49.796000,0 days 00:01:22.501000,187.808,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26218,1117,807,13,0.0,71,15,1,0 days 02:03:51.123000,0 days 00:01:23.222000,186.181,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26219,1117,855,14,0.0,71,19,1,0 days 02:03:52.490000,0 days 00:01:23.567000,185.412,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26220,1117,822,15,0.0,71,14,1,0 days 02:03:56.411000,0 days 00:01:23.166000,186.306,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26221,1117,858,16,0.0,70,12,31,,0 days 00:01:23.003000,186.672,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26222,1117,840,17,0.0,66,17,130,,0 days 00:01:23.257000,186.103,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26223,1117,4,18,0.0,47,18,54,,0 days 00:01:23.531000,185.492,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26224,1117,825,19,0.0,31,13,3,,0 days 00:01:23.146000,186.351,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26225,1117,815,20,0.0,1,0,130,,0 days 00:01:28.217748947,210.58524607730575,2023,19,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+26226,1118,830,1,25.0,71,2,1,0 days 01:56:48.894000,0 days 00:01:13.422000,211.277,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26227,1118,846,2,19.0,71,1,1,0 days 01:56:57.171000,0 days 00:01:12.486000,214.005,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26228,1118,4,3,15.0,71,10,1,0 days 01:57:23.049000,0 days 00:01:14.442000,208.382,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26229,1118,815,4,12.0,71,5,1,0 days 01:57:23.102000,0 days 00:01:14.124000,209.276,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26230,1118,840,5,10.0,71,4,1,0 days 01:57:29.739000,0 days 00:01:14.007000,209.607,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26231,1118,832,6,8.0,71,9,1,0 days 01:57:39.082000,0 days 00:01:14.406000,208.483,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26232,1118,842,7,6.0,71,11,1,0 days 01:57:44.987000,0 days 00:01:14.521000,208.161,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26233,1118,1,8,4.0,71,12,1,0 days 01:57:51.753000,0 days 00:01:14.739000,207.554,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26234,1118,852,9,2.0,71,7,1,0 days 01:57:58.774000,0 days 00:01:14.231000,208.974,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26235,1118,839,10,1.0,70,6,11,,0 days 00:01:14.206000,209.045,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26236,1118,858,11,0.0,70,16,11,,0 days 00:01:15.738000,204.816,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26237,1118,807,12,0.0,70,14,11,,0 days 00:01:15.036000,206.732,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26238,1118,817,13,0.0,70,3,11,,0 days 00:01:13.866000,210.007,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26239,1118,857,14,0.0,69,8,12,,0 days 00:01:14.310000,208.752,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26240,1118,847,15,0.0,57,13,25,,0 days 00:01:14.934000,207.014,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26241,1118,822,16,0.0,39,15,5,,0 days 00:01:15.731000,204.835,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26242,1118,855,17,0.0,22,17,5,,0 days 00:01:16.232000,203.489,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26243,1118,825,18,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26244,1118,848,19,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26245,1118,844,20,0.0,0,0,5,,0 days 00:01:28.217748947,210.58524607730575,2023,20,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+26246,1119,830,1,25.0,50,2,1,0 days 01:29:08.289000,0 days 00:01:35.614000,233.476,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26247,1119,844,2,18.0,50,3,1,0 days 01:29:10.359000,0 days 00:01:35.669000,233.342,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26248,1119,815,3,15.0,50,5,1,0 days 01:29:10.530000,0 days 00:01:35.939000,232.685,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26249,1119,839,4,12.0,50,10,1,0 days 01:29:26.954000,0 days 00:01:36.637000,231.004,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26250,1119,840,5,10.0,50,9,1,0 days 01:29:28.356000,0 days 00:01:36.584000,231.131,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26251,1119,832,6,8.0,50,6,1,0 days 01:29:29.123000,0 days 00:01:35.984000,232.576,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26252,1119,1,7,6.0,50,4,1,0 days 01:29:30.044000,0 days 00:01:35.716000,233.227,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26253,1119,847,8,4.0,50,7,1,0 days 01:29:31.380000,0 days 00:01:36.071000,232.365,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26254,1119,4,9,2.0,50,8,1,0 days 01:29:34.253000,0 days 00:01:36.559000,231.191,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26255,1119,857,10,2.0,50,1,1,0 days 01:29:37.785000,0 days 00:01:35.490000,233.779,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26256,1119,842,11,0.0,50,11,1,0 days 01:29:42.559000,0 days 00:01:36.913000,230.346,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26257,1119,848,12,0.0,50,13,1,0 days 01:29:51.687000,0 days 00:01:37.357000,229.296,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26258,1119,825,13,0.0,50,15,1,0 days 01:29:53.114000,0 days 00:01:37.455000,229.065,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26259,1119,817,14,0.0,50,12,1,0 days 01:29:56.814000,0 days 00:01:37.108000,229.884,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26260,1119,855,15,0.0,50,14,1,0 days 01:29:58.451000,0 days 00:01:37.375000,229.253,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26261,1119,858,16,0.0,50,19,1,0 days 01:29:59.171000,0 days 00:01:37.740000,228.397,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26262,1119,822,17,0.0,50,16,1,0 days 01:30:33.639000,0 days 00:01:37.562000,228.814,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26263,1119,852,18,0.0,46,18,6,,0 days 00:01:37.587000,228.755,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26264,1119,807,19,0.0,45,17,5,,0 days 00:01:37.565000,228.807,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26265,1119,846,20,0.0,2,20,3,,0 days 00:01:59.327000,187.079,2023,21,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+26266,1120,830,1,26.0,58,1,1,0 days 01:27:02.624000,0 days 00:01:26.993000,218.541,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26267,1120,844,2,18.0,58,8,1,0 days 01:27:20.617000,0 days 00:01:28.199000,215.553,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26268,1120,847,3,15.0,58,7,1,0 days 01:27:22.952000,0 days 00:01:28.187000,215.582,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26269,1120,815,4,12.0,58,2,1,0 days 01:27:24.077000,0 days 00:01:27.493000,217.292,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26270,1120,846,5,10.0,58,6,1,0 days 01:27:26.908000,0 days 00:01:28.164000,215.639,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26271,1120,857,6,8.0,58,5,1,0 days 01:27:34.111000,0 days 00:01:28.138000,215.702,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26272,1120,4,7,6.0,58,9,1,0 days 01:27:42.136000,0 days 00:01:28.256000,215.414,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26273,1120,852,8,4.0,58,16,1,0 days 01:27:45.712000,0 days 00:01:29.256000,213.0,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26274,1120,1,9,2.0,58,10,1,0 days 01:27:47.048000,0 days 00:01:28.372000,215.131,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26275,1120,840,10,1.0,58,4,1,0 days 01:27:58.256000,0 days 00:01:28.050000,215.918,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26276,1120,817,11,0.0,58,11,1,0 days 01:27:58.853000,0 days 00:01:28.571000,214.648,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26277,1120,839,12,0.0,58,20,1,0 days 01:28:08.997000,0 days 00:01:30.033000,211.162,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26278,1120,842,13,0.0,58,14,1,0 days 01:28:12.984000,0 days 00:01:29.016000,213.575,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26279,1120,848,14,0.0,58,3,1,0 days 01:28:15.808000,0 days 00:01:27.845000,216.422,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26280,1120,807,15,0.0,58,15,1,0 days 01:28:26.320000,0 days 00:01:29.217000,213.093,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26281,1120,858,16,0.0,58,12,1,0 days 01:28:30.415000,0 days 00:01:28.580000,214.626,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26282,1120,855,17,0.0,58,13,1,0 days 01:28:32.046000,0 days 00:01:28.746000,214.224,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26283,1120,832,18,0.0,57,17,31,,0 days 00:01:29.452000,212.534,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26284,1120,822,19,0.0,57,18,11,,0 days 00:01:29.863000,211.562,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
+26285,1120,825,20,0.0,57,19,11,,0 days 00:01:29.934000,211.395,2023,22,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00

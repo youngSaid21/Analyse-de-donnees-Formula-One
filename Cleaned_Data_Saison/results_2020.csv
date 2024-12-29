@@ -1,0 +1,341 @@
+resultId,raceId,driverId,positionOrder,points,laps,rank,statusId,time_,fastestLapTime_,fastestLapSpeed_,year,round,circuitId,name,url,date & time
+24626,1031,822,1,25.0,71,2,1,0 days 01:30:55.739000,0 days 00:01:07.657000,229.758,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24627,1031,844,2,18.0,71,4,1,0 days 01:30:58.439000,0 days 00:01:07.901000,228.933,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24628,1031,846,3,16.0,71,1,1,0 days 01:31:01.230000,0 days 00:01:07.475000,230.378,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24629,1031,1,4,12.0,71,3,1,0 days 01:31:01.428000,0 days 00:01:07.712000,229.572,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24630,1031,832,5,10.0,71,5,1,0 days 01:31:04.642000,0 days 00:01:07.974000,228.687,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24631,1031,815,6,8.0,71,6,1,0 days 01:31:10.831000,0 days 00:01:08.305000,227.579,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24632,1031,842,7,6.0,71,11,1,0 days 01:31:12.421000,0 days 00:01:09.025000,225.205,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24633,1031,839,8,4.0,71,10,1,0 days 01:31:13.195000,0 days 00:01:08.932000,225.509,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24634,1031,841,9,2.0,71,9,1,0 days 01:31:16.885000,0 days 00:01:08.796000,225.954,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24635,1031,20,10,1.0,71,8,1,0 days 01:31:20.284000,0 days 00:01:08.623000,226.524,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24636,1031,849,11,0.0,71,16,1,0 days 01:31:27.389000,0 days 00:01:09.662000,223.146,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24637,1031,826,12,0.0,69,13,22,,0 days 00:01:09.135000,224.847,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24638,1031,848,13,0.0,67,7,40,,0 days 00:01:08.432000,227.156,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24639,1031,8,14,0.0,53,12,36,,0 days 00:01:09.031000,225.185,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24640,1031,847,15,0.0,49,14,32,,0 days 00:01:09.317000,224.256,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24641,1031,154,16,0.0,49,17,23,,0 days 00:01:10.228000,221.347,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24642,1031,825,17,0.0,24,20,23,,0 days 00:01:10.720000,219.807,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24643,1031,840,18,0.0,20,18,5,,0 days 00:01:10.326000,221.039,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24644,1031,817,19,0.0,17,19,25,,0 days 00:01:10.610000,220.15,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24645,1031,830,20,0.0,11,15,40,,0 days 00:01:09.351000,224.146,2020,1,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,2020-07-05 13:10:00
+24646,1032,1,1,25.0,71,3,1,0 days 01:22:50.683000,0 days 00:01:06.719000,232.989,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24647,1032,822,2,18.0,71,7,1,0 days 01:23:04.402000,0 days 00:01:07.534000,230.177,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24648,1032,830,3,15.0,71,2,1,0 days 01:23:24.381000,0 days 00:01:06.145000,235.01,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24649,1032,848,4,12.0,71,6,1,0 days 01:23:35.083000,0 days 00:01:07.299000,230.981,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24650,1032,846,5,10.0,71,5,1,0 days 01:23:52.153000,0 days 00:01:07.193000,231.345,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24651,1032,815,6,8.0,71,4,1,0 days 01:23:53.070000,0 days 00:01:07.188000,231.362,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24652,1032,840,7,6.0,71,10,1,0 days 01:23:53.136000,0 days 00:01:07.833000,229.162,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24653,1032,817,8,4.0,71,9,1,0 days 01:23:53.274000,0 days 00:01:07.832000,229.166,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24654,1032,832,9,3.0,70,1,11,,0 days 00:01:05.619000,236.894,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24655,1032,826,10,1.0,70,13,11,,0 days 00:01:08.378000,227.336,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24656,1032,8,11,0.0,70,14,11,,0 days 00:01:08.382000,227.322,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24657,1032,825,12,0.0,70,11,11,,0 days 00:01:08.009000,228.569,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24658,1032,154,13,0.0,70,12,11,,0 days 00:01:08.047000,228.442,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24659,1032,841,14,0.0,70,15,11,,0 days 00:01:08.512000,226.891,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24660,1032,842,15,0.0,70,8,11,,0 days 00:01:07.827000,229.183,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24661,1032,847,16,0.0,69,16,12,,0 days 00:01:08.601000,226.597,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24662,1032,849,17,0.0,69,17,12,,0 days 00:01:08.806000,225.922,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24663,1032,839,18,0.0,25,18,25,,0 days 00:01:09.321000,224.243,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24664,1032,844,19,0.0,4,19,130,,0 days 00:01:35.379000,162.979,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24665,1032,20,20,0.0,1,0,130,,0 days 00:01:28.217748947,210.58524607730575,2020,2,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,2020-07-12 13:10:00
+24666,1033,1,1,26.0,70,1,1,0 days 01:36:12.473000,0 days 00:01:16.627000,205.823,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24667,1033,830,2,18.0,70,4,1,0 days 01:36:21.175000,0 days 00:01:19.184000,199.176,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24668,1033,822,3,15.0,70,2,1,0 days 01:36:21.925000,0 days 00:01:17.665000,203.072,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24669,1033,840,4,12.0,70,3,1,0 days 01:37:10.052000,0 days 00:01:18.973000,199.708,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24670,1033,848,5,10.0,70,5,1,0 days 01:37:30.789000,0 days 00:01:19.440000,198.534,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24671,1033,20,6,8.0,69,14,11,,0 days 00:01:20.363000,196.254,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24672,1033,815,7,6.0,69,10,11,,0 days 00:01:20.090000,196.923,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24673,1033,817,8,4.0,69,7,11,,0 days 00:01:19.532000,198.305,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24674,1033,832,9,2.0,69,15,11,,0 days 00:01:20.477000,195.976,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24675,1033,825,10,1.0,69,6,11,,0 days 00:01:19.457000,198.492,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24676,1033,844,11,0.0,69,16,11,,0 days 00:01:20.821000,195.142,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24677,1033,826,12,0.0,69,18,11,,0 days 00:01:20.946000,194.841,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24678,1033,846,13,0.0,69,8,11,,0 days 00:01:19.945000,197.28,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24679,1033,839,14,0.0,69,13,11,,0 days 00:01:20.261000,196.503,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24680,1033,8,15,0.0,69,17,11,,0 days 00:01:20.889000,194.978,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24681,1033,154,16,0.0,69,12,11,,0 days 00:01:20.232000,196.574,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24682,1033,841,17,0.0,69,11,11,,0 days 00:01:20.096000,196.908,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24683,1033,847,18,0.0,69,9,11,,0 days 00:01:19.984000,197.184,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24684,1033,849,19,0.0,65,19,15,,0 days 00:01:21.198000,194.236,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24685,1033,842,20,0.0,15,20,5,,0 days 00:01:23.939000,187.893,2020,3,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,2020-07-19 13:10:00
+24686,1034,1,1,25.0,52,3,1,0 days 01:28:01.283000,0 days 00:01:29.238000,237.652,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24687,1034,830,2,19.0,52,1,1,0 days 01:28:07.139000,0 days 00:01:27.097000,243.494,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24688,1034,844,3,15.0,52,9,1,0 days 01:28:19.757000,0 days 00:01:29.813000,236.13,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24689,1034,817,4,12.0,52,5,1,0 days 01:28:20.933000,0 days 00:01:29.482000,237.004,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24690,1034,846,5,10.0,52,12,1,0 days 01:28:23.560000,0 days 00:01:30.058000,235.488,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24691,1034,839,6,8.0,52,6,1,0 days 01:28:28.220000,0 days 00:01:29.491000,236.98,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24692,1034,842,7,6.0,52,7,1,0 days 01:28:32.471000,0 days 00:01:29.603000,236.684,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24693,1034,848,8,4.0,52,2,1,0 days 01:28:33.953000,0 days 00:01:28.689000,239.123,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24694,1034,840,9,2.0,52,13,1,0 days 01:28:38.594000,0 days 00:01:30.475000,234.402,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24695,1034,20,10,1.0,52,15,1,0 days 01:28:43.140000,0 days 00:01:30.537000,234.242,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24696,1034,822,11,0.0,52,4,1,0 days 01:28:43.450000,0 days 00:01:29.265000,237.58,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24697,1034,847,12,0.0,52,16,1,0 days 01:28:53.287000,0 days 00:01:30.862000,233.404,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24698,1034,832,13,0.0,52,10,1,0 days 01:28:54.653000,0 days 00:01:29.948000,235.776,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24699,1034,841,14,0.0,52,17,1,0 days 01:28:55.488000,0 days 00:01:30.977000,233.109,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24700,1034,849,15,0.0,52,14,1,0 days 01:28:55.832000,0 days 00:01:30.501000,234.335,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24701,1034,154,16,0.0,52,8,1,0 days 01:28:56.333000,0 days 00:01:29.782000,236.212,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24702,1034,8,17,0.0,51,11,11,,0 days 00:01:29.973000,235.71,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24703,1034,826,18,0.0,11,18,3,,0 days 00:01:32.443000,229.412,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24704,1034,825,19,0.0,1,0,4,,0 days 00:01:28.217748947,210.58524607730575,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24705,1034,807,20,0.0,0,0,131,,0 days 00:01:28.217748947,210.58524607730575,2020,4,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,2020-08-02 13:10:00
+24706,1035,830,1,25.0,52,2,1,0 days 01:19:41.993000,0 days 00:01:29.465000,237.049,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24707,1035,1,2,19.0,52,1,1,0 days 01:19:53.319000,0 days 00:01:28.451000,239.766,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24708,1035,822,3,15.0,52,4,1,0 days 01:20:01.224000,0 days 00:01:29.765000,236.256,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24709,1035,844,4,12.0,52,8,1,0 days 01:20:11.282000,0 days 00:01:30.552000,234.203,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24710,1035,848,5,10.0,52,3,1,0 days 01:20:21.139000,0 days 00:01:29.477000,237.017,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24711,1035,840,6,8.0,52,15,1,0 days 01:20:24.531000,0 days 00:01:30.877000,233.365,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24712,1035,807,7,6.0,52,6,1,0 days 01:20:37.944000,0 days 00:01:30.087000,235.412,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24713,1035,839,8,4.0,52,10,1,0 days 01:20:46.766000,0 days 00:01:30.575000,234.144,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24714,1035,846,9,2.0,52,11,1,0 days 01:20:47.537000,0 days 00:01:30.698000,233.826,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24715,1035,826,10,1.0,52,12,1,0 days 01:20:51.662000,0 days 00:01:30.738000,233.723,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24716,1035,842,11,0.0,52,7,1,0 days 01:20:52.635000,0 days 00:01:30.092000,235.399,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24717,1035,20,12,0.0,52,13,1,0 days 01:20:55.363000,0 days 00:01:30.785000,233.602,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24718,1035,832,13,0.0,52,9,1,0 days 01:20:56.063000,0 days 00:01:30.556000,234.193,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24719,1035,817,14,0.0,51,16,11,,0 days 00:01:31.168000,232.621,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24720,1035,8,15,0.0,51,18,11,,0 days 00:01:31.756000,231.13,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24721,1035,154,16,0.0,51,14,11,,0 days 00:01:30.793000,233.581,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24722,1035,841,17,0.0,51,19,11,,0 days 00:01:31.826000,230.954,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24723,1035,847,18,0.0,51,17,11,,0 days 00:01:31.408000,232.01,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24724,1035,849,19,0.0,51,5,11,,0 days 00:01:29.950000,235.77,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24725,1035,825,20,0.0,43,20,31,,0 days 00:01:31.830000,230.944,2020,5,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,2020-08-09 13:10:00
+24726,1036,1,1,25.0,66,2,1,0 days 01:31:45.279000,0 days 00:01:19.822000,209.942,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24727,1036,830,2,18.0,66,4,1,0 days 01:32:09.456000,0 days 00:01:21.477000,205.677,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24728,1036,822,3,16.0,66,1,1,0 days 01:32:30.031000,0 days 00:01:18.183000,214.343,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24729,1036,840,4,12.0,65,8,11,,0 days 00:01:22.024000,204.306,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24730,1036,815,5,10.0,65,16,11,,0 days 00:01:22.515000,203.09,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24731,1036,832,6,8.0,65,5,11,,0 days 00:01:21.771000,204.938,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24732,1036,20,7,6.0,65,18,11,,0 days 00:01:22.707000,202.618,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24733,1036,848,8,4.0,65,11,11,,0 days 00:01:22.194000,203.883,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24734,1036,842,9,2.0,65,17,11,,0 days 00:01:22.543000,203.021,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24735,1036,846,10,1.0,65,13,11,,0 days 00:01:22.392000,203.393,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24736,1036,817,11,0.0,65,14,11,,0 days 00:01:22.464000,203.215,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24737,1036,826,12,0.0,65,12,11,,0 days 00:01:22.336000,203.531,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24738,1036,839,13,0.0,65,10,11,,0 days 00:01:22.174000,203.933,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24739,1036,8,14,0.0,65,7,11,,0 days 00:01:21.888000,204.645,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24740,1036,825,15,0.0,65,19,11,,0 days 00:01:23.474000,200.757,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24741,1036,841,16,0.0,65,6,11,,0 days 00:01:21.801000,204.863,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24742,1036,847,17,0.0,65,15,11,,0 days 00:01:22.503000,203.119,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24743,1036,849,18,0.0,64,9,12,,0 days 00:01:22.030000,204.291,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24744,1036,154,19,0.0,64,3,12,,0 days 00:01:20.409000,208.409,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24745,1036,844,20,0.0,38,20,40,,0 days 00:01:23.968000,199.576,2020,6,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,2020-08-16 13:10:00
+24746,1037,1,1,25.0,44,2,1,0 days 01:24:08.761000,0 days 00:01:47.758000,233.99,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24747,1037,822,2,18.0,44,5,1,0 days 01:24:17.209000,0 days 00:01:47.983000,233.503,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24748,1037,830,3,15.0,44,8,1,0 days 01:24:24.216000,0 days 00:01:48.305000,232.809,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24749,1037,817,4,13.0,44,1,1,0 days 01:24:27.638000,0 days 00:01:47.483000,234.589,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24750,1037,839,5,10.0,44,10,1,0 days 01:24:49.411000,0 days 00:01:48.540000,232.305,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24751,1037,848,6,8.0,44,12,1,0 days 01:24:51.473000,0 days 00:01:48.736000,231.886,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24752,1037,846,7,6.0,44,11,1,0 days 01:24:52.535000,0 days 00:01:48.552000,232.279,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24753,1037,842,8,4.0,44,3,1,0 days 01:24:56.132000,0 days 00:01:47.839000,233.815,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24754,1037,840,9,2.0,44,13,1,0 days 01:25:01.364000,0 days 00:01:49.136000,231.036,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24755,1037,815,10,1.0,44,9,1,0 days 01:25:01.940000,0 days 00:01:48.389000,232.628,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24756,1037,826,11,0.0,44,15,1,0 days 01:25:18.961000,0 days 00:01:49.832000,229.572,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24757,1037,8,12,0.0,44,14,1,0 days 01:25:20.265000,0 days 00:01:49.822000,229.593,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24758,1037,20,13,0.0,44,16,1,0 days 01:25:21.655000,0 days 00:01:49.958000,229.309,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24759,1037,844,14,0.0,44,4,1,0 days 01:25:23.681000,0 days 00:01:47.840000,233.813,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24760,1037,154,15,0.0,44,17,1,0 days 01:25:25.554000,0 days 00:01:50.018000,229.184,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24761,1037,849,16,0.0,44,6,1,0 days 01:25:26.556000,0 days 00:01:48.048000,233.362,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24762,1037,825,17,0.0,44,7,1,0 days 01:25:34.301000,0 days 00:01:48.083000,233.287,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24763,1037,841,18,0.0,9,19,3,,0 days 00:01:51.793000,225.545,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24764,1037,847,19,0.0,9,18,138,,0 days 00:01:51.754000,225.624,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24765,1037,832,20,0.0,0,0,43,,0 days 00:01:28.217748947,210.58524607730575,2020,7,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,2020-08-30 13:10:00
+24766,1038,842,1,25.0,53,6,1,0 days 01:47:06.056000,0 days 00:01:24.037000,248.162,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24767,1038,832,2,18.0,53,2,1,0 days 01:47:06.471000,0 days 00:01:23.882000,248.62,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24768,1038,840,3,15.0,53,3,1,0 days 01:47:09.414000,0 days 00:01:23.897000,248.576,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24769,1038,846,4,12.0,53,7,1,0 days 01:47:12.056000,0 days 00:01:24.232000,247.587,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24770,1038,822,5,10.0,53,5,1,0 days 01:47:13.164000,0 days 00:01:23.961000,248.386,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24771,1038,817,6,8.0,53,4,1,0 days 01:47:14.447000,0 days 00:01:23.898000,248.573,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24772,1038,1,7,7.0,53,1,1,0 days 01:47:23.301000,0 days 00:01:22.746000,252.033,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24773,1038,839,8,4.0,53,11,1,0 days 01:47:24.747000,0 days 00:01:24.490000,246.831,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24774,1038,826,9,2.0,53,10,1,0 days 01:47:28.264000,0 days 00:01:24.479000,246.863,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24775,1038,815,10,1.0,53,8,1,0 days 01:47:29.280000,0 days 00:01:24.336000,247.282,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24776,1038,849,11,0.0,53,16,1,0 days 01:47:38.932000,0 days 00:01:24.999000,245.353,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24777,1038,154,12,0.0,53,12,1,0 days 01:47:41.220000,0 days 00:01:24.785000,245.972,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24778,1038,8,13,0.0,53,13,1,0 days 01:47:42.368000,0 days 00:01:24.835000,245.827,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24779,1038,847,14,0.0,53,9,1,0 days 01:47:42.649000,0 days 00:01:24.421000,247.033,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24780,1038,848,15,0.0,53,15,1,0 days 01:47:43.589000,0 days 00:01:24.926000,245.564,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24781,1038,841,16,0.0,53,14,1,0 days 01:48:01.255000,0 days 00:01:24.856000,245.766,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24782,1038,830,17,0.0,30,17,131,,0 days 00:01:25.539000,243.804,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24783,1038,844,18,0.0,23,19,3,,0 days 00:01:26.026000,242.424,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24784,1038,825,19,0.0,17,18,131,,0 days 00:01:25.787000,243.099,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24785,1038,20,20,0.0,6,20,23,,0 days 00:01:27.107000,239.415,2020,8,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,2020-09-06 13:10:00
+24786,1039,1,1,26.0,59,1,1,0 days 02:19:35.060000,0 days 00:01:18.833000,239.518,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24787,1039,822,2,18.0,59,2,1,0 days 02:19:39.940000,0 days 00:01:19.432000,237.712,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24788,1039,848,3,15.0,59,3,1,0 days 02:19:43.124000,0 days 00:01:20.039000,235.909,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24789,1039,817,4,12.0,59,4,1,0 days 02:19:45.477000,0 days 00:01:20.426000,234.774,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24790,1039,815,5,10.0,59,5,1,0 days 02:19:50.710000,0 days 00:01:20.632000,234.175,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24791,1039,846,6,8.0,59,7,1,0 days 02:19:53.943000,0 days 00:01:21.198000,232.542,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24792,1039,826,7,6.0,59,10,1,0 days 02:19:56.816000,0 days 00:01:21.458000,231.8,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24793,1039,844,8,4.0,59,9,1,0 days 02:20:03.405000,0 days 00:01:21.229000,232.453,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24794,1039,8,9,2.0,59,6,1,0 days 02:20:04.830000,0 days 00:01:21.164000,232.64,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24795,1039,20,10,1.0,59,8,1,0 days 02:20:05.043000,0 days 00:01:21.202000,232.531,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24796,1039,847,11,0.0,59,11,1,0 days 02:20:07.464000,0 days 00:01:21.645000,231.269,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24797,1039,154,12,0.0,59,13,1,0 days 02:20:17.096000,0 days 00:01:22.263000,229.532,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24798,1039,840,13,0.0,42,12,29,,0 days 00:01:22.068000,230.077,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24799,1039,839,14,0.0,7,15,23,,0 days 00:02:11.793000,143.27,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24800,1039,849,15,0.0,6,14,4,,0 days 00:02:11.365000,143.736,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24801,1039,825,16,0.0,5,17,4,,0 days 00:02:13.812000,141.108,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24802,1039,841,17,0.0,5,16,4,,0 days 00:02:13.809000,141.111,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24803,1039,832,18,0.0,5,18,4,,0 days 00:02:14.103000,140.802,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24804,1039,830,19,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24805,1039,842,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2020,9,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,2020-09-13 13:10:00
+24806,1040,822,1,26.0,53,1,1,0 days 01:34:00.364000,0 days 00:01:37.030000,216.972,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24807,1040,830,2,18.0,53,3,1,0 days 01:34:08.093000,0 days 00:01:37.332000,216.298,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24808,1040,1,3,15.0,53,7,1,0 days 01:34:23.093000,0 days 00:01:38.075000,214.66,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24809,1040,815,4,12.0,53,8,1,0 days 01:34:30.922000,0 days 00:01:38.141000,214.515,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24810,1040,817,5,10.0,53,6,1,0 days 01:34:52.429000,0 days 00:01:37.886000,215.074,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24811,1040,844,6,8.0,53,11,1,0 days 01:35:02.550000,0 days 00:01:39.053000,212.54,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24812,1040,839,7,6.0,53,13,1,0 days 01:35:08.370000,0 days 00:01:39.216000,212.191,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24813,1040,826,8,4.0,53,12,1,0 days 01:35:09.104000,0 days 00:01:39.133000,212.369,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24814,1040,842,9,2.0,53,2,1,0 days 01:35:30.130000,0 days 00:01:37.231000,216.523,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24815,1040,848,10,1.0,53,9,1,0 days 01:35:38.224000,0 days 00:01:38.377000,214.001,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24816,1040,841,11,0.0,52,16,11,,0 days 00:01:39.766000,211.021,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24817,1040,825,12,0.0,52,17,11,,0 days 00:01:40.380000,209.731,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24818,1040,20,13,0.0,52,14,11,,0 days 00:01:39.588000,211.398,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24819,1040,8,14,0.0,52,10,11,,0 days 00:01:38.858000,212.96,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24820,1040,846,15,0.0,52,5,11,,0 days 00:01:37.377000,216.198,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24821,1040,849,16,0.0,52,18,11,,0 days 00:01:41.044000,208.352,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24822,1040,154,17,0.0,52,15,11,,0 days 00:01:39.614000,211.343,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24823,1040,847,18,0.0,52,4,11,,0 days 00:01:37.352000,216.254,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24824,1040,832,19,0.0,0,0,3,,0 days 00:01:28.217748947,210.58524607730575,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24825,1040,840,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2020,10,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,2020-09-27 11:10:00
+24826,1041,1,1,25.0,60,2,1,0 days 01:35:49.641000,0 days 00:01:28.145000,210.253,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24827,1041,830,2,19.0,60,1,1,0 days 01:35:54.111000,0 days 00:01:28.139000,210.267,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24828,1041,817,3,15.0,60,3,1,0 days 01:36:04.254000,0 days 00:01:29.584000,206.876,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24829,1041,815,4,12.0,60,4,1,0 days 01:36:05.711000,0 days 00:01:29.700000,206.608,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24830,1041,832,5,10.0,60,6,1,0 days 01:36:11.546000,0 days 00:01:30.129000,205.625,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24831,1041,842,6,8.0,60,5,1,0 days 01:36:12.407000,0 days 00:01:30.110000,205.668,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24832,1041,844,7,6.0,60,10,1,0 days 01:36:20.455000,0 days 00:01:30.712000,204.303,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24833,1041,807,8,4.0,60,11,1,0 days 01:36:22.237000,0 days 00:01:30.733000,204.256,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24834,1041,154,9,2.0,60,14,1,0 days 01:36:28.722000,0 days 00:01:31.562000,202.407,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24835,1041,841,10,1.0,60,12,1,0 days 01:36:29.676000,0 days 00:01:30.909000,203.861,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24836,1041,20,11,0.0,60,7,1,0 days 01:36:30.451000,0 days 00:01:30.408000,204.99,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24837,1041,8,12,0.0,60,9,1,0 days 01:36:31.117000,0 days 00:01:30.512000,204.755,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24838,1041,825,13,0.0,60,8,1,0 days 01:36:39.226000,0 days 00:01:30.456000,204.881,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24839,1041,849,14,0.0,60,13,1,0 days 01:36:44.090000,0 days 00:01:31.377000,202.816,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24840,1041,826,15,0.0,60,16,1,0 days 01:36:45.229000,0 days 00:01:32.214000,200.975,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24841,1041,846,16,0.0,42,17,131,,0 days 00:01:32.328000,200.727,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24842,1041,848,17,0.0,23,18,21,,0 days 00:01:32.330000,200.723,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24843,1041,839,18,0.0,22,19,6,,0 days 00:01:33.189000,198.873,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24844,1041,822,19,0.0,18,15,131,,0 days 00:01:31.884000,201.697,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24845,1041,847,20,0.0,12,20,4,,0 days 00:01:34.526000,196.06,2020,11,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,2020-10-11 13:10:00
+24846,1042,1,1,26.0,66,1,1,0 days 01:29:56.828000,0 days 00:01:18.750000,212.708,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24847,1042,822,2,18.0,66,2,1,0 days 01:30:22.420000,0 days 00:01:19.345000,211.113,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24848,1042,830,3,15.0,66,4,1,0 days 01:30:31.336000,0 days 00:01:19.854000,209.767,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24849,1042,844,4,12.0,66,7,1,0 days 01:31:02.140000,0 days 00:01:20.408000,208.322,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24850,1042,842,5,10.0,65,9,11,,0 days 00:01:20.551000,207.952,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24851,1042,832,6,8.0,65,6,11,,0 days 00:01:20.268000,208.685,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24852,1042,815,7,6.0,65,11,11,,0 days 00:01:20.802000,207.306,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24853,1042,839,8,4.0,65,12,11,,0 days 00:01:20.859000,207.16,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24854,1042,817,9,2.0,65,14,11,,0 days 00:01:20.906000,207.04,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24855,1042,20,10,1.0,65,10,11,,0 days 00:01:20.731000,207.489,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24856,1042,8,11,0.0,65,15,11,,0 days 00:01:21.058000,206.652,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24857,1042,848,12,0.0,65,5,11,,0 days 00:01:19.890000,209.673,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24858,1042,846,13,0.0,65,3,11,,0 days 00:01:19.360000,211.073,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24859,1042,847,14,0.0,65,13,11,,0 days 00:01:20.882000,207.101,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24860,1042,841,15,0.0,65,20,11,,0 days 00:01:21.893000,204.544,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24861,1042,825,16,0.0,65,16,11,,0 days 00:01:21.460000,205.632,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24862,1042,154,17,0.0,65,17,11,,0 days 00:01:21.664000,205.118,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24863,1042,849,18,0.0,64,19,12,,0 days 00:01:21.859000,204.629,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24864,1042,826,19,0.0,64,8,12,,0 days 00:01:20.449000,208.216,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24865,1042,840,20,0.0,51,18,130,,0 days 00:01:21.694000,205.043,2020,12,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,2020-10-25 12:10:00
+24866,1043,1,1,26.0,63,1,1,0 days 01:28:32.430000,0 days 00:01:15.484000,234.121,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24867,1043,822,2,18.0,63,2,1,0 days 01:28:38.213000,0 days 00:01:15.902000,232.831,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24868,1043,817,3,15.0,63,4,1,0 days 01:28:46.750000,0 days 00:01:17.552000,227.878,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24869,1043,826,4,12.0,63,6,1,0 days 01:28:47.571000,0 days 00:01:17.666000,227.543,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24870,1043,844,5,10.0,63,12,1,0 days 01:28:51.541000,0 days 00:01:18.173000,226.067,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24871,1043,815,6,8.0,63,9,1,0 days 01:28:52.082000,0 days 00:01:18.084000,226.325,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24872,1043,832,7,6.0,63,11,1,0 days 01:28:52.660000,0 days 00:01:18.118000,226.226,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24873,1043,846,8,4.0,63,8,1,0 days 01:28:53.561000,0 days 00:01:18.069000,226.368,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24874,1043,8,9,2.0,63,10,1,0 days 01:28:54.654000,0 days 00:01:18.088000,226.313,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24875,1043,841,10,1.0,63,15,1,0 days 01:28:58.828000,0 days 00:01:18.794000,224.286,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24876,1043,849,11,0.0,63,14,1,0 days 01:28:59.565000,0 days 00:01:18.719000,224.499,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24877,1043,20,12,0.0,63,7,1,0 days 01:29:00.883000,0 days 00:01:17.767000,227.248,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24878,1043,840,13,0.0,63,13,1,0 days 01:29:01.593000,0 days 00:01:18.360000,225.528,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24879,1043,154,14,0.0,63,17,1,0 days 01:29:05.365000,0 days 00:01:18.822000,224.206,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24880,1043,848,15,0.0,63,3,1,0 days 01:29:29.714000,0 days 00:01:16.177000,231.991,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24881,1043,847,16,0.0,51,16,3,,0 days 00:01:18.811000,224.237,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24882,1043,830,17,0.0,50,5,29,,0 days 00:01:17.637000,227.628,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24883,1043,825,18,0.0,47,18,139,,0 days 00:01:19.273000,222.93,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24884,1043,839,19,0.0,27,19,6,,0 days 00:01:19.606000,221.998,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24885,1043,842,20,0.0,8,20,34,,0 days 00:01:20.403000,219.797,2020,13,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,2020-11-01 12:10:00
+24886,1044,1,1,25.0,58,6,1,0 days 01:42:19.313000,0 days 00:01:39.413000,193.302,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24887,1044,815,2,18.0,58,12,1,0 days 01:42:50.946000,0 days 00:01:40.392000,191.417,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24888,1044,20,3,15.0,58,8,1,0 days 01:42:51.273000,0 days 00:01:39.662000,192.819,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24889,1044,844,4,12.0,58,11,1,0 days 01:42:53.171000,0 days 00:01:39.961000,192.242,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24890,1044,832,5,10.0,58,4,1,0 days 01:42:53.676000,0 days 00:01:38.754000,194.592,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24891,1044,830,6,8.0,58,3,1,0 days 01:43:04.186000,0 days 00:01:38.431000,195.231,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24892,1044,848,7,6.0,58,5,1,0 days 01:43:05.797000,0 days 00:01:39.099000,193.915,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24893,1044,846,8,5.0,58,1,1,0 days 01:43:20.572000,0 days 00:01:36.806000,198.508,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24894,1044,840,9,2.0,58,10,1,0 days 01:43:31.666000,0 days 00:01:39.921000,192.319,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24895,1044,817,10,1.0,58,13,1,0 days 01:43:54.773000,0 days 00:01:40.677000,190.875,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24896,1044,839,11,0.0,57,16,11,,0 days 00:01:41.006000,190.254,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24897,1044,826,12,0.0,57,17,11,,0 days 00:01:41.019000,190.229,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24898,1044,842,13,0.0,57,7,11,,0 days 00:01:39.586000,192.966,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24899,1044,822,14,0.0,57,2,11,,0 days 00:01:38.193000,195.704,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24900,1044,8,15,0.0,57,9,11,,0 days 00:01:39.743000,192.663,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24901,1044,847,16,0.0,57,14,11,,0 days 00:01:40.814000,190.616,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24902,1044,825,17,0.0,55,15,54,,0 days 00:01:40.948000,190.363,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24903,1044,154,18,0.0,49,18,130,,0 days 00:01:43.281000,186.063,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24904,1044,849,19,0.0,39,19,130,,0 days 00:01:43.495000,185.678,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24905,1044,841,20,0.0,11,20,6,,0 days 00:01:51.122000,172.934,2020,14,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,2020-11-15 10:10:00
+24906,1045,1,1,25.0,57,3,1,0 days 02:59:47.515000,0 days 00:01:32.864000,209.803,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24907,1045,830,2,19.0,57,1,1,0 days 02:59:48.769000,0 days 00:01:32.014000,211.741,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24908,1045,848,3,15.0,57,10,1,0 days 02:59:55.520000,0 days 00:01:33.684000,207.967,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24909,1045,846,4,12.0,57,7,1,0 days 02:59:58.852000,0 days 00:01:33.588000,208.18,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24910,1045,832,5,10.0,57,5,1,0 days 02:59:59.302000,0 days 00:01:33.411000,208.575,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24911,1045,842,6,8.0,57,16,1,0 days 02:59:59.457000,0 days 00:01:34.817000,205.482,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24912,1045,817,7,6.0,57,2,1,0 days 03:00:06.883000,0 days 00:01:32.827000,209.887,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24913,1045,822,8,4.0,57,4,1,0 days 03:00:07.195000,0 days 00:01:33.352000,208.706,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24914,1045,839,9,2.0,57,13,1,0 days 03:00:10.318000,0 days 00:01:34.354000,206.49,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24915,1045,844,10,1.0,56,8,11,,0 days 00:01:33.625000,208.098,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24916,1045,826,11,0.0,56,12,11,,0 days 00:01:34.141000,206.957,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24917,1045,847,12,0.0,56,17,11,,0 days 00:01:35.042000,204.995,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24918,1045,20,13,0.0,56,11,11,,0 days 00:01:33.861000,207.575,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24919,1045,849,14,0.0,56,15,11,,0 days 00:01:34.591000,205.973,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24920,1045,8,15,0.0,56,6,11,,0 days 00:01:33.573000,208.213,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24921,1045,841,16,0.0,56,14,11,,0 days 00:01:34.536000,206.092,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24922,1045,825,17,0.0,56,18,11,,0 days 00:01:35.241000,204.567,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24923,1045,815,18,0.0,53,9,5,,0 days 00:01:33.629000,208.089,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24924,1045,840,19,0.0,2,0,4,,0 days 00:01:28.217748947,210.58524607730575,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24925,1045,154,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2020,15,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,2020-11-29 14:10:00
+24926,1046,815,1,25.0,87,3,1,0 days 01:31:15.114000,0 days 00:00:56.789000,224.599,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24927,1046,839,2,18.0,87,12,1,0 days 01:31:25.632000,0 days 00:00:57.350000,222.402,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24928,1046,840,3,15.0,87,14,1,0 days 01:31:26.983000,0 days 00:00:57.388000,222.255,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24929,1046,832,4,12.0,87,9,1,0 days 01:31:27.694000,0 days 00:00:57.165000,223.122,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24930,1046,817,5,10.0,87,6,1,0 days 01:31:28.444000,0 days 00:00:56.979000,223.85,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24931,1046,848,6,8.0,87,8,1,0 days 01:31:28.956000,0 days 00:00:57.056000,223.548,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24932,1046,826,7,6.0,87,7,1,0 days 01:31:29.648000,0 days 00:00:57.001000,223.764,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24933,1046,822,8,4.0,87,2,1,0 days 01:31:30.503000,0 days 00:00:56.563000,225.497,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24934,1046,847,9,3.0,87,1,1,0 days 01:31:33.670000,0 days 00:00:55.404000,230.214,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24935,1046,846,10,1.0,87,11,1,0 days 01:31:34.655000,0 days 00:00:57.270000,222.713,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24936,1046,842,11,0.0,87,10,1,0 days 01:31:35.641000,0 days 00:00:57.220000,222.908,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24937,1046,20,12,0.0,87,5,1,0 days 01:31:37.725000,0 days 00:00:56.905000,224.141,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24938,1046,841,13,0.0,87,4,1,0 days 01:31:39.225000,0 days 00:00:56.887000,224.212,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24939,1046,8,14,0.0,87,13,1,0 days 01:31:41.267000,0 days 00:00:57.375000,222.305,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24940,1046,825,15,0.0,87,16,1,0 days 01:31:47.484000,0 days 00:00:57.516000,221.76,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24941,1046,851,16,0.0,87,15,1,0 days 01:31:48.788000,0 days 00:00:57.392000,222.24,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24942,1046,850,17,0.0,87,17,1,0 days 01:31:51.972000,0 days 00:00:57.742000,220.892,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24943,1046,849,18,0.0,52,18,5,,0 days 00:00:58.206000,219.132,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24944,1046,830,19,0.0,0,0,3,,0 days 00:01:28.217748947,210.58524607730575,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24945,1046,844,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2020,16,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,2020-12-06 17:10:00
+24946,1047,830,1,25.0,55,2,1,0 days 01:36:28.645000,0 days 00:01:40.958000,198.046,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24947,1047,822,2,18.0,55,3,1,0 days 01:36:44.621000,0 days 00:01:41.131000,197.707,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24948,1047,1,3,15.0,55,5,1,0 days 01:36:47.060000,0 days 00:01:41.420000,197.144,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24949,1047,848,4,12.0,55,4,1,0 days 01:36:48.632000,0 days 00:01:41.227000,197.52,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24950,1047,846,5,10.0,55,12,1,0 days 01:37:29.374000,0 days 00:01:41.964000,196.092,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24951,1047,832,6,8.0,55,11,1,0 days 01:37:34.307000,0 days 00:01:41.947000,196.125,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24952,1047,817,7,7.0,55,1,1,0 days 01:37:42.393000,0 days 00:01:40.926000,198.109,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24953,1047,842,8,4.0,55,15,1,0 days 01:37:58.363000,0 days 00:01:42.474000,195.116,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24954,1047,839,9,2.0,55,18,1,0 days 01:36:39.996000,0 days 00:01:42.894000,194.32,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24955,1047,840,10,1.0,55,9,1,0 days 01:36:30.314000,0 days 00:01:41.866000,196.281,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24956,1047,826,11,0.0,54,17,11,,0 days 00:01:42.704000,194.679,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24957,1047,8,12,0.0,54,14,11,,0 days 00:01:42.148000,195.739,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24958,1047,844,13,0.0,54,10,11,,0 days 00:01:41.908000,196.2,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24959,1047,20,14,0.0,54,6,11,,0 days 00:01:41.475000,197.037,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24960,1047,847,15,0.0,54,20,11,,0 days 00:01:43.328000,193.504,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24961,1047,841,16,0.0,54,7,11,,0 days 00:01:41.675000,196.65,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24962,1047,849,17,0.0,54,16,11,,0 days 00:01:42.497000,195.073,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24963,1047,825,18,0.0,54,13,11,,0 days 00:01:41.999000,196.025,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24964,1047,850,19,0.0,53,8,12,,0 days 00:01:41.707000,196.588,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00
+24965,1047,815,20,0.0,8,19,7,,0 days 00:01:43.263000,193.625,2020,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,2020-12-13 13:10:00

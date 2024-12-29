@@ -1,0 +1,240 @@
+resultId,raceId,driverId,positionOrder,points,laps,rank,statusId,time_,fastestLapTime_,fastestLapSpeed_,year,round,circuitId,name,url,date & time
+26286,1121,830,1,26.0,57,1,1,0 days 01:31:44.742000,0 days 00:01:32.608000,210.383,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26287,1121,815,2,18.0,57,4,1,0 days 01:32:07.199000,0 days 00:01:34.364000,206.468,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26288,1121,832,3,15.0,57,6,1,0 days 01:32:09.852000,0 days 00:01:34.507000,206.156,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26289,1121,844,4,12.0,57,2,1,0 days 01:32:24.411000,0 days 00:01:34.090000,207.069,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26290,1121,847,5,10.0,57,12,1,0 days 01:32:31.530000,0 days 00:01:35.065000,204.946,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26291,1121,846,6,8.0,57,5,1,0 days 01:32:33.200000,0 days 00:01:34.476000,206.223,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26292,1121,1,7,6.0,57,7,1,0 days 01:32:35.066000,0 days 00:01:34.722000,205.688,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26293,1121,857,8,4.0,57,11,1,0 days 01:32:40.824000,0 days 00:01:34.983000,205.123,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26294,1121,4,9,2.0,57,3,1,0 days 01:32:59.629000,0 days 00:01:34.199000,206.83,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26295,1121,840,10,1.0,57,16,1,0 days 01:33:17.958000,0 days 00:01:35.632000,203.73,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26296,1121,855,11,0.0,56,14,11,,0 days 00:01:35.458000,204.102,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26297,1121,825,12,0.0,56,15,11,,0 days 00:01:35.570000,203.863,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26298,1121,817,13,0.0,56,13,11,,0 days 00:01:35.163000,204.735,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26299,1121,852,14,0.0,56,18,11,,0 days 00:01:35.833000,203.303,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26300,1121,848,15,0.0,56,17,11,,0 days 00:01:35.723000,203.537,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26301,1121,807,16,0.0,56,10,11,,0 days 00:01:34.834000,205.445,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26302,1121,839,17,0.0,56,20,11,,0 days 00:01:36.226000,202.473,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26303,1121,842,18,0.0,56,9,11,,0 days 00:01:34.805000,205.508,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26304,1121,822,19,0.0,56,19,11,,0 days 00:01:36.202000,202.523,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26305,1121,858,20,0.0,55,8,12,,0 days 00:01:34.735000,205.659,2024,1,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2024_Bahrain_Grand_Prix,2024-03-02 15:00:00
+26306,1122,830,1,25.0,50,3,1,0 days 01:20:43.273000,0 days 00:01:31.773000,242.188,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26307,1122,815,2,18.0,50,8,1,0 days 01:21:02.704000,0 days 00:01:32.273000,240.876,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26308,1122,844,3,16.0,50,1,1,0 days 01:21:01.912000,0 days 00:01:31.632000,242.561,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26309,1122,857,4,12.0,50,10,1,0 days 01:21:15.280000,0 days 00:01:32.310000,240.779,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26310,1122,4,5,10.0,50,13,1,0 days 01:21:19.032000,0 days 00:01:32.387000,240.579,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26311,1122,847,6,8.0,50,7,1,0 days 01:21:23.209000,0 days 00:01:32.254000,240.926,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26312,1122,860,7,6.0,50,5,1,0 days 01:21:25.952000,0 days 00:01:32.186000,241.103,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26313,1122,846,8,4.0,50,4,1,0 days 01:21:28.981000,0 days 00:01:31.944000,241.738,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26314,1122,1,9,2.0,50,2,1,0 days 01:21:30.664000,0 days 00:01:31.746000,242.26,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26315,1122,807,10,1.0,50,12,1,0 days 01:22:00.269000,0 days 00:01:32.366000,240.633,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26316,1122,848,11,0.0,50,9,1,0 days 01:22:11.627000,0 days 00:01:32.307000,240.787,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26317,1122,825,12,0.0,50,11,1,0 days 01:22:35.646000,0 days 00:01:32.338000,240.706,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26318,1122,839,13,0.0,49,17,11,,0 days 00:01:33.481000,237.763,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26319,1122,858,14,0.0,49,18,11,,0 days 00:01:33.523000,237.657,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26320,1122,852,15,0.0,49,15,11,,0 days 00:01:33.026000,238.926,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26321,1122,817,16,0.0,49,16,11,,0 days 00:01:33.323000,238.166,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26322,1122,822,17,0.0,49,14,11,,0 days 00:01:32.706000,239.751,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26323,1122,855,18,0.0,49,6,11,,0 days 00:01:32.208000,241.046,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26324,1122,840,19,0.0,5,19,3,,0 days 00:01:35.560000,232.591,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26325,1122,842,20,0.0,1,0,6,,0 days 00:01:28.217748947,210.58524607730575,2024,2,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix,2024-03-09 17:00:00
+26326,1123,832,1,25.0,58,3,1,0 days 01:20:26.843000,0 days 00:01:20.031000,237.418,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26327,1123,844,2,19.0,58,1,1,0 days 01:20:29.209000,0 days 00:01:19.813000,238.066,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26328,1123,846,3,15.0,58,2,1,0 days 01:20:32.747000,0 days 00:01:19.915000,237.762,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26329,1123,857,4,12.0,58,4,1,0 days 01:21:02.613000,0 days 00:01:20.199000,236.92,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26330,1123,815,5,10.0,58,6,1,0 days 01:21:23.152000,0 days 00:01:20.388000,236.363,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26331,1123,840,6,8.0,58,8,1,0 days 01:22:00.065000,0 days 00:01:20.930000,234.78,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26332,1123,852,7,6.0,58,11,1,0 days 01:22:02.444000,0 days 00:01:21.134000,234.19,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26333,1123,4,8,4.0,58,7,1,0 days 01:22:07.835000,0 days 00:01:20.493000,236.055,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26334,1123,807,9,2.0,58,12,1,0 days 01:22:11.396000,0 days 00:01:21.145000,234.158,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26335,1123,825,10,1.0,57,9,11,,0 days 00:01:21.082000,234.34,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26336,1123,848,11,0.0,57,17,11,,0 days 00:01:21.618000,232.801,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26337,1123,817,12,0.0,57,13,11,,0 days 00:01:21.239000,233.887,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26338,1123,842,13,0.0,57,10,11,,0 days 00:01:21.090000,234.317,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26339,1123,822,14,0.0,57,16,11,,0 days 00:01:21.422000,233.361,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26340,1123,855,15,0.0,57,14,11,,0 days 00:01:21.327000,233.634,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26341,1123,839,16,0.0,57,15,11,,0 days 00:01:21.354000,233.557,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26342,1123,847,17,0.0,56,5,3,,0 days 00:01:20.284000,236.669,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26343,1123,1,18,0.0,15,18,5,,0 days 00:01:22.444000,230.469,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26344,1123,830,19,0.0,3,19,23,,0 days 00:01:23.115000,228.608,2024,3,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2024_Australian_Grand_Prix,2024-03-24 04:00:00
+26345,1124,830,1,26.0,53,1,1,0 days 01:54:23.566000,0 days 00:01:33.706000,223.093,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26346,1124,815,2,18.0,53,3,1,0 days 01:54:36.101000,0 days 00:01:33.945000,222.525,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26347,1124,832,3,15.0,53,2,1,0 days 01:54:44.432000,0 days 00:01:33.841000,222.772,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26348,1124,844,4,12.0,53,9,1,0 days 01:54:50.088000,0 days 00:01:35.044000,219.952,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26349,1124,846,5,10.0,53,10,1,0 days 01:54:53.266000,0 days 00:01:35.186000,219.624,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26350,1124,4,6,8.0,53,6,1,0 days 01:55:07.838000,0 days 00:01:34.726000,220.691,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26351,1124,847,7,6.0,53,5,1,0 days 01:55:09.517000,0 days 00:01:34.404000,221.444,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26352,1124,857,8,4.0,53,7,1,0 days 01:55:11.091000,0 days 00:01:34.802000,220.514,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26353,1124,1,9,2.0,53,4,1,0 days 01:55:12.192000,0 days 00:01:33.952000,222.509,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26354,1124,852,10,1.0,52,14,11,,0 days 00:01:36.342000,216.989,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26355,1124,807,11,0.0,52,11,11,,0 days 00:01:35.325000,219.304,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26356,1124,840,12,0.0,52,12,11,,0 days 00:01:35.798000,218.221,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26357,1124,825,13,0.0,52,17,11,,0 days 00:01:36.654000,216.289,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26358,1124,822,14,0.0,52,15,11,,0 days 00:01:36.608000,216.392,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26359,1124,839,15,0.0,52,13,11,,0 days 00:01:36.232000,217.237,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26360,1124,842,16,0.0,52,16,11,,0 days 00:01:36.642000,216.315,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26361,1124,858,17,0.0,52,8,11,,0 days 00:01:34.900000,220.286,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26362,1124,855,18,0.0,12,18,6,,0 days 00:01:37.160000,215.162,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26363,1124,817,19,0.0,0,0,3,,0 days 00:01:28.217748947,210.58524607730575,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26364,1124,848,20,0.0,0,0,3,,0 days 00:01:28.217748947,210.58524607730575,2024,4,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix,2024-04-07 05:00:00
+26365,1125,830,1,25.0,56,2,1,0 days 01:40:52.554000,0 days 00:01:38.406000,199.414,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26366,1125,846,2,18.0,56,4,1,0 days 01:41:06.327000,0 days 00:01:38.751000,198.717,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26367,1125,815,3,15.0,56,7,1,0 days 01:41:11.714000,0 days 00:01:39.388000,197.444,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26368,1125,844,4,12.0,56,6,1,0 days 01:41:16.177000,0 days 00:01:39.384000,197.452,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26369,1125,832,5,10.0,56,10,1,0 days 01:41:26.537000,0 days 00:01:39.764000,196.7,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26370,1125,847,6,8.0,56,11,1,0 days 01:41:31.278000,0 days 00:01:40.112000,196.016,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26371,1125,4,7,7.0,56,1,1,0 days 01:41:35.968000,0 days 00:01:37.810000,200.629,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26372,1125,857,8,4.0,56,9,1,0 days 01:41:48.752000,0 days 00:01:39.739000,196.749,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26373,1125,1,9,2.0,56,14,1,0 days 01:41:50.540000,0 days 00:01:40.835000,194.61,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26374,1125,807,10,1.0,56,13,1,0 days 01:41:53.030000,0 days 00:01:40.815000,194.649,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26375,1125,839,11,0.0,56,15,1,0 days 01:41:55.366000,0 days 00:01:40.937000,194.414,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26376,1125,848,12,0.0,56,12,1,0 days 01:41:58.060000,0 days 00:01:40.790000,194.697,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26377,1125,842,13,0.0,56,5,1,0 days 01:42:01.777000,0 days 00:01:39.198000,197.822,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26378,1125,855,14,0.0,56,3,1,0 days 01:42:04.243000,0 days 00:01:38.633000,198.955,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26379,1125,840,15,0.0,56,8,1,0 days 01:42:15.340000,0 days 00:01:39.444000,197.333,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26380,1125,825,16,0.0,56,18,1,0 days 01:42:20.087000,0 days 00:01:41.077000,194.145,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26381,1125,858,17,0.0,56,17,1,0 days 01:42:27.664000,0 days 00:01:41,194.293,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26382,1125,817,18,0.0,33,16,31,,0 days 00:01:40.994000,194.304,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26383,1125,852,19,0.0,26,20,31,,0 days 00:01:41.593000,193.158,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26384,1125,822,20,0.0,19,19,31,,0 days 00:01:41.276000,193.763,2024,5,17,Chinese Grand Prix,https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix,2024-04-21 07:00:00
+26385,1126,846,1,25.0,57,5,1,0 days 01:30:49.876000,0 days 00:01:30.980000,214.148,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26386,1126,830,2,18.0,57,8,1,0 days 01:30:57.488000,0 days 00:01:31.261000,213.488,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26387,1126,844,3,15.0,57,6,1,0 days 01:30:59.796000,0 days 00:01:31.084000,213.903,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26388,1126,815,4,12.0,57,3,1,0 days 01:31:04.526000,0 days 00:01:30.855000,214.442,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26389,1126,832,5,10.0,57,4,1,0 days 01:31:06.283000,0 days 00:01:30.928000,214.27,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26390,1126,1,6,8.0,57,7,1,0 days 01:31:06.461000,0 days 00:01:31.233000,213.554,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26391,1126,852,7,6.0,57,10,1,0 days 01:31:16.061000,0 days 00:01:31.682000,212.508,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26392,1126,847,8,4.0,57,13,1,0 days 01:31:24.665000,0 days 00:01:31.921000,211.955,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26393,1126,4,9,2.0,57,11,1,0 days 01:31:26.983000,0 days 00:01:31.727000,212.404,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26394,1126,839,10,1.0,57,16,1,0 days 01:31:29.622000,0 days 00:01:32.037000,211.688,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26395,1126,807,11,0.0,57,14,1,0 days 01:31:30.665000,0 days 00:01:31.941000,211.909,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26396,1126,842,12,0.0,57,17,1,0 days 01:31:34.834000,0 days 00:01:32.055000,211.647,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26397,1126,857,13,0.0,57,1,1,0 days 01:31:39.632000,0 days 00:01:30.634000,214.965,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26398,1126,855,14,0.0,57,15,1,0 days 01:31:39.855000,0 days 00:01:31.991000,211.794,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26399,1126,817,15,0.0,57,19,1,0 days 01:31:40.832000,0 days 00:01:32.122000,211.493,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26400,1126,822,16,0.0,57,18,1,0 days 01:31:42.232000,0 days 00:01:32.098000,211.548,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26401,1126,840,17,0.0,57,9,1,0 days 01:31:45.049000,0 days 00:01:31.588000,212.726,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26402,1126,848,18,0.0,57,2,1,0 days 01:32:05.967000,0 days 00:01:30.849000,214.456,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26403,1126,825,19,0.0,57,12,1,0 days 01:32:14.559000,0 days 00:01:31.774000,212.295,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26404,1126,858,20,0.0,27,20,4,,0 days 00:01:33.452000,208.483,2024,6,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix,2024-05-05 20:00:00
+26405,1127,830,1,25.0,63,9,1,0 days 01:25:25.252000,0 days 00:01:20.366000,219.898,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26406,1127,846,2,18.0,63,6,1,0 days 01:25:25.977000,0 days 00:01:19.994000,220.921,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26407,1127,844,3,15.0,63,5,1,0 days 01:25:33.168000,0 days 00:01:19.935000,221.084,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26408,1127,857,4,12.0,63,4,1,0 days 01:25:39.384000,0 days 00:01:19.907000,221.162,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26409,1127,832,5,10.0,63,7,1,0 days 01:25:47.577000,0 days 00:01:20.220000,220.299,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26410,1127,1,6,8.0,63,8,1,0 days 01:26:00.356000,0 days 00:01:20.331000,219.994,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26411,1127,847,7,7.0,63,1,1,0 days 01:26:12.406000,0 days 00:01:18.589000,224.871,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26412,1127,815,8,4.0,63,3,1,0 days 01:26:20.028000,0 days 00:01:19.686000,221.775,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26413,1127,840,9,2.0,63,10,1,0 days 01:26:44.808000,0 days 00:01:20.570000,219.342,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26414,1127,852,10,1.0,62,11,11,,0 days 00:01:20.936000,218.35,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26415,1127,807,11,0.0,62,20,11,,0 days 00:01:21.700000,216.308,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26416,1127,825,12,0.0,62,12,11,,0 days 00:01:21.009000,218.153,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26417,1127,817,13,0.0,62,19,11,,0 days 00:01:21.569000,216.655,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26418,1127,839,14,0.0,62,16,11,,0 days 00:01:21.304000,217.361,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26419,1127,855,15,0.0,62,13,11,,0 days 00:01:21.016000,218.134,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26420,1127,842,16,0.0,62,17,11,,0 days 00:01:21.371000,217.183,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26421,1127,858,17,0.0,62,14,11,,0 days 00:01:21.229000,217.562,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26422,1127,822,18,0.0,62,18,11,,0 days 00:01:21.455000,216.959,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26423,1127,4,19,0.0,62,2,11,,0 days 00:01:19.004000,223.689,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26424,1127,848,20,0.0,51,15,31,,0 days 00:01:21.274000,217.442,2024,7,21,Emilia Romagna Grand Prix,https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix,2024-05-19 13:00:00
+26425,1128,844,1,25.0,78,0,1,0 days 02:23:15.554000,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26426,1128,857,2,18.0,78,0,1,0 days 02:23:22.706000,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26427,1128,832,3,15.0,78,0,1,0 days 02:23:23.139000,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26428,1128,846,4,12.0,78,0,1,0 days 02:23:24.204000,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26429,1128,847,5,10.0,78,0,1,0 days 02:23:28.863000,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26430,1128,830,6,8.0,78,0,1,0 days 02:23:29.407000,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26431,1128,1,7,7.0,78,0,1,0 days 02:23:30.462000,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26432,1128,852,8,4.0,77,0,11,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26433,1128,848,9,2.0,77,0,11,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26434,1128,842,10,1.0,77,0,11,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26435,1128,4,11,0.0,76,0,12,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26436,1128,817,12,0.0,76,0,12,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26437,1128,822,13,0.0,76,0,12,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26438,1128,840,14,0.0,76,0,12,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26439,1128,858,15,0.0,76,0,12,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26440,1128,855,16,0.0,76,0,12,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26441,1128,839,17,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26442,1128,815,18,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26443,1128,807,19,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26444,1128,825,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2024,8,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix,2024-05-26 13:00:00
+26445,1129,830,1,25.0,70,4,1,0 days 01:45:47.927000,0 days 00:01:15.569000,207.751,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26446,1129,846,2,18.0,70,3,1,0 days 01:45:51.806000,0 days 00:01:15.558000,207.782,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26447,1129,847,3,15.0,70,2,1,0 days 01:45:52.244000,0 days 00:01:14.895000,209.621,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26448,1129,1,4,13.0,70,1,1,0 days 01:45:52.842000,0 days 00:01:14.856000,209.73,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26449,1129,857,5,10.0,70,5,1,0 days 01:45:58.126000,0 days 00:01:16.247000,205.904,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26450,1129,4,6,8.0,70,6,1,0 days 01:46:05.437000,0 days 00:01:16.303000,205.753,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26451,1129,840,7,6.0,70,9,1,0 days 01:46:11.552000,0 days 00:01:16.762000,204.523,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26452,1129,817,8,4.0,70,12,1,0 days 01:46:16.599000,0 days 00:01:17.076000,203.689,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26453,1129,842,9,2.0,70,11,1,0 days 01:46:17.948000,0 days 00:01:17.013000,203.856,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26454,1129,839,10,1.0,70,10,1,0 days 01:46:18.240000,0 days 00:01:17.012000,203.859,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26455,1129,807,11,0.0,70,8,1,0 days 01:46:18.751000,0 days 00:01:16.683000,204.733,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26456,1129,825,12,0.0,70,7,1,0 days 01:46:19.180000,0 days 00:01:16.499000,205.226,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26457,1129,822,13,0.0,70,13,1,0 days 01:46:28.414000,0 days 00:01:17.250000,203.231,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26458,1129,852,14,0.0,70,14,1,0 days 01:46:40.621000,0 days 00:01:17.309000,203.075,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26459,1129,855,15,0.0,69,15,11,,0 days 00:01:17.325000,203.033,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26460,1129,832,16,0.0,52,17,4,,0 days 00:01:18.957000,198.837,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26461,1129,848,17,0.0,52,18,4,,0 days 00:01:19.359000,197.83,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26462,1129,815,18,0.0,51,16,3,,0 days 00:01:18.819000,199.185,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26463,1129,844,19,0.0,40,19,5,,0 days 00:01:26.012000,182.528,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26464,1129,858,20,0.0,23,20,3,,0 days 00:01:26.484000,181.531,2024,9,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix,2024-06-09 18:00:00
+26465,1130,830,1,25.0,66,2,1,0 days 01:28:20.227000,0 days 00:01:17.776000,215.557,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26466,1130,846,2,19.0,66,1,1,0 days 01:28:22.446000,0 days 00:01:17.115000,217.405,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26467,1130,1,3,15.0,66,4,1,0 days 01:28:38.017000,0 days 00:01:17.809000,215.466,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26468,1130,847,4,12.0,66,7,1,0 days 01:28:42.547000,0 days 00:01:18.290000,214.142,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26469,1130,844,5,10.0,66,6,1,0 days 01:28:42.936000,0 days 00:01:17.897000,215.222,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26470,1130,832,6,8.0,66,9,1,0 days 01:28:51.255000,0 days 00:01:18.539000,213.463,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26471,1130,857,7,6.0,66,5,1,0 days 01:28:53.987000,0 days 00:01:17.874000,215.286,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26472,1130,815,8,4.0,66,3,1,0 days 01:29:19.751000,0 days 00:01:17.785000,215.532,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26473,1130,842,9,2.0,66,13,1,0 days 01:29:22.252000,0 days 00:01:19.045000,212.096,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26474,1130,839,10,1.0,66,12,1,0 days 01:29:32.116000,0 days 00:01:18.982000,212.266,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26475,1130,807,11,0.0,66,10,1,0 days 01:29:39.442000,0 days 00:01:18.609000,213.273,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26476,1130,4,12,0.0,65,8,11,,0 days 00:01:18.334000,214.022,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26477,1130,855,13,0.0,65,11,11,,0 days 00:01:18.771000,212.834,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26478,1130,840,14,0.0,65,15,11,,0 days 00:01:19.318000,211.366,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26479,1130,817,15,0.0,65,17,11,,0 days 00:01:19.450000,211.015,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26480,1130,822,16,0.0,65,18,11,,0 days 00:01:19.608000,210.596,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26481,1130,825,17,0.0,65,19,11,,0 days 00:01:19.805000,210.077,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26482,1130,848,18,0.0,65,14,11,,0 days 00:01:19.132000,211.863,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26483,1130,852,19,0.0,65,16,11,,0 days 00:01:19.447000,211.023,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26484,1130,858,20,0.0,64,20,12,,0 days 00:01:20.172000,209.115,2024,10,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix,2024-06-23 13:00:00
+26485,1131,847,1,25.0,71,5,1,0 days 01:24:22.798000,0 days 00:01:09.164000,224.752,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26486,1131,857,2,18.0,71,4,1,0 days 01:24:24.704000,0 days 00:01:08.697000,226.28,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26487,1131,832,3,15.0,71,6,1,0 days 01:24:27.331000,0 days 00:01:09.282000,224.369,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26488,1131,1,4,12.0,71,7,1,0 days 01:24:45.940000,0 days 00:01:09.562000,223.466,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26489,1131,830,5,10.0,71,2,1,0 days 01:25:00.051000,0 days 00:01:07.719000,229.548,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26490,1131,807,6,8.0,71,14,1,0 days 01:25:16.886000,0 days 00:01:10.215000,221.388,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26491,1131,815,7,6.0,71,11,1,0 days 01:25:17.470000,0 days 00:01:09.694000,223.043,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26492,1131,825,8,4.0,71,12,1,0 days 01:25:23.153000,0 days 00:01:10.125000,221.672,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26493,1131,817,9,2.0,71,18,1,0 days 01:25:23.967000,0 days 00:01:10.426000,220.725,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26494,1131,842,10,1.0,71,9,1,0 days 01:25:24.564000,0 days 00:01:09.609000,223.315,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26495,1131,844,11,0.0,71,8,1,0 days 01:25:29.854000,0 days 00:01:09.584000,223.396,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26496,1131,839,12,0.0,71,10,1,0 days 01:25:31.123000,0 days 00:01:09.649000,223.187,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26497,1131,840,13,0.0,70,13,11,,0 days 00:01:10.143000,221.615,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26498,1131,852,14,0.0,70,15,11,,0 days 00:01:10.318000,221.064,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26499,1131,848,15,0.0,70,16,11,,0 days 00:01:10.364000,220.919,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26500,1131,822,16,0.0,70,19,11,,0 days 00:01:10.449000,220.653,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26501,1131,855,17,0.0,70,20,11,,0 days 00:01:10.470000,220.587,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26502,1131,4,18,0.0,70,1,11,,0 days 00:01:07.694000,229.633,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26503,1131,858,19,0.0,69,17,12,,0 days 00:01:10.406000,220.788,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26504,1131,846,20,0.0,64,3,17,,0 days 00:01:08.016000,228.546,2024,11,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2024_Austrian_Grand_Prix,2024-06-30 13:00:00
+26505,1132,1,1,25.0,52,5,1,0 days 01:22:27.059000,0 days 00:01:29.438000,237.12,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26506,1132,830,2,18.0,52,3,1,0 days 01:22:28.524000,0 days 00:01:28.952000,238.416,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26507,1132,846,3,15.0,52,4,1,0 days 01:22:34.606000,0 days 00:01:29.262000,237.588,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26508,1132,857,4,12.0,52,2,1,0 days 01:22:39.488000,0 days 00:01:28.748000,238.964,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26509,1132,832,5,11.0,52,1,1,0 days 01:23:14.377000,0 days 00:01:28.293000,240.195,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26510,1132,807,6,8.0,52,10,1,0 days 01:23:22.781000,0 days 00:01:29.836000,236.07,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26511,1132,840,7,6.0,52,11,1,0 days 01:23:23.628000,0 days 00:01:29.897000,235.909,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26512,1132,4,8,4.0,52,7,1,0 days 01:23:30.636000,0 days 00:01:29.710000,236.401,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26513,1132,848,9,2.0,52,8,1,0 days 01:23:35.446000,0 days 00:01:29.718000,236.38,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26514,1132,852,10,1.0,52,14,1,0 days 01:23:46.362000,0 days 00:01:30.229000,235.041,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26515,1132,858,11,0.0,52,12,1,0 days 01:23:56.019000,0 days 00:01:29.972000,235.713,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26516,1132,825,12,0.0,52,13,1,0 days 01:23:57.212000,0 days 00:01:30.093000,235.396,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26517,1132,817,13,0.0,51,15,11,,0 days 00:01:30.735000,233.731,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26518,1132,844,14,0.0,51,9,11,,0 days 00:01:29.748000,236.301,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26519,1132,822,15,0.0,51,18,11,,0 days 00:01:31.277000,232.343,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26520,1132,839,16,0.0,50,16,12,,0 days 00:01:30.875000,233.371,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26521,1132,815,17,0.0,50,6,12,,0 days 00:01:29.707000,236.409,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26522,1132,855,18,0.0,50,17,12,,0 days 00:01:31.014000,233.014,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26523,1132,847,19,0.0,33,19,34,,0 days 00:01:31.298000,232.289,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00
+26524,1132,842,20,0.0,0,0,6,,0 days 00:01:28.217748947,210.58524607730575,2024,12,9,British Grand Prix,https://en.wikipedia.org/wiki/2024_British_Grand_Prix,2024-07-07 14:00:00

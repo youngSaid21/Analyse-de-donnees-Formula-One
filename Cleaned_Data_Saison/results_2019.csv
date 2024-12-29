@@ -1,0 +1,421 @@
+resultId,raceId,driverId,positionOrder,points,laps,rank,statusId,time_,fastestLapTime_,fastestLapSpeed_,year,round,circuitId,name,url,date & time
+24203,1010,822,1,26.0,58,1,1,0 days 01:25:27.325000,0 days 00:01:25.580000,223.075,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24204,1010,1,2,18.0,58,2,1,0 days 01:25:48.211000,0 days 00:01:26.057000,221.839,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24205,1010,830,3,15.0,58,3,1,0 days 01:25:49.845000,0 days 00:01:26.256000,221.327,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24206,1010,20,4,12.0,58,8,1,0 days 01:26:24.434000,0 days 00:01:27.954000,217.054,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24207,1010,844,5,10.0,58,4,1,0 days 01:26:25.528000,0 days 00:01:26.926000,219.621,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24208,1010,825,6,8.0,58,9,1,0 days 01:26:54.481000,0 days 00:01:28.182000,216.493,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24209,1010,807,7,6.0,57,12,11,,0 days 00:01:28.444000,215.851,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24210,1010,8,8,4.0,57,11,11,,0 days 00:01:28.270000,216.277,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24211,1010,840,9,2.0,57,7,11,,0 days 00:01:27.568000,218.011,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24212,1010,826,10,1.0,57,6,11,,0 days 00:01:27.448000,218.31,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24213,1010,842,11,0.0,57,5,11,,0 days 00:01:27.229000,218.858,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24214,1010,846,12,0.0,57,16,11,,0 days 00:01:28.555000,215.581,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24215,1010,815,13,0.0,57,15,11,,0 days 00:01:28.485000,215.751,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24216,1010,848,14,0.0,57,10,11,,0 days 00:01:28.188000,216.478,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24217,1010,841,15,0.0,57,14,11,,0 days 00:01:28.479000,215.766,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24218,1010,847,16,0.0,56,17,12,,0 days 00:01:28.713000,215.197,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24219,1010,9,17,0.0,55,18,13,,0 days 00:01:29.284000,213.821,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24220,1010,154,18,0.0,29,13,36,,0 days 00:01:28.462000,215.807,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24221,1010,817,19,0.0,28,19,137,,0 days 00:01:29.848000,212.478,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24222,1010,832,20,0.0,9,20,5,,0 days 00:01:30.899000,210.022,2019,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,2019-03-17 05:10:00
+24223,1011,1,1,25.0,57,2,1,0 days 01:34:21.295000,0 days 00:01:33.528000,208.314,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24224,1011,822,2,18.0,57,3,1,0 days 01:34:24.275000,0 days 00:01:34.209000,206.808,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24225,1011,844,3,16.0,57,1,1,0 days 01:34:27.426000,0 days 00:01:33.411000,208.575,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24226,1011,830,4,12.0,57,9,1,0 days 01:34:27.703000,0 days 00:01:35.311000,204.417,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24227,1011,20,5,10.0,57,4,1,0 days 01:34:57.363000,0 days 00:01:34.895000,205.313,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24228,1011,846,6,8.0,57,12,1,0 days 01:35:07.049000,0 days 00:01:35.777000,203.422,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24229,1011,8,7,6.0,57,11,1,0 days 01:35:08.765000,0 days 00:01:35.589000,203.822,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24230,1011,842,8,4.0,57,8,1,0 days 01:35:19.389000,0 days 00:01:35.291000,204.46,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24231,1011,848,9,2.0,57,16,1,0 days 01:35:23.992000,0 days 00:01:36.752000,201.372,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24232,1011,815,10,1.0,57,14,1,0 days 01:35:24.991000,0 days 00:01:36.330000,202.254,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24233,1011,841,11,0.0,57,7,1,0 days 01:35:25.894000,0 days 00:01:35.237000,204.575,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24234,1011,826,12,0.0,56,5,11,,0 days 00:01:34.934000,205.228,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24235,1011,825,13,0.0,56,13,11,,0 days 00:01:35.892000,203.178,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24236,1011,840,14,0.0,56,17,11,,0 days 00:01:37.037000,200.781,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24237,1011,847,15,0.0,56,19,11,,0 days 00:01:37.313000,200.211,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24238,1011,9,16,0.0,55,20,12,,0 days 00:01:37.903000,199.005,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24239,1011,807,17,0.0,53,6,5,,0 days 00:01:35.215000,204.623,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24240,1011,817,18,0.0,53,15,60,,0 days 00:01:36.697000,201.487,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24241,1011,832,19,0.0,53,10,130,,0 days 00:01:35.586000,203.829,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24242,1011,154,20,0.0,16,18,31,,0 days 00:01:37.262000,200.316,2019,2,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,2019-03-31 15:10:00
+24243,1012,1,1,25.0,56,5,1,0 days 01:32:06.350000,0 days 00:01:35.892000,204.642,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24244,1012,822,2,18.0,56,4,1,0 days 01:32:12.902000,0 days 00:01:34.872000,206.842,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24245,1012,20,3,15.0,56,2,1,0 days 01:32:20.124000,0 days 00:01:34.836000,206.921,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24246,1012,830,4,12.0,56,6,1,0 days 01:32:33.977000,0 days 00:01:36.143000,204.108,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24247,1012,844,5,10.0,56,3,1,0 days 01:32:37.626000,0 days 00:01:34.860000,206.869,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24248,1012,842,6,9.0,56,1,1,0 days 01:33:35.657000,0 days 00:01:34.742000,207.126,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24249,1012,817,7,6.0,55,16,11,,0 days 00:01:38.632000,198.957,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24250,1012,815,8,4.0,55,17,11,,0 days 00:01:38.702000,198.816,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24251,1012,8,9,2.0,55,12,11,,0 days 00:01:37.812000,200.625,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24252,1012,848,10,1.0,55,18,11,,0 days 00:01:38.901000,198.416,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24253,1012,154,11,0.0,55,8,11,,0 days 00:01:36.873000,202.57,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24254,1012,840,12,0.0,55,7,11,,0 days 00:01:36.678000,202.978,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24255,1012,825,13,0.0,55,10,11,,0 days 00:01:37.471000,201.327,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24256,1012,832,14,0.0,55,11,11,,0 days 00:01:37.502000,201.263,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24257,1012,841,15,0.0,55,14,11,,0 days 00:01:38.048000,200.142,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24258,1012,847,16,0.0,54,9,12,,0 days 00:01:37.283000,201.716,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24259,1012,9,17,0.0,54,20,12,,0 days 00:01:39.772000,196.684,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24260,1012,846,18,0.0,50,15,4,,0 days 00:01:38.346000,199.536,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24261,1012,826,19,0.0,41,13,4,,0 days 00:01:37.975000,200.291,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24262,1012,807,20,0.0,16,19,131,,0 days 00:01:39.677000,196.871,2019,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,2019-04-14 06:10:00
+24263,1013,822,1,25.0,51,2,1,0 days 01:31:52.942000,0 days 00:01:44.024000,207.748,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24264,1013,1,2,18.0,51,3,1,0 days 01:31:54.466000,0 days 00:01:44.166000,207.465,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24265,1013,20,3,15.0,51,4,1,0 days 01:32:04.681000,0 days 00:01:44.629000,206.546,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24266,1013,830,4,12.0,51,5,1,0 days 01:32:10.435000,0 days 00:01:44.794000,206.221,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24267,1013,844,5,11.0,51,1,1,0 days 01:33:02.049000,0 days 00:01:43.009000,209.795,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24268,1013,815,6,8.0,51,7,1,0 days 01:33:09.358000,0 days 00:01:45.524000,204.795,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24269,1013,832,7,6.0,51,10,1,0 days 01:33:16.768000,0 days 00:01:45.807000,204.247,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24270,1013,846,8,4.0,51,6,1,0 days 01:33:33.210000,0 days 00:01:45.394000,205.047,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24271,1013,840,9,2.0,51,12,1,0 days 01:33:36.758000,0 days 00:01:46.009000,203.858,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24272,1013,8,10,1.0,50,13,11,,0 days 00:01:46.479000,202.958,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24273,1013,848,11,0.0,50,9,11,,0 days 00:01:45.754000,204.349,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24274,1013,841,12,0.0,50,11,11,,0 days 00:01:45.969000,203.935,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24275,1013,825,13,0.0,50,14,11,,0 days 00:01:46.682000,202.572,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24276,1013,807,14,0.0,50,17,11,,0 days 00:01:47.407000,201.204,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24277,1013,847,15,0.0,49,16,12,,0 days 00:01:47.251000,201.497,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24278,1013,9,16,0.0,49,19,12,,0 days 00:01:47.709000,200.64,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24279,1013,842,17,0.0,38,8,7,,0 days 00:01:45.712000,204.43,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24280,1013,154,18,0.0,38,20,23,,0 days 00:01:48.517000,199.146,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24281,1013,826,19,0.0,33,18,4,,0 days 00:01:47.681000,200.692,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24282,1013,817,20,0.0,31,15,4,,0 days 00:01:46.767000,202.41,2019,4,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,2019-04-28 12:10:00
+24283,1014,1,1,26.0,66,1,1,0 days 01:35:50.443000,0 days 00:01:18.492000,213.499,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24284,1014,822,2,18.0,66,2,1,0 days 01:35:54.517000,0 days 00:01:18.737000,212.835,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24285,1014,830,3,15.0,66,3,1,0 days 01:35:58.122000,0 days 00:01:19.769000,210.081,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24286,1014,20,4,12.0,66,4,1,0 days 01:35:59.610000,0 days 00:01:19.820000,209.947,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24287,1014,844,5,10.0,66,5,1,0 days 01:36:03.804000,0 days 00:01:20.002000,209.469,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24288,1014,842,6,8.0,66,6,1,0 days 01:36:10.019000,0 days 00:01:20.536000,208.08,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24289,1014,825,7,6.0,66,9,1,0 days 01:36:18.602000,0 days 00:01:20.770000,207.478,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24290,1014,832,8,4.0,66,10,1,0 days 01:36:22.785000,0 days 00:01:20.859000,207.249,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24291,1014,826,9,2.0,66,8,1,0 days 01:36:23.499000,0 days 00:01:20.726000,207.591,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24292,1014,154,10,1.0,66,12,1,0 days 01:36:25.084000,0 days 00:01:21.057000,206.743,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24293,1014,848,11,0.0,66,11,1,0 days 01:36:25.888000,0 days 00:01:21.028000,206.817,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24294,1014,817,12,0.0,66,7,1,0 days 01:36:27.201000,0 days 00:01:20.615000,207.876,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24295,1014,807,13,0.0,66,13,1,0 days 01:36:29.684000,0 days 00:01:21.282000,206.171,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24296,1014,8,14,0.0,66,14,1,0 days 01:36:32.246000,0 days 00:01:21.382000,205.917,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24297,1014,815,15,0.0,66,16,1,0 days 01:36:37.320000,0 days 00:01:21.859000,204.717,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24298,1014,841,16,0.0,66,15,1,0 days 01:36:38.134000,0 days 00:01:21.833000,204.782,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24299,1014,847,17,0.0,65,17,11,,0 days 00:01:22.382000,203.418,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24300,1014,9,18,0.0,65,19,11,,0 days 00:01:23.202000,201.413,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24301,1014,840,19,0.0,44,20,4,,0 days 00:01:23.226000,201.355,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24302,1014,846,20,0.0,44,18,4,,0 days 00:01:22.561000,202.977,2019,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,2019-05-12 13:10:00
+24306,1015,1,1,25.0,78,6,1,0 days 01:43:28.437000,0 days 00:01:16.167000,157.721,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24307,1015,20,2,18.0,78,9,1,0 days 01:43:31.039000,0 days 00:01:16.277000,157.494,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24308,1015,822,3,15.0,78,2,1,0 days 01:43:31.599000,0 days 00:01:15.163000,159.828,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24309,1015,830,4,12.0,78,7,1,0 days 01:43:33.974000,0 days 00:01:16.229000,157.593,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24310,1015,842,5,11.0,78,1,1,0 days 01:43:38.383000,0 days 00:01:14.279000,161.73,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24311,1015,832,6,8.0,78,5,1,0 days 01:44:21.891000,0 days 00:01:15.891000,158.295,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24312,1015,826,7,6.0,78,10,1,0 days 01:44:23.011000,0 days 00:01:16.288000,157.471,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24313,1015,848,8,4.0,78,3,1,0 days 01:44:23.637000,0 days 00:01:15.607000,158.89,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24314,1015,817,9,2.0,78,4,1,0 days 01:44:29.331000,0 days 00:01:15.697000,158.701,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24315,1015,154,10,1.0,78,16,1,0 days 01:44:29.471000,0 days 00:01:16.746000,156.531,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24316,1015,846,11,0.0,78,13,1,0 days 01:44:35.238000,0 days 00:01:16.413000,157.214,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24317,1015,825,14,0.0,77,17,11,,0 days 00:01:16.992000,156.031,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24318,1015,815,12,0.0,77,15,11,,0 days 00:01:16.613000,156.803,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24319,1015,807,13,0.0,77,8,11,,0 days 00:01:16.276000,157.496,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24320,1015,847,15,0.0,77,18,11,,0 days 00:01:17.038000,155.938,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24321,1015,840,16,0.0,77,12,11,,0 days 00:01:16.379000,157.284,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24322,1015,8,17,0.0,77,14,11,,0 days 00:01:16.436000,157.166,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24323,1015,9,18,0.0,77,19,11,,0 days 00:01:17.388000,155.233,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24324,1015,841,19,0.0,76,11,12,,0 days 00:01:16.299000,157.448,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24325,1015,844,20,0.0,16,20,4,,0 days 00:01:19.151000,151.775,2019,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,2019-05-26 13:10:00
+24326,1016,1,1,25.0,70,4,1,0 days 01:29:07.084000,0 days 00:01:14.813000,209.851,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24327,1016,20,2,18.0,70,5,1,0 days 01:29:10.742000,0 days 00:01:14.875000,209.677,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24328,1016,844,3,15.0,70,2,1,0 days 01:29:11.780000,0 days 00:01:14.356000,211.14,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24329,1016,822,4,13.0,70,1,1,0 days 01:29:58.127000,0 days 00:01:13.078000,214.833,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24330,1016,830,5,10.0,70,3,1,0 days 01:30:04.739000,0 days 00:01:14.767000,209.98,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24331,1016,817,6,8.0,69,9,11,,0 days 00:01:16.075000,206.37,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24332,1016,807,7,6.0,69,7,11,,0 days 00:01:15.995000,206.587,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24333,1016,842,8,4.0,69,10,11,,0 days 00:01:16.157000,206.147,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24334,1016,840,9,2.0,69,8,11,,0 days 00:01:16.043000,206.456,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24335,1016,826,10,1.0,69,11,11,,0 days 00:01:16.198000,206.036,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24336,1016,832,11,0.0,69,15,11,,0 days 00:01:16.471000,205.301,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24337,1016,815,12,0.0,69,13,11,,0 days 00:01:16.314000,205.723,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24338,1016,841,13,0.0,69,14,11,,0 days 00:01:16.365000,205.586,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24339,1016,154,14,0.0,69,12,11,,0 days 00:01:16.245000,205.909,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24340,1016,8,15,0.0,69,6,11,,0 days 00:01:15.442000,208.101,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24341,1016,847,16,0.0,68,17,12,,0 days 00:01:17.241000,203.254,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24342,1016,825,17,0.0,68,19,12,,0 days 00:01:17.309000,203.075,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24343,1016,9,18,0.0,67,18,13,,0 days 00:01:17.285000,203.139,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24344,1016,848,19,0.0,59,16,130,,0 days 00:01:17.151000,203.491,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24345,1016,846,20,0.0,8,20,22,,0 days 00:01:18.023000,201.217,2019,7,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,2019-06-09 18:10:00
+24346,1017,1,1,25.0,53,2,1,0 days 01:24:31.198000,0 days 00:01:32.764000,226.717,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24347,1017,822,2,18.0,53,3,1,0 days 01:24:49.254000,0 days 00:01:33.586000,224.725,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24348,1017,844,3,15.0,53,4,1,0 days 01:24:50.183000,0 days 00:01:33.828000,224.146,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24349,1017,830,4,12.0,53,5,1,0 days 01:25:06.103000,0 days 00:01:34.162000,223.351,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24350,1017,20,5,11.0,53,1,1,0 days 01:25:33.994000,0 days 00:01:32.740000,226.775,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24351,1017,832,6,8.0,53,6,1,0 days 01:26:06.660000,0 days 00:01:34.561000,222.408,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24352,1017,8,7,6.0,52,8,11,,0 days 00:01:34.873000,221.677,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24353,1017,807,8,4.0,52,10,11,,0 days 00:01:34.950000,221.497,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24354,1017,846,9,2.0,52,7,11,,0 days 00:01:34.754000,221.955,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24355,1017,842,10,1.0,52,15,11,,0 days 00:01:35.197000,220.922,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24356,1017,817,11,0.0,52,14,11,,0 days 00:01:35.150000,221.032,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24357,1017,815,12,0.0,52,11,11,,0 days 00:01:35.014000,221.348,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24358,1017,840,13,0.0,52,9,11,,0 days 00:01:34.924000,221.558,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24359,1017,826,14,0.0,52,16,11,,0 days 00:01:35.225000,220.857,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24360,1017,848,15,0.0,52,12,11,,0 days 00:01:35.029000,221.313,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24361,1017,841,16,0.0,52,13,11,,0 days 00:01:35.115000,221.113,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24362,1017,825,17,0.0,52,18,11,,0 days 00:01:35.692000,219.78,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24363,1017,9,18,0.0,51,20,12,,0 days 00:01:36.608000,217.696,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24364,1017,847,19,0.0,51,19,12,,0 days 00:01:35.830000,219.463,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24365,1017,154,20,0.0,44,17,31,,0 days 00:01:35.691000,219.782,2019,8,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,2019-06-23 13:10:00
+24366,1018,830,1,26.0,71,1,1,0 days 01:22:01.822000,0 days 00:01:07.475000,230.378,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24367,1018,844,2,18.0,71,3,1,0 days 01:22:04.546000,0 days 00:01:07.994000,228.62,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24368,1018,822,3,15.0,71,7,1,0 days 01:22:20.782000,0 days 00:01:08.565000,226.716,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24369,1018,20,4,12.0,71,2,1,0 days 01:22:21.432000,0 days 00:01:07.676000,229.694,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24370,1018,1,5,10.0,71,5,1,0 days 01:22:24.627000,0 days 00:01:08.050000,228.432,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24371,1018,846,6,8.0,70,8,11,,0 days 00:01:08.699000,226.274,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24372,1018,842,7,6.0,70,9,11,,0 days 00:01:08.790000,225.974,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24373,1018,832,8,4.0,70,6,11,,0 days 00:01:08.117000,228.207,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24374,1018,8,9,2.0,70,15,11,,0 days 00:01:09.126000,224.876,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24375,1018,841,10,1.0,70,13,11,,0 days 00:01:09.051000,225.12,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24376,1018,815,11,0.0,70,14,11,,0 days 00:01:09.061000,225.087,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24377,1018,817,12,0.0,70,4,11,,0 days 00:01:08.019000,228.536,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24378,1018,807,13,0.0,70,16,11,,0 days 00:01:09.248000,224.48,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24379,1018,840,14,0.0,70,17,11,,0 days 00:01:09.288000,224.35,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24380,1018,848,15,0.0,70,11,11,,0 days 00:01:08.946000,225.463,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24381,1018,154,16,0.0,70,12,11,,0 days 00:01:08.987000,225.329,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24382,1018,826,17,0.0,70,18,11,,0 days 00:01:09.498000,223.672,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24383,1018,847,18,0.0,69,19,12,,0 days 00:01:09.926000,222.303,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24384,1018,825,19,0.0,69,10,12,,0 days 00:01:08.903000,225.604,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24385,1018,9,20,0.0,68,20,13,,0 days 00:01:10.964000,219.051,2019,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,2019-06-30 13:10:00
+24386,1019,1,1,26.0,52,1,1,0 days 01:21:08.452000,0 days 00:01:27.369000,242.735,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24387,1019,822,2,18.0,52,2,1,0 days 01:21:33.380000,0 days 00:01:27.406000,242.633,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24388,1019,844,3,15.0,52,5,1,0 days 01:21:38.569000,0 days 00:01:29.313000,237.452,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24389,1019,842,4,12.0,52,8,1,0 days 01:21:43.144000,0 days 00:01:29.544000,236.839,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24390,1019,830,5,10.0,52,4,1,0 days 01:21:47.910000,0 days 00:01:29.272000,237.561,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24391,1019,832,6,8.0,52,11,1,0 days 01:22:02.091000,0 days 00:01:29.757000,236.277,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24392,1019,817,7,6.0,52,9,1,0 days 01:22:02.853000,0 days 00:01:29.624000,236.628,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24393,1019,8,8,4.0,52,14,1,0 days 01:22:13.992000,0 days 00:01:30.034000,235.551,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24394,1019,826,9,2.0,52,12,1,0 days 01:22:15.172000,0 days 00:01:29.910000,235.875,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24395,1019,807,10,1.0,52,13,1,0 days 01:22:21.185000,0 days 00:01:29.949000,235.773,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24396,1019,846,11,0.0,52,10,1,0 days 01:22:22.733000,0 days 00:01:29.636000,236.596,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24397,1019,848,12,0.0,52,15,1,0 days 01:22:24.069000,0 days 00:01:30.872000,233.378,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24398,1019,840,13,0.0,52,6,1,0 days 01:22:29.538000,0 days 00:01:29.390000,237.248,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24399,1019,847,14,0.0,51,16,11,,0 days 00:01:31.013000,233.017,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24400,1019,9,15,0.0,51,17,11,,0 days 00:01:31.509000,231.754,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24401,1019,20,16,0.0,51,3,11,,0 days 00:01:28.733000,239.004,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24402,1019,815,17,0.0,51,7,11,,0 days 00:01:29.456000,237.072,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24403,1019,841,18,0.0,18,18,20,,0 days 00:01:32.464000,229.36,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24404,1019,154,19,0.0,9,20,4,,0 days 00:01:34.350000,224.775,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24405,1019,825,20,0.0,6,19,4,,0 days 00:01:33.425000,227.001,2019,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,2019-07-14 13:10:00
+24406,1020,830,1,26.0,64,1,1,0 days 01:44:31.275000,0 days 00:01:16.645000,214.839,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24407,1020,20,2,18.0,64,2,1,0 days 01:44:38.608000,0 days 00:01:16.794000,214.423,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24408,1020,826,3,15.0,64,6,1,0 days 01:44:39.580000,0 days 00:01:17.708000,211.9,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24409,1020,840,4,12.0,64,8,1,0 days 01:44:40.241000,0 days 00:01:17.831000,211.566,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24410,1020,832,5,10.0,64,9,1,0 days 01:44:40.858000,0 days 00:01:17.841000,211.538,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24411,1020,848,6,8.0,64,10,1,0 days 01:44:41.327000,0 days 00:01:17.850000,211.514,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24412,1020,154,7,6.0,64,7,1,0 days 01:44:48.113000,0 days 00:01:17.746000,211.797,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24413,1020,825,8,4.0,64,5,1,0 days 01:44:50.040000,0 days 00:01:17.507000,212.45,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24414,1020,1,9,2.0,64,12,1,0 days 01:44:50.942000,0 days 00:01:18.811000,208.935,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24415,1020,9,10,1.0,64,13,1,0 days 01:44:56.262000,0 days 00:01:19.062000,208.271,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24416,1020,847,11,0.0,64,3,1,0 days 01:44:57.679000,0 days 00:01:17.485000,212.51,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24417,1020,8,12,0.0,64,15,1,0 days 01:45:13.489000,0 days 00:01:19.563000,206.96,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24418,1020,841,13,0.0,64,14,1,0 days 01:45:15.124000,0 days 00:01:19.300000,207.646,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24419,1020,842,14,0.0,61,4,4,,0 days 00:01:17.495000,212.483,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24420,1020,822,15,0.0,56,11,3,,0 days 00:01:18.272000,210.374,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24421,1020,807,16,0.0,39,17,3,,0 days 00:01:29.576000,183.826,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24422,1020,844,17,0.0,27,16,3,,0 days 00:01:27.697000,187.764,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24423,1020,846,18,0.0,25,18,75,,0 days 00:01:31.081000,180.788,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24424,1020,817,19,0.0,13,19,43,,0 days 00:01:32.654000,177.719,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24425,1020,815,20,0.0,1,0,20,,0 days 00:01:28.217748947,210.58524607730575,2019,11,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,2019-07-28 13:10:00
+24426,1021,1,1,25.0,70,2,1,0 days 01:35:03.796000,0 days 00:01:18.528000,200.84,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24427,1021,830,2,19.0,70,1,1,0 days 01:35:21.592000,0 days 00:01:17.103000,204.552,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24428,1021,20,3,15.0,70,4,1,0 days 01:36:05.229000,0 days 00:01:19.786000,197.673,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24429,1021,844,4,12.0,70,5,1,0 days 01:36:09.046000,0 days 00:01:20.493000,195.937,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24430,1021,832,5,10.0,69,10,11,,0 days 00:01:21.002000,194.706,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24431,1021,842,6,8.0,69,12,11,,0 days 00:01:21.045000,194.602,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24432,1021,8,7,6.0,69,9,11,,0 days 00:01:20.880000,195.0,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24433,1021,822,8,4.0,69,3,11,,0 days 00:01:19.331000,198.807,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24434,1021,846,9,2.0,69,13,11,,0 days 00:01:21.188000,194.26,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24435,1021,848,10,1.0,69,7,11,,0 days 00:01:20.621000,195.626,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24436,1021,815,11,0.0,69,15,11,,0 days 00:01:21.734000,192.962,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24437,1021,807,12,0.0,69,14,11,,0 days 00:01:21.650000,193.161,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24438,1021,825,13,0.0,69,11,11,,0 days 00:01:21.008000,194.691,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24439,1021,817,14,0.0,69,8,11,,0 days 00:01:20.839000,195.098,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24440,1021,826,15,0.0,68,16,12,,0 days 00:01:21.932000,192.496,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24441,1021,847,16,0.0,68,17,12,,0 days 00:01:22.386000,191.435,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24442,1021,840,17,0.0,68,6,12,,0 days 00:01:20.603000,195.67,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24443,1021,841,18,0.0,68,19,12,,0 days 00:01:23.134000,189.712,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24444,1021,9,19,0.0,67,20,13,,0 days 00:01:23.436000,189.026,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24445,1021,154,20,0.0,49,18,34,,0 days 00:01:22.809000,190.457,2019,12,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,2019-08-04 13:10:00
+24446,1022,844,1,25.0,44,4,1,0 days 01:23:45.710000,0 days 00:01:46.664000,236.39,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24447,1022,1,2,18.0,44,3,1,0 days 01:23:46.691000,0 days 00:01:46.580000,236.577,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24448,1022,822,3,15.0,44,2,1,0 days 01:23:58.295000,0 days 00:01:46.465000,236.832,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24449,1022,20,4,13.0,44,1,1,0 days 01:24:12.132000,0 days 00:01:46.409000,236.957,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24450,1022,848,5,10.0,44,5,1,0 days 01:25:07.035000,0 days 00:01:47.507000,234.537,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24451,1022,815,6,8.0,44,13,1,0 days 01:25:10.158000,0 days 00:01:48.781000,231.79,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24452,1022,826,7,6.0,44,7,1,0 days 01:25:15.367000,0 days 00:01:48.143000,233.157,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24453,1022,807,8,4.0,44,9,1,0 days 01:25:32.349000,0 days 00:01:48.349000,232.714,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24454,1022,842,9,2.0,44,17,1,0 days 01:25:34.878000,0 days 00:01:49.700000,229.848,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24455,1022,840,10,1.0,44,10,1,0 days 01:25:35.548000,0 days 00:01:48.357000,232.697,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24456,1022,846,11,0.0,43,8,5,,0 days 00:01:48.321000,232.774,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24457,1022,825,12,0.0,43,11,11,,0 days 00:01:48.677000,232.012,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24458,1022,154,13,0.0,43,16,11,,0 days 00:01:49.274000,230.744,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24459,1022,817,14,0.0,43,18,11,,0 days 00:01:50.451000,228.285,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24460,1022,847,15,0.0,43,14,11,,0 days 00:01:48.860000,231.622,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24461,1022,8,16,0.0,43,12,11,,0 days 00:01:48.753000,231.85,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24462,1022,9,17,0.0,43,15,11,,0 days 00:01:49.220000,230.858,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24463,1022,841,18,0.0,42,6,3,,0 days 00:01:47.560000,234.421,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24464,1022,832,19,0.0,1,0,75,,0 days 00:01:28.217748947,210.58524607730575,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24465,1022,830,20,0.0,0,0,3,,0 days 00:01:28.217748947,210.58524607730575,2019,13,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,2019-09-01 13:10:00
+24466,1023,844,1,25.0,53,4,1,0 days 01:15:26.665000,0 days 00:01:23.009000,251.235,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24467,1023,822,2,18.0,53,3,1,0 days 01:15:27.500000,0 days 00:01:22.859000,251.69,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24468,1023,1,3,16.0,53,1,1,0 days 01:16:01.864000,0 days 00:01:21.779000,255.014,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24469,1023,817,4,12.0,53,7,1,0 days 01:16:12.180000,0 days 00:01:23.466000,249.859,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24470,1023,807,5,10.0,53,8,1,0 days 01:16:24.830000,0 days 00:01:23.641000,249.337,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24471,1023,848,6,8.0,53,6,1,0 days 01:16:25.980000,0 days 00:01:23.364000,250.165,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24472,1023,815,7,6.0,53,9,1,0 days 01:16:40.467000,0 days 00:01:23.770000,248.953,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24473,1023,830,8,4.0,53,5,1,0 days 01:16:41.157000,0 days 00:01:23.143000,250.83,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24474,1023,841,9,2.0,52,15,11,,0 days 00:01:24.503000,246.793,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24475,1023,846,10,1.0,52,11,11,,0 days 00:01:24.044000,248.141,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24476,1023,842,11,0.0,52,10,11,,0 days 00:01:23.885000,248.611,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24477,1023,840,12,0.0,52,12,11,,0 days 00:01:24.165000,247.784,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24478,1023,20,13,0.0,52,2,11,,0 days 00:01:22.799000,251.872,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24479,1023,847,14,0.0,52,16,11,,0 days 00:01:24.842000,245.807,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24480,1023,8,15,0.0,52,13,11,,0 days 00:01:24.419000,247.039,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24481,1023,154,16,0.0,52,17,11,,0 days 00:01:24.985000,245.393,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24482,1023,9,17,0.0,51,18,12,,0 days 00:01:24.989000,245.382,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24483,1023,825,18,0.0,43,14,9,,0 days 00:01:24.443000,246.968,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24484,1023,826,19,0.0,29,20,5,,0 days 00:01:25.772000,243.142,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24485,1023,832,20,0.0,27,19,36,,0 days 00:01:25.637000,243.525,2019,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,2019-09-08 13:10:00
+24486,1024,20,1,25.0,61,5,1,0 days 01:58:33.667000,0 days 00:01:44.802000,173.916,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24487,1024,844,2,18.0,61,4,1,0 days 01:58:36.308000,0 days 00:01:44.723000,174.047,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24488,1024,830,3,15.0,61,8,1,0 days 01:58:37.488000,0 days 00:01:45.176000,173.298,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24489,1024,1,4,12.0,61,7,1,0 days 01:58:38.275000,0 days 00:01:44.914000,173.73,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24490,1024,822,5,10.0,61,2,1,0 days 01:58:39.786000,0 days 00:01:43.534000,176.046,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24491,1024,848,6,8.0,61,9,1,0 days 01:58:45.330000,0 days 00:01:45.260000,173.159,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24492,1024,846,7,6.0,61,11,1,0 days 01:58:48.436000,0 days 00:01:45.716000,172.412,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24493,1024,842,8,4.0,61,13,1,0 days 01:58:49.214000,0 days 00:01:45.769000,172.326,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24494,1024,807,9,2.0,61,12,1,0 days 01:58:50.385000,0 days 00:01:45.765000,172.333,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24495,1024,841,10,1.0,61,10,1,0 days 01:59:01.522000,0 days 00:01:45.630000,172.553,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24496,1024,154,11,0.0,61,16,1,0 days 01:59:09.103000,0 days 00:01:46.274000,171.507,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24497,1024,832,12,0.0,61,15,1,0 days 01:59:09.641000,0 days 00:01:45.969000,172.001,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24498,1024,840,13,0.0,61,6,1,0 days 01:59:10.086000,0 days 00:01:44.896000,173.76,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24499,1024,817,14,0.0,61,14,1,0 days 01:59:11.327000,0 days 00:01:45.915000,172.088,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24500,1024,826,15,0.0,61,3,1,0 days 01:59:11.845000,0 days 00:01:44.371000,174.634,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24501,1024,9,16,0.0,61,18,1,0 days 01:59:20.691000,0 days 00:01:46.793000,170.674,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24502,1024,825,17,0.0,61,1,1,0 days 02:00:00.189000,0 days 00:01:42.301000,178.168,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24503,1024,8,18,0.0,49,19,4,,0 days 00:01:47.062000,170.245,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24504,1024,815,19,0.0,42,17,5,,0 days 00:01:46.683000,170.85,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24505,1024,847,20,0.0,34,20,4,,0 days 00:01:48.285000,168.322,2019,15,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,2019-09-22 12:10:00
+24506,1025,1,1,26.0,53,1,1,0 days 01:33:38.992000,0 days 00:01:35.761000,219.847,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24507,1025,822,2,18.0,53,3,1,0 days 01:33:42.821000,0 days 00:01:36.316000,218.58,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24508,1025,844,3,15.0,53,2,1,0 days 01:33:44.204000,0 days 00:01:36.193000,218.86,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24509,1025,830,4,12.0,53,5,1,0 days 01:33:53.202000,0 days 00:01:36.937000,217.18,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24510,1025,848,5,10.0,53,4,1,0 days 01:34:17.340000,0 days 00:01:36.762000,217.573,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24511,1025,832,6,8.0,53,6,1,0 days 01:34:24.881000,0 days 00:01:38.020000,214.78,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24512,1025,815,7,6.0,53,7,1,0 days 01:34:27.720000,0 days 00:01:38.043000,214.73,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24513,1025,846,8,4.0,53,11,1,0 days 01:34:36.741000,0 days 00:01:38.301000,214.166,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24514,1025,825,9,2.0,53,8,1,0 days 01:34:37.771000,0 days 00:01:38.130000,214.539,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24515,1025,807,10,1.0,53,12,1,0 days 01:34:38.833000,0 days 00:01:38.519000,213.692,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24516,1025,840,11,0.0,53,15,1,0 days 01:34:39.813000,0 days 00:01:38.611000,213.493,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24517,1025,826,12,0.0,53,9,1,0 days 01:34:41.488000,0 days 00:01:38.228000,214.325,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24518,1025,8,13,0.0,53,13,1,0 days 01:34:47.902000,0 days 00:01:38.589000,213.541,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24519,1025,842,14,0.0,53,14,1,0 days 01:34:49.068000,0 days 00:01:38.606000,213.504,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24520,1025,841,15,0.0,53,16,1,0 days 01:34:52.338000,0 days 00:01:38.696000,213.309,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24521,1025,9,16,0.0,28,19,23,,0 days 00:01:42.327000,205.74,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24522,1025,847,17,0.0,27,18,23,,0 days 00:01:41.705000,206.998,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24523,1025,20,18,0.0,26,10,75,,0 days 00:01:38.245000,214.288,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24524,1025,817,19,0.0,24,17,4,,0 days 00:01:41.284000,207.859,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24525,1025,154,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2019,16,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,2019-09-29 11:10:00
+24526,1026,822,1,25.0,52,4,1,0 days 01:21:46.755000,0 days 00:01:31.862000,227.571,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24527,1026,20,2,18.0,52,5,1,0 days 01:22:00.098000,0 days 00:01:32.122000,226.929,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24528,1026,1,3,16.0,52,1,1,0 days 01:22:00.613000,0 days 00:01:30.983000,229.77,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24529,1026,848,4,12.0,52,8,1,0 days 01:22:46.292000,0 days 00:01:32.775000,225.332,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24530,1026,832,5,10.0,52,12,1,0 days 01:22:55.856000,0 days 00:01:33.563000,223.434,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24531,1026,844,6,8.0,51,2,11,,0 days 00:01:31.611000,228.195,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24532,1026,842,7,6.0,51,17,11,,0 days 00:01:35.321000,219.313,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24533,1026,815,8,4.0,51,7,11,,0 days 00:01:32.621000,225.706,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24534,1026,840,9,2.0,51,14,11,,0 days 00:01:34.713000,220.721,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24535,1026,826,10,1.0,51,10,11,,0 days 00:01:33.239000,224.21,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24536,1026,846,11,0.0,51,13,11,,0 days 00:01:34.116000,222.121,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24537,1026,8,12,0.0,51,9,11,,0 days 00:01:33.190000,224.328,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24538,1026,154,13,0.0,51,16,11,,0 days 00:01:34.988000,220.082,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24539,1026,841,14,0.0,51,6,11,,0 days 00:01:32.369000,226.322,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24540,1026,825,15,0.0,51,3,11,,0 days 00:01:31.732000,227.894,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24541,1026,847,16,0.0,50,18,12,,0 days 00:01:35.458000,218.998,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24542,1026,9,17,0.0,50,19,12,,0 days 00:01:36.332000,217.012,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24543,1026,830,18,0.0,14,20,23,,0 days 00:01:37.249000,214.965,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24544,1026,817,19,0.0,51,11,2,,0 days 00:01:33.481000,223.63,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24545,1026,807,20,0.0,51,15,2,,0 days 00:01:34.921000,220.237,2019,17,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,2019-10-13 05:10:00
+24546,1027,1,1,25.0,71,4,1,0 days 01:36:48.904000,0 days 00:01:19.461000,194.993,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24547,1027,20,2,18.0,71,3,1,0 days 01:36:50.670000,0 days 00:01:19.381000,195.19,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24548,1027,822,3,15.0,71,5,1,0 days 01:36:52.457000,0 days 00:01:19.494000,194.912,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24549,1027,844,4,13.0,71,1,1,0 days 01:36:55.272000,0 days 00:01:19.232000,195.557,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24550,1027,848,5,10.0,71,2,1,0 days 01:37:10.303000,0 days 00:01:19.325000,195.328,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24551,1027,830,6,8.0,71,11,1,0 days 01:37:57.711000,0 days 00:01:20.406000,192.702,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24552,1027,815,7,6.0,71,12,1,0 days 01:38:02.723000,0 days 00:01:20.485000,192.512,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24553,1027,817,8,4.0,71,9,1,0 days 01:38:03.828000,0 days 00:01:20.146000,193.327,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24554,1027,842,9,2.0,70,6,11,,0 days 00:01:19.530000,194.824,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24555,1027,807,10,1.0,70,14,11,,0 days 00:01:20.791000,191.783,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24556,1027,826,11,0.0,70,7,11,,0 days 00:01:19.905000,193.91,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24557,1027,840,12,0.0,70,15,11,,0 days 00:01:20.922000,191.473,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24558,1027,832,13,0.0,70,10,11,,0 days 00:01:20.311000,192.929,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24559,1027,841,14,0.0,70,16,11,,0 days 00:01:21.014000,191.255,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24560,1027,825,15,0.0,69,20,12,,0 days 00:01:21.682000,189.691,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24561,1027,847,16,0.0,69,17,12,,0 days 00:01:21.286000,190.615,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24562,1027,154,17,0.0,69,18,12,,0 days 00:01:21.581000,189.926,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24563,1027,9,18,0.0,69,13,12,,0 days 00:01:20.696000,192.009,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24564,1027,8,19,0.0,58,8,25,,0 days 00:01:20.082000,193.481,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24565,1027,846,20,0.0,48,19,54,,0 days 00:01:21.643000,189.782,2019,18,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,2019-10-27 19:10:00
+24566,1028,822,1,25.0,56,2,1,0 days 01:33:55.653000,0 days 00:01:36.957000,204.696,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24567,1028,1,2,18.0,56,7,1,0 days 01:33:59.801000,0 days 00:01:38.446000,201.6,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24568,1028,830,3,15.0,56,5,1,0 days 01:34:00.655000,0 days 00:01:38.214000,202.077,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24569,1028,844,4,13.0,56,1,1,0 days 01:34:47.892000,0 days 00:01:36.169000,206.374,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24570,1028,848,5,10.0,56,3,1,0 days 01:35:13.691000,0 days 00:01:38.029000,202.458,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24571,1028,817,6,8.0,56,14,1,0 days 01:35:26.019000,0 days 00:01:40.564000,197.354,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24572,1028,846,7,6.0,56,4,1,0 days 01:35:26.417000,0 days 00:01:38.074000,202.365,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24573,1028,832,8,4.0,55,15,11,,0 days 00:01:40.844000,196.806,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24574,1028,807,9,2.0,55,6,11,,0 days 00:01:38.437000,201.619,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24575,1028,815,10,1.0,55,11,11,,0 days 00:01:40.165000,198.141,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24576,1028,8,11,0.0,55,9,11,,0 days 00:01:39.608000,199.249,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24577,1028,826,12,0.0,55,8,11,,0 days 00:01:38.969000,200.535,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24578,1028,840,13,0.0,55,13,11,,0 days 00:01:40.380000,197.716,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24579,1028,841,14,0.0,55,10,11,,0 days 00:01:39.964000,198.539,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24580,1028,154,15,0.0,55,18,11,,0 days 00:01:41.270000,195.979,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24581,1028,842,16,0.0,54,16,22,,0 days 00:01:40.850000,196.795,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24582,1028,847,17,0.0,54,17,12,,0 days 00:01:41.239000,196.039,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24583,1028,825,18,0.0,52,12,23,,0 days 00:01:40.347000,197.781,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24584,1028,9,19,0.0,31,20,44,,0 days 00:01:43.830000,191.147,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24585,1028,20,20,0.0,7,19,22,,0 days 00:01:42.165000,194.262,2019,19,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,2019-11-03 19:10:00
+24586,1029,830,1,25.0,71,2,1,0 days 01:33:14.678000,0 days 00:01:10.862000,218.909,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24587,1029,842,2,18.0,71,9,1,0 days 01:33:20.755000,0 days 00:01:12.425000,214.185,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24588,1029,832,3,15.0,71,16,1,0 days 01:33:23.574000,0 days 00:01:13.158000,212.039,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24589,1029,8,4,12.0,71,15,1,0 days 01:33:24.130000,0 days 00:01:13.135000,212.106,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24590,1029,841,5,10.0,71,14,1,0 days 01:33:24.879000,0 days 00:01:13.020000,212.44,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24591,1029,817,6,8.0,71,11,1,0 days 01:33:25.219000,0 days 00:01:12.733000,213.278,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24592,1029,1,7,6.0,71,3,1,0 days 01:33:25.817000,0 days 00:01:11.082000,218.232,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24593,1029,846,8,4.0,71,7,1,0 days 01:33:25.882000,0 days 00:01:12.328000,214.472,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24594,1029,815,9,2.0,71,12,1,0 days 01:33:26.207000,0 days 00:01:12.840000,212.965,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24595,1029,826,10,1.0,71,8,1,0 days 01:33:26.609000,0 days 00:01:12.385000,214.304,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24596,1029,825,11,0.0,71,17,1,0 days 01:33:27.410000,0 days 00:01:13.262000,211.738,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24597,1029,847,12,0.0,71,19,1,0 days 01:33:28.277000,0 days 00:01:13.752000,210.331,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24598,1029,154,13,0.0,71,18,1,0 days 01:33:28.925000,0 days 00:01:13.619000,210.711,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24599,1029,848,14,0.0,71,4,1,0 days 01:33:29.605000,0 days 00:01:11.087000,218.217,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24600,1029,807,15,0.0,71,13,1,0 days 01:33:32.737000,0 days 00:01:12.934000,212.69,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24601,1029,9,16,0.0,70,20,11,,0 days 00:01:14.553000,208.072,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24602,1029,20,17,0.0,65,5,4,,0 days 00:01:11.384000,217.309,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24603,1029,844,18,0.0,65,6,4,,0 days 00:01:11.423000,217.19,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24604,1029,840,19,0.0,65,10,22,,0 days 00:01:12.603000,213.66,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24605,1029,822,20,0.0,51,1,131,,0 days 00:01:10.698000,219.417,2019,20,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,2019-11-17 17:10:00
+24606,1030,1,1,26.0,55,1,1,0 days 01:34:05.715000,0 days 00:01:39.283000,201.387,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24607,1030,830,2,18.0,55,5,1,0 days 01:34:22.487000,0 days 00:01:41.119000,197.731,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24608,1030,844,3,15.0,55,4,1,0 days 01:34:49.150000,0 days 00:01:40.442000,199.064,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24609,1030,822,4,12.0,55,2,1,0 days 01:34:50.094000,0 days 00:01:39.715000,200.515,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24610,1030,20,5,10.0,55,3,1,0 days 01:35:10.072000,0 days 00:01:40.128000,199.688,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24611,1030,848,6,8.0,55,8,1,0 days 01:35:14.920000,0 days 00:01:42.219000,195.603,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24612,1030,815,7,6.0,54,11,11,,0 days 00:01:42.639000,194.803,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24613,1030,846,8,4.0,54,12,11,,0 days 00:01:43.026000,194.071,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24614,1030,826,9,2.0,54,9,11,,0 days 00:01:42.222000,195.597,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24615,1030,832,10,1.0,54,7,11,,0 days 00:01:41.294000,197.389,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24616,1030,817,11,0.0,54,6,11,,0 days 00:01:41.190000,197.592,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24617,1030,807,12,0.0,54,16,11,,0 days 00:01:43.274000,193.605,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24618,1030,8,13,0.0,54,14,11,,0 days 00:01:43.142000,193.853,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24619,1030,825,14,0.0,54,19,11,,0 days 00:01:43.790000,192.642,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24620,1030,154,15,0.0,54,18,11,,0 days 00:01:43.666000,192.873,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24621,1030,841,16,0.0,54,15,11,,0 days 00:01:43.256000,193.639,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24622,1030,847,17,0.0,54,13,11,,0 days 00:01:43.074000,193.981,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24623,1030,842,18,0.0,53,10,12,,0 days 00:01:42.414000,195.231,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24624,1030,9,19,0.0,53,20,12,,0 days 00:01:44.500000,191.333,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00
+24625,1030,840,20,0.0,45,17,23,,0 days 00:01:43.326000,193.507,2019,21,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,2019-12-01 13:10:00

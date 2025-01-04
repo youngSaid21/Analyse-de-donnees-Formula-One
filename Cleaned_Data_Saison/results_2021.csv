@@ -1,441 +1,441 @@
-resultId,raceId,driverId,positionOrder,points,laps,rank,statusId,time_,fastestLapTime_,fastestLapSpeed_,year,round,circuitId,name,url,date & time
-24966,1052,1,1,25.0,56,4,1,0 days 01:32:03.897000,0 days 00:01:34.015000,207.235,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24967,1052,830,2,18.0,56,2,1,0 days 01:32:04.642000,0 days 00:01:33.228000,208.984,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24968,1052,822,3,16.0,56,1,1,0 days 01:32:41.280000,0 days 00:01:32.090000,211.566,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24969,1052,846,4,12.0,56,6,1,0 days 01:32:50.363000,0 days 00:01:34.396000,206.398,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24970,1052,815,5,10.0,56,3,1,0 days 01:32:55.944000,0 days 00:01:33.970000,207.334,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24971,1052,844,6,8.0,56,11,1,0 days 01:33:02.987000,0 days 00:01:34.988000,205.112,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24972,1052,817,7,6.0,56,10,1,0 days 01:33:09.901000,0 days 00:01:34.932000,205.233,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24973,1052,832,8,4.0,56,7,1,0 days 01:33:10.997000,0 days 00:01:34.509000,206.151,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24974,1052,852,9,2.0,56,8,1,0 days 01:33:29.589000,0 days 00:01:34.761000,205.603,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24975,1052,840,10,1.0,56,9,1,0 days 01:33:30.610000,0 days 00:01:34.865000,205.378,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24976,1052,8,11,0.0,56,14,1,0 days 01:33:32.761000,0 days 00:01:35.192000,204.672,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24977,1052,841,12,0.0,55,13,11,,0 days 00:01:35.122000,204.823,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24978,1052,839,13,0.0,55,15,11,,0 days 00:01:35.250000,204.548,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24979,1052,847,14,0.0,55,12,11,,0 days 00:01:35.036000,205.008,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24980,1052,20,15,0.0,55,16,11,,0 days 00:01:35.566000,203.871,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24981,1052,854,16,0.0,55,18,11,,0 days 00:01:36.134000,202.667,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24982,1052,842,17,0.0,52,5,31,,0 days 00:01:34.090000,207.069,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24983,1052,849,18,0.0,51,19,31,,0 days 00:01:36.602000,201.685,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24984,1052,4,19,0.0,32,17,23,,0 days 00:01:36.063000,202.816,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24985,1052,853,20,0.0,0,0,3,,0 days 00:01:28.217748947,210.58524607730575,2021,1,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,2021-03-28 15:00:00
-24986,1053,830,1,25.0,63,2,1,0 days 02:02:34.598000,0 days 00:01:17.524000,227.96,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24987,1053,1,2,19.0,63,1,1,0 days 02:02:56.598000,0 days 00:01:16.702000,230.403,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24988,1053,846,3,15.0,63,3,1,0 days 02:02:58.300000,0 days 00:01:18.259000,225.819,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24989,1053,844,4,12.0,63,6,1,0 days 02:03:00.177000,0 days 00:01:18.379000,225.473,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24990,1053,832,5,10.0,63,7,1,0 days 02:03:01.634000,0 days 00:01:18.490000,225.154,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24991,1053,817,6,8.0,63,12,1,0 days 02:03:25.818000,0 days 00:01:19.341000,222.739,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24992,1053,842,7,6.0,63,9,1,0 days 02:03:27.416000,0 days 00:01:18.994000,223.718,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24993,1053,840,8,4.0,63,8,1,0 days 02:03:31.507000,0 days 00:01:18.782000,224.32,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24994,1053,839,9,2.0,63,15,1,0 days 02:03:40.302000,0 days 00:01:19.422000,222.512,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24995,1053,4,10,1.0,63,14,1,0 days 02:03:41.159000,0 days 00:01:19.417000,222.526,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24996,1053,815,11,0.0,63,13,1,0 days 02:03:41.749000,0 days 00:01:19.396000,222.585,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24997,1053,852,12,0.0,63,4,1,0 days 02:03:47.782000,0 days 00:01:18.334000,225.603,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24998,1053,8,13,0.0,63,5,1,0 days 02:04:09.371000,0 days 00:01:18.353000,225.548,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-24999,1053,841,14,0.0,62,16,11,,0 days 00:01:19.470000,222.378,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-25000,1053,20,15,0.0,61,10,6,,0 days 00:01:19.074000,223.491,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-25001,1053,854,16,0.0,61,11,12,,0 days 00:01:19.193000,223.156,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-25002,1053,853,17,0.0,61,17,12,,0 days 00:01:20.402000,219.8,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-25003,1053,822,18,0.0,30,19,4,,0 days 00:01:28.485000,199.721,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-25004,1053,847,19,0.0,30,18,4,,0 days 00:01:26.543000,204.203,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-25005,1053,849,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,2,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,2021-04-18 13:00:00
-25006,1054,1,1,25.0,66,4,1,0 days 01:34:31.421000,0 days 00:01:20.933000,206.971,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25007,1054,830,2,18.0,66,3,1,0 days 01:35:00.569000,0 days 00:01:20.695000,207.581,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25008,1054,822,3,16.0,66,1,1,0 days 01:35:04.951000,0 days 00:01:19.865000,209.738,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25009,1054,815,4,12.0,66,2,1,0 days 01:35:11.156000,0 days 00:01:20.643000,207.715,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25010,1054,846,5,10.0,66,7,1,0 days 01:35:22.790000,0 days 00:01:21.696000,205.038,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25011,1054,844,6,8.0,66,6,1,0 days 01:35:27.202000,0 days 00:01:21.496000,205.541,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25012,1054,839,7,6.0,66,8,1,0 days 01:35:35.170000,0 days 00:01:21.886000,204.562,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25013,1054,4,8,4.0,66,5,1,0 days 01:34:33.229000,0 days 00:01:21.032000,206.718,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25014,1054,817,9,2.0,66,10,1,0 days 01:35:46.790000,0 days 00:01:21.987000,204.31,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25015,1054,842,10,1.0,66,11,1,0 days 01:35:47.884000,0 days 00:01:22.014000,204.243,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25016,1054,832,11,0.0,66,14,1,0 days 01:35:50.376000,0 days 00:01:22.325000,203.471,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25017,1054,841,12,0.0,65,13,11,,0 days 00:01:22.167000,203.862,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25018,1054,20,13,0.0,65,15,11,,0 days 00:01:22.416000,203.246,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25019,1054,840,14,0.0,65,9,11,,0 days 00:01:21.970000,204.352,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25020,1054,852,15,0.0,65,12,11,,0 days 00:01:22.058000,204.133,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25021,1054,847,16,0.0,65,16,11,,0 days 00:01:22.654000,202.661,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25022,1054,854,17,0.0,64,17,12,,0 days 00:01:22.755000,202.414,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25023,1054,849,18,0.0,64,18,12,,0 days 00:01:23.155000,201.44,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25024,1054,853,19,0.0,64,19,12,,0 days 00:01:23.641000,200.27,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25025,1054,8,20,0.0,1,0,130,,0 days 00:01:28.217748947,210.58524607730575,2021,3,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,2021-05-02 14:00:00
-25026,1055,1,1,25.0,66,5,1,0 days 01:33:07.680000,0 days 00:01:20.665000,208.64,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25027,1055,830,2,19.0,66,1,1,0 days 01:33:23.521000,0 days 00:01:18.149000,215.357,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25028,1055,822,3,15.0,66,2,1,0 days 01:33:34.290000,0 days 00:01:19.430000,211.884,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25029,1055,844,4,12.0,66,4,1,0 days 01:34:02.296000,0 days 00:01:20.459000,209.174,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25030,1055,815,5,10.0,66,3,1,0 days 01:34:11.351000,0 days 00:01:19.483000,211.743,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25031,1055,817,6,8.0,66,10,1,0 days 01:34:21.448000,0 days 00:01:21.853000,205.612,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25032,1055,832,7,6.0,66,9,1,0 days 01:34:22.350000,0 days 00:01:21.568000,206.33,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25033,1055,846,8,4.0,65,7,11,,0 days 00:01:21.279000,207.064,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25034,1055,839,9,2.0,65,18,11,,0 days 00:01:23.311000,202.014,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25035,1055,842,10,1.0,65,8,11,,0 days 00:01:21.375000,206.82,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25036,1055,840,11,0.0,65,11,11,,0 days 00:01:22.607000,203.735,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25037,1055,8,12,0.0,65,15,11,,0 days 00:01:22.868000,203.094,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25038,1055,20,13,0.0,65,14,11,,0 days 00:01:22.820000,203.211,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25039,1055,847,14,0.0,65,17,11,,0 days 00:01:23.208000,202.264,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25040,1055,841,15,0.0,65,13,11,,0 days 00:01:22.802000,203.255,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25041,1055,849,16,0.0,65,16,11,,0 days 00:01:22.905000,203.003,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25042,1055,4,17,0.0,65,6,11,,0 days 00:01:21.182000,207.311,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25043,1055,854,18,0.0,64,12,12,,0 days 00:01:22.637000,203.661,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25044,1055,853,19,0.0,64,19,12,,0 days 00:01:24.040000,200.261,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25045,1055,852,20,0.0,6,20,10,,0 days 00:01:24.825000,198.408,2021,4,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,2021-05-09 13:00:00
-25047,1056,832,2,18.0,78,5,1,0 days 01:39:05.788000,0 days 00:01:14.621000,160.989,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25046,1056,830,1,25.0,78,6,1,0 days 01:38:56.820000,0 days 00:01:14.649000,160.929,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25048,1056,846,3,15.0,78,7,1,0 days 01:39:16.247000,0 days 00:01:14.670000,160.883,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25049,1056,815,4,12.0,78,3,1,0 days 01:39:17.310000,0 days 00:01:14.552000,161.138,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25050,1056,20,5,10.0,78,11,1,0 days 01:39:49.411000,0 days 00:01:15.316000,159.503,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25051,1056,842,6,8.0,78,14,1,0 days 01:39:50.716000,0 days 00:01:15.412000,159.3,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25052,1056,1,7,7.0,78,1,1,0 days 01:40:05.051000,0 days 00:01:12.909000,164.769,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25053,1056,840,8,4.0,77,8,11,,0 days 00:01:14.674000,160.875,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25054,1056,839,9,2.0,77,12,11,,0 days 00:01:15.316000,159.503,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25055,1056,841,10,1.0,77,13,11,,0 days 00:01:15.331000,159.472,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25056,1056,8,11,0.0,77,9,11,,0 days 00:01:14.971000,160.237,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25057,1056,817,12,0.0,77,4,11,,0 days 00:01:14.578000,161.082,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25058,1056,4,13,0.0,77,10,11,,0 days 00:01:15.026000,160.12,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25059,1056,847,14,0.0,77,15,11,,0 days 00:01:15.539000,159.033,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25060,1056,849,15,0.0,77,16,11,,0 days 00:01:15.573000,158.961,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25061,1056,852,16,0.0,77,2,11,,0 days 00:01:14.037000,162.259,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25062,1056,853,17,0.0,75,19,13,,0 days 00:01:16.866000,156.287,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25063,1056,854,18,0.0,75,18,13,,0 days 00:01:16.425000,157.189,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25064,1056,822,19,0.0,29,17,61,,0 days 00:01:15.706000,158.682,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25065,1056,844,20,0.0,0,0,30,,0 days 00:01:28.217748947,210.58524607730575,2021,5,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,2021-05-23 13:00:00
-25066,1057,815,1,25.0,51,2,1,0 days 02:13:36.410000,0 days 00:01:44.687000,206.432,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25067,1057,20,2,18.0,51,4,1,0 days 02:13:37.795000,0 days 00:01:44.890000,206.032,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25068,1057,842,3,15.0,51,6,1,0 days 02:13:39.172000,0 days 00:01:45.220000,205.386,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25069,1057,844,4,12.0,51,8,1,0 days 02:13:40.238000,0 days 00:01:45.382000,205.071,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25070,1057,846,5,10.0,51,7,1,0 days 02:13:41.164000,0 days 00:01:45.326000,205.18,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25071,1057,4,6,8.0,51,11,1,0 days 02:13:42.792000,0 days 00:01:45.624000,204.601,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25072,1057,852,7,6.0,51,5,1,0 days 02:13:43.034000,0 days 00:01:44.939000,205.936,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25073,1057,832,8,4.0,51,13,1,0 days 02:13:44.119000,0 days 00:01:45.700000,204.454,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25074,1057,817,9,2.0,51,14,1,0 days 02:13:45.284000,0 days 00:01:45.713000,204.428,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25075,1057,8,10,1.0,51,10,1,0 days 02:13:45.986000,0 days 00:01:45.601000,204.645,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25076,1057,841,11,0.0,51,9,1,0 days 02:13:46.664000,0 days 00:01:45.575000,204.696,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25077,1057,822,12,0.0,51,12,1,0 days 02:13:47.674000,0 days 00:01:45.665000,204.521,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25078,1057,854,13,0.0,51,18,1,0 days 02:13:50.651000,0 days 00:01:47.624000,200.799,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25079,1057,853,14,0.0,51,19,1,0 days 02:13:50.725000,0 days 00:01:47.747000,200.569,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25080,1057,1,15,0.0,51,3,1,0 days 02:13:54.078000,0 days 00:01:44.769000,206.27,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25081,1057,849,16,0.0,51,17,1,0 days 02:14:19.789000,0 days 00:01:46.608000,202.712,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25082,1057,847,17,0.0,48,15,6,,0 days 00:01:45.959000,203.954,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25083,1057,830,18,0.0,45,1,3,,0 days 00:01:44.481000,206.839,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25084,1057,840,19,0.0,29,16,3,,0 days 00:01:46.207000,203.478,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25085,1057,839,20,0.0,3,20,101,,0 days 00:01:50.850000,194.955,2021,6,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,2021-06-06 12:00:00
-25086,1059,830,1,26.0,53,1,1,0 days 01:27:25.770000,0 days 00:01:36.404000,218.156,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25087,1059,1,2,18.0,53,5,1,0 days 01:27:28.674000,0 days 00:01:37.410000,215.903,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25088,1059,815,3,15.0,53,2,1,0 days 01:27:34.581000,0 days 00:01:36.693000,217.504,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25089,1059,822,4,12.0,53,3,1,0 days 01:27:40.388000,0 days 00:01:36.960000,216.905,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25090,1059,846,5,10.0,53,6,1,0 days 01:28:29.802000,0 days 00:01:37.425000,215.87,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25091,1059,817,6,8.0,53,14,1,0 days 01:28:41.627000,0 days 00:01:38.324000,213.896,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25092,1059,842,7,6.0,53,11,1,0 days 01:28:42.366000,0 days 00:01:38.103000,214.378,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25093,1059,4,8,4.0,53,7,1,0 days 01:28:43.465000,0 days 00:01:37.646000,215.382,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25094,1059,20,9,2.0,53,4,1,0 days 01:28:45.436000,0 days 00:01:37.138000,216.508,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25095,1059,840,10,1.0,53,9,1,0 days 01:28:57.716000,0 days 00:01:37.828000,214.981,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25096,1059,832,11,0.0,53,18,1,0 days 01:29:05.107000,0 days 00:01:38.931000,212.584,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25097,1059,847,12,0.0,52,13,11,,0 days 00:01:38.314000,213.918,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25098,1059,852,13,0.0,52,19,11,,0 days 00:01:38.980000,212.479,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25099,1059,839,14,0.0,52,15,11,,0 days 00:01:38.645000,213.2,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25100,1059,841,15,0.0,52,16,11,,0 days 00:01:38.702000,213.077,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25101,1059,844,16,0.0,52,8,11,,0 days 00:01:37.681000,215.304,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25102,1059,8,17,0.0,52,10,11,,0 days 00:01:37.992000,214.621,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25103,1059,849,18,0.0,52,12,11,,0 days 00:01:38.313000,213.92,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25104,1059,854,19,0.0,52,17,11,,0 days 00:01:38.847000,212.765,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25105,1059,853,20,0.0,52,20,11,,0 days 00:01:39.317000,211.758,2021,7,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,2021-06-20 13:00:00
-25106,1058,830,1,25.0,71,3,1,0 days 01:22:18.925000,0 days 00:01:08.017000,228.542,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25107,1058,1,2,19.0,71,1,1,0 days 01:22:54.668000,0 days 00:01:07.058000,231.811,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25108,1058,822,3,15.0,71,5,1,0 days 01:23:05.832000,0 days 00:01:08.619000,226.537,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25109,1058,815,4,12.0,71,2,1,0 days 01:23:06.359000,0 days 00:01:07.894000,228.956,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25110,1058,846,5,10.0,70,7,11,,0 days 00:01:08.903000,225.604,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25111,1058,832,6,8.0,70,4,11,,0 days 00:01:08.609000,226.57,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25112,1058,844,7,6.0,70,6,11,,0 days 00:01:08.738000,226.145,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25113,1058,840,8,4.0,70,14,11,,0 days 00:01:09.787000,222.746,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25114,1058,4,9,2.0,70,13,11,,0 days 00:01:09.749000,222.867,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25115,1058,852,10,1.0,70,11,11,,0 days 00:01:09.650000,223.184,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25116,1058,8,11,0.0,70,8,11,,0 days 00:01:09.128000,224.869,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25117,1058,20,12,0.0,70,15,11,,0 days 00:01:09.821000,222.637,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25118,1058,817,13,0.0,70,9,11,,0 days 00:01:09.305000,224.295,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25119,1058,839,14,0.0,70,10,11,,0 days 00:01:09.576000,223.421,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25120,1058,841,15,0.0,70,12,11,,0 days 00:01:09.723000,222.95,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25121,1058,854,16,0.0,69,16,12,,0 days 00:01:10.005000,222.052,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25122,1058,849,17,0.0,68,17,13,,0 days 00:01:10.104000,221.739,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25123,1058,853,18,0.0,68,19,13,,0 days 00:01:10.951000,219.092,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25124,1058,847,19,0.0,36,18,5,,0 days 00:01:10.499000,220.496,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25125,1058,842,20,0.0,1,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,8,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,2021-06-27 13:00:00
-25126,1060,830,1,26.0,71,1,1,0 days 01:23:54.543000,0 days 00:01:06.200000,234.815,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25127,1060,822,2,18.0,71,6,1,0 days 01:24:12.516000,0 days 00:01:08.374000,227.349,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25128,1060,846,3,15.0,71,10,1,0 days 01:24:14.562000,0 days 00:01:08.471000,227.027,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25129,1060,1,4,12.0,71,3,1,0 days 01:24:40.995000,0 days 00:01:08.126000,228.177,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25130,1060,832,5,10.0,71,2,1,0 days 01:24:51.687000,0 days 00:01:07.762000,229.402,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25131,1060,815,6,8.0,71,5,1,0 days 01:24:52.458000,0 days 00:01:08.192000,227.956,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25132,1060,817,7,6.0,71,14,1,0 days 01:24:54.938000,0 days 00:01:08.820000,225.876,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25133,1060,844,8,4.0,71,13,1,0 days 01:24:55.738000,0 days 00:01:08.698000,226.277,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25134,1060,842,9,2.0,71,4,1,0 days 01:24:56.387000,0 days 00:01:08.146000,228.11,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25135,1060,4,10,1.0,70,7,11,,0 days 00:01:08.405000,227.246,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25136,1060,847,11,0.0,70,16,11,,0 days 00:01:08.900000,225.613,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25137,1060,852,12,0.0,70,9,11,,0 days 00:01:08.455000,227.08,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25138,1060,840,13,0.0,70,12,11,,0 days 00:01:08.659000,226.405,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25139,1060,841,14,0.0,70,17,11,,0 days 00:01:09.042000,225.149,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25140,1060,8,15,0.0,70,15,11,,0 days 00:01:08.874000,225.699,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25141,1060,849,16,0.0,70,11,11,,0 days 00:01:08.520000,226.865,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25142,1060,20,17,0.0,69,8,4,,0 days 00:01:08.420000,227.196,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25143,1060,854,18,0.0,69,18,12,,0 days 00:01:09.394000,224.007,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25144,1060,853,19,0.0,69,19,12,,0 days 00:01:09.757000,222.842,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25145,1060,839,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,9,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,2021-07-04 13:00:00
-25146,1061,1,1,25.0,52,2,1,0 days 01:58:23.284000,0 days 00:01:29.699000,236.43,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25147,1061,844,2,18.0,52,5,1,0 days 01:58:27.155000,0 days 00:01:30.569000,234.159,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25148,1061,822,3,15.0,52,4,1,0 days 01:58:34.409000,0 days 00:01:30.524000,234.275,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25149,1061,846,4,12.0,52,9,1,0 days 01:58:51.857000,0 days 00:01:31.420000,231.979,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25150,1061,817,5,10.0,52,8,1,0 days 01:59:05.908000,0 days 00:01:31.284000,232.325,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25151,1061,832,6,8.0,52,7,1,0 days 01:59:06.738000,0 days 00:01:31.223000,232.48,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25152,1061,4,7,6.0,52,10,1,0 days 01:59:35.377000,0 days 00:01:31.698000,231.276,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25153,1061,840,8,4.0,52,12,1,0 days 01:59:37.573000,0 days 00:01:31.992000,230.537,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25154,1061,839,9,2.0,52,14,1,0 days 01:59:39.446000,0 days 00:01:32.210000,229.992,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25155,1061,852,10,1.0,52,6,1,0 days 01:59:45.349000,0 days 00:01:30.826000,233.497,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25156,1061,842,11,0.0,52,3,1,0 days 01:59:48.611000,0 days 00:01:30.266000,234.945,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25157,1061,847,12,0.0,51,13,11,,0 days 00:01:32.049000,230.394,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25158,1061,841,13,0.0,51,15,11,,0 days 00:01:32.346000,229.653,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25159,1061,849,14,0.0,51,16,11,,0 days 00:01:32.477000,229.328,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25160,1061,8,15,0.0,51,11,11,,0 days 00:01:31.895000,230.78,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25161,1061,815,16,0.0,51,1,11,,0 days 00:01:28.617000,239.317,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25162,1061,853,17,0.0,51,18,11,,0 days 00:01:32.909000,228.262,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25163,1061,854,18,0.0,51,17,11,,0 days 00:01:32.862000,228.377,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25164,1061,20,19,0.0,40,19,31,,0 days 00:01:33.059000,227.894,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25165,1061,830,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,10,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,2021-07-18 14:00:00
-25166,1062,839,1,25.0,70,5,1,0 days 02:04:43.199000,0 days 00:01:21.421000,193.704,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25167,1062,1,2,18.0,70,2,1,0 days 02:04:45.935000,0 days 00:01:18.715000,200.363,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25168,1062,832,3,15.0,70,6,1,0 days 02:04:58.217000,0 days 00:01:21.423000,193.699,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25169,1062,4,4,12.0,70,3,1,0 days 02:04:58.850000,0 days 00:01:20.359000,196.264,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25170,1062,842,5,11.0,70,1,1,0 days 02:05:46.813000,0 days 00:01:18.394000,201.183,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25171,1062,852,6,8.0,70,10,1,0 days 02:05:59.002000,0 days 00:01:22.450000,191.286,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25172,1062,849,7,6.0,70,14,1,0 days 02:06:01.109000,0 days 00:01:22.831000,190.406,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25173,1062,847,8,4.0,70,9,1,0 days 02:06:02.293000,0 days 00:01:22.112000,192.074,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25174,1062,830,9,2.0,70,4,1,0 days 02:06:03.443000,0 days 00:01:20.945000,194.843,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25175,1062,8,10,1.0,69,8,11,,0 days 00:01:21.518000,193.473,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25176,1062,817,11,0.0,69,13,11,,0 days 00:01:22.802000,190.473,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25177,1062,854,12,0.0,69,11,11,,0 days 00:01:22.711000,190.683,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25178,1062,841,13,0.0,69,12,11,,0 days 00:01:22.736000,190.625,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25179,1062,853,14,0.0,3,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25180,1062,846,15,0.0,2,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25181,1062,822,16,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25182,1062,815,17,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25183,1062,844,18,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25184,1062,840,19,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25185,1062,20,20,0.0,70,7,2,,0 days 00:01:21.459000,193.613,2021,11,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,2021-08-01 13:00:00
-25186,1063,830,1,12.5,1,0,1,0 days 00:03:27.071000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25187,1063,847,2,9.0,1,0,1,0 days 00:03:29.066000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25188,1063,1,3,7.5,1,0,1,0 days 00:03:29.672000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25189,1063,817,4,6.0,1,0,1,0 days 00:03:31.567000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25190,1063,20,5,5.0,1,0,1,0 days 00:03:34.550000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25191,1063,842,6,4.0,1,0,1,0 days 00:03:37.248000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25192,1063,839,7,3.0,1,0,1,0 days 00:03:38.650000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25193,1063,844,8,2.0,1,0,1,0 days 00:03:39.679000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25194,1063,849,9,1.0,1,0,1,0 days 00:03:42.556000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25195,1063,832,10,0.5,1,0,1,0 days 00:03:43.237000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25196,1063,4,11,0.0,1,0,1,0 days 00:03:47.661000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25197,1063,822,12,0.0,1,0,1,0 days 00:03:49.485000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25198,1063,841,13,0.0,1,0,1,0 days 00:03:51.234000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25199,1063,846,14,0.0,1,0,1,0 days 00:03:54.181000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25200,1063,852,15,0.0,1,0,1,0 days 00:03:55.400000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25201,1063,854,16,0.0,1,0,1,0 days 00:03:56.578000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25202,1063,853,17,0.0,1,0,1,0 days 00:03:59.064000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25203,1063,8,18,0.0,1,0,1,0 days 00:04:03.125000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25204,1063,815,19,0.0,1,0,1,0 days 00:04:05.276000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25205,1063,840,20,0.0,1,0,1,0 days 00:04:11.179000,0 days 00:01:28.217748947,210.58524607730575,2021,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,2021-08-29 13:00:00
-25206,1064,830,1,25.0,72,3,1,0 days 01:30:05.395000,0 days 00:01:13.275000,209.244,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25207,1064,1,2,19.0,72,1,1,0 days 01:30:26.327000,0 days 00:01:11.097000,215.654,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25208,1064,822,3,15.0,72,2,1,0 days 01:31:01.855000,0 days 00:01:12.549000,211.338,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25209,1064,842,4,12.0,71,10,11,,0 days 00:01:14.818000,204.929,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25210,1064,844,5,10.0,71,9,11,,0 days 00:01:14.780000,205.033,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25211,1064,4,6,8.0,71,7,11,,0 days 00:01:14.323000,206.294,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25212,1064,832,7,6.0,71,13,11,,0 days 00:01:15.260000,203.725,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25213,1064,815,8,4.0,71,4,11,,0 days 00:01:13.461000,208.714,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25214,1064,839,9,2.0,71,8,11,,0 days 00:01:14.675000,205.321,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25215,1064,846,10,1.0,71,6,11,,0 days 00:01:14.236000,206.535,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25216,1064,817,11,0.0,71,11,11,,0 days 00:01:14.920000,204.65,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25217,1064,840,12,0.0,70,15,12,,0 days 00:01:15.611000,202.78,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25218,1064,20,13,0.0,70,5,12,,0 days 00:01:13.958000,207.312,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25219,1064,841,14,0.0,70,12,12,,0 days 00:01:15.125000,204.091,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25220,1064,9,15,0.0,70,14,12,,0 days 00:01:15.442000,203.234,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25221,1064,849,16,0.0,70,18,12,,0 days 00:01:15.790000,202.301,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25222,1064,847,17,0.0,69,16,6,,0 days 00:01:15.628000,202.734,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25223,1064,854,18,0.0,69,19,13,,0 days 00:01:15.927000,201.936,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25224,1064,852,19,0.0,48,17,131,,0 days 00:01:15.783000,202.319,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25225,1064,853,20,0.0,41,20,9,,0 days 00:01:16.066000,201.567,2021,13,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,2021-09-05 13:00:00
-25226,1065,817,1,26.0,53,1,1,0 days 01:21:54.365000,0 days 00:01:24.812000,245.894,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25227,1065,846,2,18.0,53,3,1,0 days 01:21:56.112000,0 days 00:01:24.971000,245.434,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25228,1065,822,3,15.0,53,2,1,0 days 01:21:59.286000,0 days 00:01:24.827000,245.85,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25229,1065,844,4,12.0,53,6,1,0 days 01:22:01.674000,0 days 00:01:25.319000,244.433,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25230,1065,815,5,10.0,53,4,1,0 days 01:22:03.088000,0 days 00:01:25.156000,244.901,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25231,1065,832,6,8.0,53,8,1,0 days 01:22:04.900000,0 days 00:01:25.559000,243.747,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25232,1065,840,7,6.0,53,13,1,0 days 01:22:10.169000,0 days 00:01:25.853000,242.912,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25233,1065,4,8,4.0,53,7,1,0 days 01:22:11.566000,0 days 00:01:25.472000,243.995,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25234,1065,847,9,2.0,53,11,1,0 days 01:22:14.107000,0 days 00:01:25.835000,242.963,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25235,1065,839,10,1.0,53,9,1,0 days 01:22:15.233000,0 days 00:01:25.566000,243.727,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25236,1065,849,11,0.0,53,16,1,0 days 01:22:18.108000,0 days 00:01:25.953000,242.63,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25237,1065,20,12,0.0,53,15,1,0 days 01:22:18.986000,0 days 00:01:25.938000,242.672,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25238,1065,841,13,0.0,53,10,1,0 days 01:22:21.581000,0 days 00:01:25.718000,243.295,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25239,1065,9,14,0.0,53,12,1,0 days 01:22:24.134000,0 days 00:01:25.849000,242.924,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25240,1065,854,15,0.0,53,17,1,0 days 01:22:45.453000,0 days 00:01:26.707000,240.52,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25241,1065,853,16,0.0,41,18,131,,0 days 00:01:27.202000,239.155,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25242,1065,1,17,0.0,25,14,4,,0 days 00:01:25.870000,242.864,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25243,1065,830,18,0.0,25,5,4,,0 days 00:01:25.173000,244.852,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25244,1065,842,19,0.0,3,19,22,,0 days 00:01:29.005000,234.31,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25245,1065,852,20,0.0,0,0,23,,0 days 00:01:28.217748947,210.58524607730575,2021,14,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,2021-09-12 13:00:00
-25246,1066,1,1,25.0,53,2,1,0 days 01:30:41.001000,0 days 00:01:37.575000,215.76,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25247,1066,830,2,18.0,53,5,1,0 days 01:31:34.272000,0 days 00:01:38.396000,213.959,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25248,1066,832,3,15.0,53,12,1,0 days 01:31:43.476000,0 days 00:01:39.294000,212.024,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25249,1066,817,4,12.0,53,9,1,0 days 01:31:46.608000,0 days 00:01:39.124000,212.388,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25250,1066,822,5,10.0,53,3,1,0 days 01:31:48.534000,0 days 00:01:38.216000,214.352,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25251,1066,4,6,8.0,53,6,1,0 days 01:32:02.322000,0 days 00:01:38.686000,213.331,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25252,1066,846,7,7.0,53,1,1,0 days 01:32:08.225000,0 days 00:01:37.423000,216.096,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25253,1066,8,8,4.0,53,16,1,0 days 01:32:09.956000,0 days 00:01:40.289000,209.921,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25254,1066,815,9,2.0,53,10,1,0 days 01:32:11.077000,0 days 00:01:39.215000,212.193,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25255,1066,847,10,1.0,53,18,1,0 days 01:32:21.552000,0 days 00:01:40.596000,209.28,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25256,1066,840,11,0.0,53,17,1,0 days 01:32:27.199000,0 days 00:01:40.464000,209.555,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25257,1066,20,12,0.0,52,11,11,,0 days 00:01:39.251000,212.116,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25258,1066,842,13,0.0,52,4,11,,0 days 00:01:38.279000,214.214,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25259,1066,839,14,0.0,52,19,11,,0 days 00:01:40.598000,209.276,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25260,1066,844,15,0.0,52,7,11,,0 days 00:01:38.994000,212.667,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25261,1066,841,16,0.0,52,8,11,,0 days 00:01:39.058000,212.53,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25262,1066,852,17,0.0,52,13,11,,0 days 00:01:39.960000,210.612,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25263,1066,853,18,0.0,51,20,12,,0 days 00:01:41.713000,206.982,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25264,1066,849,19,0.0,47,14,3,,0 days 00:01:40,210.528,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25265,1066,854,20,0.0,32,15,44,,0 days 00:01:40.276000,209.948,2021,15,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,2021-09-26 12:00:00
-25266,1067,822,1,26.0,58,1,1,0 days 01:31:04.103000,0 days 00:01:30.432000,212.5,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25267,1067,830,2,18.0,58,9,1,0 days 01:31:18.687000,0 days 00:01:32.759000,207.169,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25268,1067,815,3,15.0,58,4,1,0 days 01:31:37.574000,0 days 00:01:32.459000,207.841,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25269,1067,844,4,12.0,58,8,1,0 days 01:31:41.917000,0 days 00:01:32.737000,207.218,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25270,1067,1,5,10.0,58,10,1,0 days 01:31:45.915000,0 days 00:01:32.763000,207.16,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25271,1067,842,6,8.0,58,11,1,0 days 01:31:48.395000,0 days 00:01:32.814000,207.046,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25272,1067,846,7,6.0,58,3,1,0 days 01:31:51.316000,0 days 00:01:32.446000,207.87,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25273,1067,832,8,4.0,58,2,1,0 days 01:31:55.629000,0 days 00:01:31.921000,209.057,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25274,1067,840,9,2.0,58,6,1,0 days 01:32:26.121000,0 days 00:01:32.608000,207.506,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25275,1067,839,10,1.0,57,19,11,,0 days 00:01:34.584000,203.171,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25276,1067,841,11,0.0,57,13,11,,0 days 00:01:32.904000,206.845,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25277,1067,8,12,0.0,57,5,11,,0 days 00:01:32.586000,207.556,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25278,1067,817,13,0.0,57,15,11,,0 days 00:01:33.255000,206.067,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25279,1067,852,14,0.0,57,12,11,,0 days 00:01:32.844000,206.979,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25280,1067,847,15,0.0,57,16,11,,0 days 00:01:33.399000,205.749,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25281,1067,4,16,0.0,57,14,11,,0 days 00:01:33.252000,206.073,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25282,1067,849,17,0.0,57,17,11,,0 days 00:01:33.672000,205.149,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25283,1067,20,18,0.0,57,7,11,,0 days 00:01:32.730000,207.233,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25284,1067,854,19,0.0,56,18,12,,0 days 00:01:34.209000,203.98,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25285,1067,853,20,0.0,56,20,12,,0 days 00:01:35.438000,201.353,2021,16,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,2021-10-10 12:00:00
-25286,1069,830,1,25.0,56,2,1,0 days 01:34:36.552000,0 days 00:01:39.096000,200.278,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25287,1069,1,2,19.0,56,1,1,0 days 01:34:37.885000,0 days 00:01:38.485000,201.521,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25288,1069,815,3,15.0,56,4,1,0 days 01:35:18.775000,0 days 00:01:39.566000,199.333,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25289,1069,844,4,12.0,56,3,1,0 days 01:35:28.798000,0 days 00:01:39.303000,199.861,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25290,1069,817,5,10.0,56,8,1,0 days 01:35:53.406000,0 days 00:01:40.345000,197.785,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25291,1069,822,6,8.0,56,6,1,0 days 01:35:56.680000,0 days 00:01:40.147000,198.176,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25292,1069,832,7,6.0,56,9,1,0 days 01:36:00.097000,0 days 00:01:40.377000,197.722,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25293,1069,846,8,4.0,56,7,1,0 days 01:36:00.947000,0 days 00:01:40.228000,198.016,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25294,1069,852,9,2.0,55,13,11,,0 days 00:01:41.151000,196.209,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25295,1069,20,10,1.0,55,10,11,,0 days 00:01:40.481000,197.517,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25296,1069,841,11,0.0,55,12,11,,0 days 00:01:41.145000,196.221,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25297,1069,840,12,0.0,55,14,11,,0 days 00:01:41.189000,196.135,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25298,1069,8,13,0.0,55,15,11,,0 days 00:01:41.340000,195.843,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25299,1069,847,14,0.0,55,11,11,,0 days 00:01:41.120000,196.269,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25300,1069,849,15,0.0,55,17,11,,0 days 00:01:41.818000,194.924,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25301,1069,854,16,0.0,54,16,12,,0 days 00:01:41.395000,195.737,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25302,1069,853,17,0.0,54,20,12,,0 days 00:01:42.886000,192.9,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25303,1069,4,18,0.0,49,5,65,,0 days 00:01:40.067000,198.335,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25304,1069,839,19,0.0,40,19,26,,0 days 00:01:42.194000,194.207,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25305,1069,842,20,0.0,14,18,22,,0 days 00:01:42.015000,194.547,2021,17,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,2021-10-24 19:00:00
-25306,1070,830,1,25.0,71,2,1,0 days 01:38:39.086000,0 days 00:01:18.999000,196.134,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25307,1070,1,2,18.0,71,4,1,0 days 01:38:55.641000,0 days 00:01:19.820000,194.116,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25308,1070,815,3,15.0,71,3,1,0 days 01:38:56.838000,0 days 00:01:19.468000,194.976,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25309,1070,842,4,12.0,71,7,1,0 days 01:39:42.931000,0 days 00:01:20.510000,192.453,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25310,1070,844,5,10.0,71,9,1,0 days 01:40:00.123000,0 days 00:01:20.665000,192.083,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25311,1070,832,6,8.0,70,5,11,,0 days 00:01:20.081000,193.484,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25312,1070,20,7,6.0,70,6,11,,0 days 00:01:20.460000,192.572,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25313,1070,8,8,4.0,70,11,11,,0 days 00:01:20.713000,191.969,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25314,1070,4,9,2.0,70,10,11,,0 days 00:01:20.711000,191.973,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25315,1070,846,10,1.0,70,8,11,,0 days 00:01:20.617000,192.197,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25316,1070,841,11,0.0,70,16,11,,0 days 00:01:21.523000,190.061,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25317,1070,817,12,0.0,70,13,11,,0 days 00:01:21.069000,191.126,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25318,1070,839,13,0.0,70,14,11,,0 days 00:01:21.348000,190.47,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25319,1070,840,14,0.0,69,12,12,,0 days 00:01:20.930000,191.454,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25320,1070,822,15,0.0,69,1,12,,0 days 00:01:17.774000,199.223,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25321,1070,847,16,0.0,69,18,12,,0 days 00:01:22.016000,188.919,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25322,1070,849,17,0.0,69,17,12,,0 days 00:01:21.546000,190.008,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25323,1070,853,18,0.0,68,15,13,,0 days 00:01:21.402000,190.344,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25324,1070,854,19,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25325,1070,852,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575,2021,18,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,2021-11-07 19:00:00
-25326,1071,1,1,25.0,71,2,1,0 days 01:32:22.851000,0 days 00:01:11.982000,215.503,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25327,1071,830,2,18.0,71,3,1,0 days 01:32:33.347000,0 days 00:01:12.486000,214.005,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25328,1071,822,3,15.0,71,4,1,0 days 01:32:36.427000,0 days 00:01:12.526000,213.887,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25329,1071,815,4,13.0,71,1,1,0 days 01:33:02.791000,0 days 00:01:11.010000,218.453,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25330,1071,844,5,10.0,71,7,1,0 days 01:33:12.368000,0 days 00:01:12.822000,213.018,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25331,1071,832,6,8.0,71,6,1,0 days 01:33:14.671000,0 days 00:01:12.710000,213.346,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25332,1071,842,7,6.0,70,8,11,,0 days 00:01:13.227000,211.839,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25333,1071,839,8,4.0,70,16,11,,0 days 00:01:14.430000,208.415,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25334,1071,4,9,2.0,70,12,11,,0 days 00:01:13.922000,209.848,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25335,1071,846,10,1.0,70,10,11,,0 days 00:01:13.761000,210.306,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25336,1071,20,11,0.0,70,9,11,,0 days 00:01:13.634000,210.668,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25337,1071,8,12,0.0,70,5,11,,0 days 00:01:12.621000,213.607,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25338,1071,847,13,0.0,70,15,11,,0 days 00:01:14.355000,208.626,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25339,1071,841,14,0.0,70,14,11,,0 days 00:01:14.227000,208.985,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25340,1071,852,15,0.0,70,13,11,,0 days 00:01:14.204000,209.05,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25341,1071,849,16,0.0,70,18,11,,0 days 00:01:14.616000,207.896,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25342,1071,853,17,0.0,69,19,12,,0 days 00:01:14.954000,206.958,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25343,1071,854,18,0.0,69,11,12,,0 days 00:01:13.793000,210.215,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25344,1071,817,19,0.0,49,17,75,,0 days 00:01:14.443000,208.379,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25345,1071,840,20,0.0,47,20,130,,0 days 00:01:15.344000,205.887,2021,19,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,2021-11-14 17:00:00
-25346,1051,1,1,25.0,57,2,1,0 days 01:24:28.471000,0 days 00:01:25.084000,227.633,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25347,1051,830,2,19.0,57,1,1,0 days 01:24:54.214000,0 days 00:01:23.196000,232.799,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25348,1051,4,3,15.0,57,10,1,0 days 01:25:27.928000,0 days 00:01:26.682000,223.437,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25349,1051,815,4,12.0,57,3,1,0 days 01:25:30.777000,0 days 00:01:25.613000,226.227,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25350,1051,839,5,10.0,57,13,1,0 days 01:25:49.041000,0 days 00:01:27.061000,222.464,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25351,1051,840,6,8.0,57,17,1,0 days 01:25:49.745000,0 days 00:01:27.356000,221.713,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25352,1051,832,7,6.0,57,9,1,0 days 01:25:50.382000,0 days 00:01:26.570000,223.726,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25353,1051,844,8,4.0,57,8,1,0 days 01:25:51.597000,0 days 00:01:26.555000,223.765,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25354,1051,846,9,2.0,56,4,11,,0 days 00:01:25.746000,225.876,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25355,1051,20,10,1.0,56,7,11,,0 days 00:01:26.434000,224.078,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25356,1051,842,11,0.0,56,11,11,,0 days 00:01:27.019000,222.572,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25357,1051,817,12,0.0,56,14,11,,0 days 00:01:27.198000,222.115,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25358,1051,852,13,0.0,56,12,11,,0 days 00:01:27.043000,222.51,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25359,1051,8,14,0.0,56,6,11,,0 days 00:01:26.358000,224.275,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25360,1051,841,15,0.0,56,18,11,,0 days 00:01:27.823000,220.534,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25361,1051,854,16,0.0,56,19,11,,0 days 00:01:28.412000,219.065,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25362,1051,847,17,0.0,55,5,12,,0 days 00:01:25.768000,225.818,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25363,1051,853,18,0.0,55,16,12,,0 days 00:01:27.340000,221.754,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25364,1051,849,19,0.0,50,20,29,,0 days 00:01:28.732000,218.275,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25365,1051,822,20,0.0,48,15,137,,0 days 00:01:27.246000,221.992,2021,20,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,2021-11-21 14:00:00
-25366,1072,1,1,26.0,50,1,1,0 days 02:06:15.118000,0 days 00:01:30.734000,244.962,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25367,1072,830,2,18.0,50,3,1,0 days 02:06:26.943000,0 days 00:01:31.488000,242.943,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25368,1072,822,3,15.0,50,2,1,0 days 02:06:42.649000,0 days 00:01:31.408000,243.155,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25369,1072,839,4,12.0,50,6,1,0 days 02:06:42.751000,0 days 00:01:31.797000,242.125,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25370,1072,817,5,10.0,50,11,1,0 days 02:06:55.239000,0 days 00:01:32.716000,239.725,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25371,1072,842,6,8.0,50,9,1,0 days 02:06:56.731000,0 days 00:01:32.297000,240.813,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25372,1072,844,7,6.0,50,4,1,0 days 02:06:59.593000,0 days 00:01:31.601000,242.643,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25373,1072,832,8,4.0,50,7,1,0 days 02:07:01.724000,0 days 00:01:31.851000,241.983,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25374,1072,841,9,2.0,50,15,1,0 days 02:07:13.623000,0 days 00:01:32.865000,239.34,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25375,1072,846,10,1.0,50,8,1,0 days 02:07:16.476000,0 days 00:01:31.914000,241.817,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25376,1072,840,11,0.0,50,14,1,0 days 02:07:32.330000,0 days 00:01:32.804000,239.498,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25377,1072,849,12,0.0,50,12,1,0 days 02:07:38.367000,0 days 00:01:32.751000,239.635,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25378,1072,4,13,0.0,49,5,11,,0 days 00:01:31.633000,242.558,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25379,1072,852,14,0.0,49,10,11,,0 days 00:01:32.506000,240.269,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25380,1072,8,15,0.0,49,13,11,,0 days 00:01:32.778000,239.565,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25381,1072,20,16,0.0,44,16,130,,0 days 00:01:34.030000,236.375,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25382,1072,815,17,0.0,14,17,4,,0 days 00:01:34.138000,236.104,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25383,1072,853,18,0.0,14,20,4,,0 days 00:01:37.043000,229.036,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25384,1072,847,19,0.0,14,19,4,,0 days 00:01:36.130000,231.211,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25385,1072,854,20,0.0,8,18,3,,0 days 00:01:36.043000,231.421,2021,21,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,2021-12-05 17:30:00
-25386,1073,830,1,26.0,58,1,1,0 days 01:30:17.345000,0 days 00:01:26.103000,220.8,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25387,1073,1,2,18.0,58,3,1,0 days 01:30:19.601000,0 days 00:01:26.615000,219.495,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25388,1073,832,3,15.0,58,9,1,0 days 01:30:22.518000,0 days 00:01:27.618000,216.982,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25389,1073,852,4,12.0,58,7,1,0 days 01:30:23.037000,0 days 00:01:27.496000,217.285,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25390,1073,842,5,10.0,58,6,1,0 days 01:30:23.876000,0 days 00:01:27.342000,217.668,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25391,1073,822,6,8.0,58,5,1,0 days 01:30:24.808000,0 days 00:01:26.862000,218.871,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25392,1073,846,7,6.0,58,4,1,0 days 01:31:16.545000,0 days 00:01:26.762000,219.123,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25393,1073,4,8,4.0,58,8,1,0 days 01:31:19.053000,0 days 00:01:27.607000,217.01,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25394,1073,839,9,2.0,58,10,1,0 days 01:31:21.371000,0 days 00:01:28.249000,215.431,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25395,1073,844,10,1.0,58,12,1,0 days 01:31:23.402000,0 days 00:01:28.433000,214.983,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25396,1073,20,11,0.0,58,11,1,0 days 01:31:24.872000,0 days 00:01:28.303000,215.299,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25397,1073,817,12,0.0,57,14,11,,0 days 00:01:28.723000,214.28,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25398,1073,840,13,0.0,57,13,11,,0 days 00:01:28.567000,214.657,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25399,1073,854,14,0.0,57,17,11,,0 days 00:01:29.457000,212.522,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25400,1073,815,15,0.0,55,2,5,,0 days 00:01:26.419000,219.993,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25401,1073,849,16,0.0,50,15,3,,0 days 00:01:29.293000,212.912,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25402,1073,841,17,0.0,33,16,6,,0 days 00:01:29.442000,212.557,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25403,1073,847,18,0.0,26,19,6,,0 days 00:01:30.647000,209.732,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25404,1073,8,19,0.0,25,18,23,,0 days 00:01:29.698000,211.951,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
-25405,1073,853,20,0.0,0,0,139,,0 days 00:01:28.217748947,210.58524607730575,2021,22,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,2021-12-12 13:00:00
+resultId,raceId,driverId,positionOrder,points,laps,rank,statusId,time_,fastestLapTime_,fastestLapSpeed_
+24966,1052,1,1,25.0,56,4,1,0 days 01:32:03.897000,0 days 00:01:34.015000,207.235
+24967,1052,830,2,18.0,56,2,1,0 days 01:32:04.642000,0 days 00:01:33.228000,208.984
+24968,1052,822,3,16.0,56,1,1,0 days 01:32:41.280000,0 days 00:01:32.090000,211.566
+24969,1052,846,4,12.0,56,6,1,0 days 01:32:50.363000,0 days 00:01:34.396000,206.398
+24970,1052,815,5,10.0,56,3,1,0 days 01:32:55.944000,0 days 00:01:33.970000,207.334
+24971,1052,844,6,8.0,56,11,1,0 days 01:33:02.987000,0 days 00:01:34.988000,205.112
+24972,1052,817,7,6.0,56,10,1,0 days 01:33:09.901000,0 days 00:01:34.932000,205.233
+24973,1052,832,8,4.0,56,7,1,0 days 01:33:10.997000,0 days 00:01:34.509000,206.151
+24974,1052,852,9,2.0,56,8,1,0 days 01:33:29.589000,0 days 00:01:34.761000,205.603
+24975,1052,840,10,1.0,56,9,1,0 days 01:33:30.610000,0 days 00:01:34.865000,205.378
+24976,1052,8,11,0.0,56,14,1,0 days 01:33:32.761000,0 days 00:01:35.192000,204.672
+24977,1052,841,12,0.0,55,13,11,,0 days 00:01:35.122000,204.823
+24978,1052,839,13,0.0,55,15,11,,0 days 00:01:35.250000,204.548
+24979,1052,847,14,0.0,55,12,11,,0 days 00:01:35.036000,205.008
+24980,1052,20,15,0.0,55,16,11,,0 days 00:01:35.566000,203.871
+24981,1052,854,16,0.0,55,18,11,,0 days 00:01:36.134000,202.667
+24982,1052,842,17,0.0,52,5,31,,0 days 00:01:34.090000,207.069
+24983,1052,849,18,0.0,51,19,31,,0 days 00:01:36.602000,201.685
+24984,1052,4,19,0.0,32,17,23,,0 days 00:01:36.063000,202.816
+24985,1052,853,20,0.0,0,0,3,,0 days 00:01:28.217748947,210.58524607730575
+24986,1053,830,1,25.0,63,2,1,0 days 02:02:34.598000,0 days 00:01:17.524000,227.96
+24987,1053,1,2,19.0,63,1,1,0 days 02:02:56.598000,0 days 00:01:16.702000,230.403
+24988,1053,846,3,15.0,63,3,1,0 days 02:02:58.300000,0 days 00:01:18.259000,225.819
+24989,1053,844,4,12.0,63,6,1,0 days 02:03:00.177000,0 days 00:01:18.379000,225.473
+24990,1053,832,5,10.0,63,7,1,0 days 02:03:01.634000,0 days 00:01:18.490000,225.154
+24991,1053,817,6,8.0,63,12,1,0 days 02:03:25.818000,0 days 00:01:19.341000,222.739
+24992,1053,842,7,6.0,63,9,1,0 days 02:03:27.416000,0 days 00:01:18.994000,223.718
+24993,1053,840,8,4.0,63,8,1,0 days 02:03:31.507000,0 days 00:01:18.782000,224.32
+24994,1053,839,9,2.0,63,15,1,0 days 02:03:40.302000,0 days 00:01:19.422000,222.512
+24995,1053,4,10,1.0,63,14,1,0 days 02:03:41.159000,0 days 00:01:19.417000,222.526
+24996,1053,815,11,0.0,63,13,1,0 days 02:03:41.749000,0 days 00:01:19.396000,222.585
+24997,1053,852,12,0.0,63,4,1,0 days 02:03:47.782000,0 days 00:01:18.334000,225.603
+24998,1053,8,13,0.0,63,5,1,0 days 02:04:09.371000,0 days 00:01:18.353000,225.548
+24999,1053,841,14,0.0,62,16,11,,0 days 00:01:19.470000,222.378
+25000,1053,20,15,0.0,61,10,6,,0 days 00:01:19.074000,223.491
+25001,1053,854,16,0.0,61,11,12,,0 days 00:01:19.193000,223.156
+25002,1053,853,17,0.0,61,17,12,,0 days 00:01:20.402000,219.8
+25003,1053,822,18,0.0,30,19,4,,0 days 00:01:28.485000,199.721
+25004,1053,847,19,0.0,30,18,4,,0 days 00:01:26.543000,204.203
+25005,1053,849,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25006,1054,1,1,25.0,66,4,1,0 days 01:34:31.421000,0 days 00:01:20.933000,206.971
+25007,1054,830,2,18.0,66,3,1,0 days 01:35:00.569000,0 days 00:01:20.695000,207.581
+25008,1054,822,3,16.0,66,1,1,0 days 01:35:04.951000,0 days 00:01:19.865000,209.738
+25009,1054,815,4,12.0,66,2,1,0 days 01:35:11.156000,0 days 00:01:20.643000,207.715
+25010,1054,846,5,10.0,66,7,1,0 days 01:35:22.790000,0 days 00:01:21.696000,205.038
+25011,1054,844,6,8.0,66,6,1,0 days 01:35:27.202000,0 days 00:01:21.496000,205.541
+25012,1054,839,7,6.0,66,8,1,0 days 01:35:35.170000,0 days 00:01:21.886000,204.562
+25013,1054,4,8,4.0,66,5,1,0 days 01:34:33.229000,0 days 00:01:21.032000,206.718
+25014,1054,817,9,2.0,66,10,1,0 days 01:35:46.790000,0 days 00:01:21.987000,204.31
+25015,1054,842,10,1.0,66,11,1,0 days 01:35:47.884000,0 days 00:01:22.014000,204.243
+25016,1054,832,11,0.0,66,14,1,0 days 01:35:50.376000,0 days 00:01:22.325000,203.471
+25017,1054,841,12,0.0,65,13,11,,0 days 00:01:22.167000,203.862
+25018,1054,20,13,0.0,65,15,11,,0 days 00:01:22.416000,203.246
+25019,1054,840,14,0.0,65,9,11,,0 days 00:01:21.970000,204.352
+25020,1054,852,15,0.0,65,12,11,,0 days 00:01:22.058000,204.133
+25021,1054,847,16,0.0,65,16,11,,0 days 00:01:22.654000,202.661
+25022,1054,854,17,0.0,64,17,12,,0 days 00:01:22.755000,202.414
+25023,1054,849,18,0.0,64,18,12,,0 days 00:01:23.155000,201.44
+25024,1054,853,19,0.0,64,19,12,,0 days 00:01:23.641000,200.27
+25025,1054,8,20,0.0,1,0,130,,0 days 00:01:28.217748947,210.58524607730575
+25026,1055,1,1,25.0,66,5,1,0 days 01:33:07.680000,0 days 00:01:20.665000,208.64
+25027,1055,830,2,19.0,66,1,1,0 days 01:33:23.521000,0 days 00:01:18.149000,215.357
+25028,1055,822,3,15.0,66,2,1,0 days 01:33:34.290000,0 days 00:01:19.430000,211.884
+25029,1055,844,4,12.0,66,4,1,0 days 01:34:02.296000,0 days 00:01:20.459000,209.174
+25030,1055,815,5,10.0,66,3,1,0 days 01:34:11.351000,0 days 00:01:19.483000,211.743
+25031,1055,817,6,8.0,66,10,1,0 days 01:34:21.448000,0 days 00:01:21.853000,205.612
+25032,1055,832,7,6.0,66,9,1,0 days 01:34:22.350000,0 days 00:01:21.568000,206.33
+25033,1055,846,8,4.0,65,7,11,,0 days 00:01:21.279000,207.064
+25034,1055,839,9,2.0,65,18,11,,0 days 00:01:23.311000,202.014
+25035,1055,842,10,1.0,65,8,11,,0 days 00:01:21.375000,206.82
+25036,1055,840,11,0.0,65,11,11,,0 days 00:01:22.607000,203.735
+25037,1055,8,12,0.0,65,15,11,,0 days 00:01:22.868000,203.094
+25038,1055,20,13,0.0,65,14,11,,0 days 00:01:22.820000,203.211
+25039,1055,847,14,0.0,65,17,11,,0 days 00:01:23.208000,202.264
+25040,1055,841,15,0.0,65,13,11,,0 days 00:01:22.802000,203.255
+25041,1055,849,16,0.0,65,16,11,,0 days 00:01:22.905000,203.003
+25042,1055,4,17,0.0,65,6,11,,0 days 00:01:21.182000,207.311
+25043,1055,854,18,0.0,64,12,12,,0 days 00:01:22.637000,203.661
+25044,1055,853,19,0.0,64,19,12,,0 days 00:01:24.040000,200.261
+25045,1055,852,20,0.0,6,20,10,,0 days 00:01:24.825000,198.408
+25047,1056,832,2,18.0,78,5,1,0 days 01:39:05.788000,0 days 00:01:14.621000,160.989
+25046,1056,830,1,25.0,78,6,1,0 days 01:38:56.820000,0 days 00:01:14.649000,160.929
+25048,1056,846,3,15.0,78,7,1,0 days 01:39:16.247000,0 days 00:01:14.670000,160.883
+25049,1056,815,4,12.0,78,3,1,0 days 01:39:17.310000,0 days 00:01:14.552000,161.138
+25050,1056,20,5,10.0,78,11,1,0 days 01:39:49.411000,0 days 00:01:15.316000,159.503
+25051,1056,842,6,8.0,78,14,1,0 days 01:39:50.716000,0 days 00:01:15.412000,159.3
+25052,1056,1,7,7.0,78,1,1,0 days 01:40:05.051000,0 days 00:01:12.909000,164.769
+25053,1056,840,8,4.0,77,8,11,,0 days 00:01:14.674000,160.875
+25054,1056,839,9,2.0,77,12,11,,0 days 00:01:15.316000,159.503
+25055,1056,841,10,1.0,77,13,11,,0 days 00:01:15.331000,159.472
+25056,1056,8,11,0.0,77,9,11,,0 days 00:01:14.971000,160.237
+25057,1056,817,12,0.0,77,4,11,,0 days 00:01:14.578000,161.082
+25058,1056,4,13,0.0,77,10,11,,0 days 00:01:15.026000,160.12
+25059,1056,847,14,0.0,77,15,11,,0 days 00:01:15.539000,159.033
+25060,1056,849,15,0.0,77,16,11,,0 days 00:01:15.573000,158.961
+25061,1056,852,16,0.0,77,2,11,,0 days 00:01:14.037000,162.259
+25062,1056,853,17,0.0,75,19,13,,0 days 00:01:16.866000,156.287
+25063,1056,854,18,0.0,75,18,13,,0 days 00:01:16.425000,157.189
+25064,1056,822,19,0.0,29,17,61,,0 days 00:01:15.706000,158.682
+25065,1056,844,20,0.0,0,0,30,,0 days 00:01:28.217748947,210.58524607730575
+25066,1057,815,1,25.0,51,2,1,0 days 02:13:36.410000,0 days 00:01:44.687000,206.432
+25067,1057,20,2,18.0,51,4,1,0 days 02:13:37.795000,0 days 00:01:44.890000,206.032
+25068,1057,842,3,15.0,51,6,1,0 days 02:13:39.172000,0 days 00:01:45.220000,205.386
+25069,1057,844,4,12.0,51,8,1,0 days 02:13:40.238000,0 days 00:01:45.382000,205.071
+25070,1057,846,5,10.0,51,7,1,0 days 02:13:41.164000,0 days 00:01:45.326000,205.18
+25071,1057,4,6,8.0,51,11,1,0 days 02:13:42.792000,0 days 00:01:45.624000,204.601
+25072,1057,852,7,6.0,51,5,1,0 days 02:13:43.034000,0 days 00:01:44.939000,205.936
+25073,1057,832,8,4.0,51,13,1,0 days 02:13:44.119000,0 days 00:01:45.700000,204.454
+25074,1057,817,9,2.0,51,14,1,0 days 02:13:45.284000,0 days 00:01:45.713000,204.428
+25075,1057,8,10,1.0,51,10,1,0 days 02:13:45.986000,0 days 00:01:45.601000,204.645
+25076,1057,841,11,0.0,51,9,1,0 days 02:13:46.664000,0 days 00:01:45.575000,204.696
+25077,1057,822,12,0.0,51,12,1,0 days 02:13:47.674000,0 days 00:01:45.665000,204.521
+25078,1057,854,13,0.0,51,18,1,0 days 02:13:50.651000,0 days 00:01:47.624000,200.799
+25079,1057,853,14,0.0,51,19,1,0 days 02:13:50.725000,0 days 00:01:47.747000,200.569
+25080,1057,1,15,0.0,51,3,1,0 days 02:13:54.078000,0 days 00:01:44.769000,206.27
+25081,1057,849,16,0.0,51,17,1,0 days 02:14:19.789000,0 days 00:01:46.608000,202.712
+25082,1057,847,17,0.0,48,15,6,,0 days 00:01:45.959000,203.954
+25083,1057,830,18,0.0,45,1,3,,0 days 00:01:44.481000,206.839
+25084,1057,840,19,0.0,29,16,3,,0 days 00:01:46.207000,203.478
+25085,1057,839,20,0.0,3,20,101,,0 days 00:01:50.850000,194.955
+25086,1059,830,1,26.0,53,1,1,0 days 01:27:25.770000,0 days 00:01:36.404000,218.156
+25087,1059,1,2,18.0,53,5,1,0 days 01:27:28.674000,0 days 00:01:37.410000,215.903
+25088,1059,815,3,15.0,53,2,1,0 days 01:27:34.581000,0 days 00:01:36.693000,217.504
+25089,1059,822,4,12.0,53,3,1,0 days 01:27:40.388000,0 days 00:01:36.960000,216.905
+25090,1059,846,5,10.0,53,6,1,0 days 01:28:29.802000,0 days 00:01:37.425000,215.87
+25091,1059,817,6,8.0,53,14,1,0 days 01:28:41.627000,0 days 00:01:38.324000,213.896
+25092,1059,842,7,6.0,53,11,1,0 days 01:28:42.366000,0 days 00:01:38.103000,214.378
+25093,1059,4,8,4.0,53,7,1,0 days 01:28:43.465000,0 days 00:01:37.646000,215.382
+25094,1059,20,9,2.0,53,4,1,0 days 01:28:45.436000,0 days 00:01:37.138000,216.508
+25095,1059,840,10,1.0,53,9,1,0 days 01:28:57.716000,0 days 00:01:37.828000,214.981
+25096,1059,832,11,0.0,53,18,1,0 days 01:29:05.107000,0 days 00:01:38.931000,212.584
+25097,1059,847,12,0.0,52,13,11,,0 days 00:01:38.314000,213.918
+25098,1059,852,13,0.0,52,19,11,,0 days 00:01:38.980000,212.479
+25099,1059,839,14,0.0,52,15,11,,0 days 00:01:38.645000,213.2
+25100,1059,841,15,0.0,52,16,11,,0 days 00:01:38.702000,213.077
+25101,1059,844,16,0.0,52,8,11,,0 days 00:01:37.681000,215.304
+25102,1059,8,17,0.0,52,10,11,,0 days 00:01:37.992000,214.621
+25103,1059,849,18,0.0,52,12,11,,0 days 00:01:38.313000,213.92
+25104,1059,854,19,0.0,52,17,11,,0 days 00:01:38.847000,212.765
+25105,1059,853,20,0.0,52,20,11,,0 days 00:01:39.317000,211.758
+25106,1058,830,1,25.0,71,3,1,0 days 01:22:18.925000,0 days 00:01:08.017000,228.542
+25107,1058,1,2,19.0,71,1,1,0 days 01:22:54.668000,0 days 00:01:07.058000,231.811
+25108,1058,822,3,15.0,71,5,1,0 days 01:23:05.832000,0 days 00:01:08.619000,226.537
+25109,1058,815,4,12.0,71,2,1,0 days 01:23:06.359000,0 days 00:01:07.894000,228.956
+25110,1058,846,5,10.0,70,7,11,,0 days 00:01:08.903000,225.604
+25111,1058,832,6,8.0,70,4,11,,0 days 00:01:08.609000,226.57
+25112,1058,844,7,6.0,70,6,11,,0 days 00:01:08.738000,226.145
+25113,1058,840,8,4.0,70,14,11,,0 days 00:01:09.787000,222.746
+25114,1058,4,9,2.0,70,13,11,,0 days 00:01:09.749000,222.867
+25115,1058,852,10,1.0,70,11,11,,0 days 00:01:09.650000,223.184
+25116,1058,8,11,0.0,70,8,11,,0 days 00:01:09.128000,224.869
+25117,1058,20,12,0.0,70,15,11,,0 days 00:01:09.821000,222.637
+25118,1058,817,13,0.0,70,9,11,,0 days 00:01:09.305000,224.295
+25119,1058,839,14,0.0,70,10,11,,0 days 00:01:09.576000,223.421
+25120,1058,841,15,0.0,70,12,11,,0 days 00:01:09.723000,222.95
+25121,1058,854,16,0.0,69,16,12,,0 days 00:01:10.005000,222.052
+25122,1058,849,17,0.0,68,17,13,,0 days 00:01:10.104000,221.739
+25123,1058,853,18,0.0,68,19,13,,0 days 00:01:10.951000,219.092
+25124,1058,847,19,0.0,36,18,5,,0 days 00:01:10.499000,220.496
+25125,1058,842,20,0.0,1,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25126,1060,830,1,26.0,71,1,1,0 days 01:23:54.543000,0 days 00:01:06.200000,234.815
+25127,1060,822,2,18.0,71,6,1,0 days 01:24:12.516000,0 days 00:01:08.374000,227.349
+25128,1060,846,3,15.0,71,10,1,0 days 01:24:14.562000,0 days 00:01:08.471000,227.027
+25129,1060,1,4,12.0,71,3,1,0 days 01:24:40.995000,0 days 00:01:08.126000,228.177
+25130,1060,832,5,10.0,71,2,1,0 days 01:24:51.687000,0 days 00:01:07.762000,229.402
+25131,1060,815,6,8.0,71,5,1,0 days 01:24:52.458000,0 days 00:01:08.192000,227.956
+25132,1060,817,7,6.0,71,14,1,0 days 01:24:54.938000,0 days 00:01:08.820000,225.876
+25133,1060,844,8,4.0,71,13,1,0 days 01:24:55.738000,0 days 00:01:08.698000,226.277
+25134,1060,842,9,2.0,71,4,1,0 days 01:24:56.387000,0 days 00:01:08.146000,228.11
+25135,1060,4,10,1.0,70,7,11,,0 days 00:01:08.405000,227.246
+25136,1060,847,11,0.0,70,16,11,,0 days 00:01:08.900000,225.613
+25137,1060,852,12,0.0,70,9,11,,0 days 00:01:08.455000,227.08
+25138,1060,840,13,0.0,70,12,11,,0 days 00:01:08.659000,226.405
+25139,1060,841,14,0.0,70,17,11,,0 days 00:01:09.042000,225.149
+25140,1060,8,15,0.0,70,15,11,,0 days 00:01:08.874000,225.699
+25141,1060,849,16,0.0,70,11,11,,0 days 00:01:08.520000,226.865
+25142,1060,20,17,0.0,69,8,4,,0 days 00:01:08.420000,227.196
+25143,1060,854,18,0.0,69,18,12,,0 days 00:01:09.394000,224.007
+25144,1060,853,19,0.0,69,19,12,,0 days 00:01:09.757000,222.842
+25145,1060,839,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25146,1061,1,1,25.0,52,2,1,0 days 01:58:23.284000,0 days 00:01:29.699000,236.43
+25147,1061,844,2,18.0,52,5,1,0 days 01:58:27.155000,0 days 00:01:30.569000,234.159
+25148,1061,822,3,15.0,52,4,1,0 days 01:58:34.409000,0 days 00:01:30.524000,234.275
+25149,1061,846,4,12.0,52,9,1,0 days 01:58:51.857000,0 days 00:01:31.420000,231.979
+25150,1061,817,5,10.0,52,8,1,0 days 01:59:05.908000,0 days 00:01:31.284000,232.325
+25151,1061,832,6,8.0,52,7,1,0 days 01:59:06.738000,0 days 00:01:31.223000,232.48
+25152,1061,4,7,6.0,52,10,1,0 days 01:59:35.377000,0 days 00:01:31.698000,231.276
+25153,1061,840,8,4.0,52,12,1,0 days 01:59:37.573000,0 days 00:01:31.992000,230.537
+25154,1061,839,9,2.0,52,14,1,0 days 01:59:39.446000,0 days 00:01:32.210000,229.992
+25155,1061,852,10,1.0,52,6,1,0 days 01:59:45.349000,0 days 00:01:30.826000,233.497
+25156,1061,842,11,0.0,52,3,1,0 days 01:59:48.611000,0 days 00:01:30.266000,234.945
+25157,1061,847,12,0.0,51,13,11,,0 days 00:01:32.049000,230.394
+25158,1061,841,13,0.0,51,15,11,,0 days 00:01:32.346000,229.653
+25159,1061,849,14,0.0,51,16,11,,0 days 00:01:32.477000,229.328
+25160,1061,8,15,0.0,51,11,11,,0 days 00:01:31.895000,230.78
+25161,1061,815,16,0.0,51,1,11,,0 days 00:01:28.617000,239.317
+25162,1061,853,17,0.0,51,18,11,,0 days 00:01:32.909000,228.262
+25163,1061,854,18,0.0,51,17,11,,0 days 00:01:32.862000,228.377
+25164,1061,20,19,0.0,40,19,31,,0 days 00:01:33.059000,227.894
+25165,1061,830,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25166,1062,839,1,25.0,70,5,1,0 days 02:04:43.199000,0 days 00:01:21.421000,193.704
+25167,1062,1,2,18.0,70,2,1,0 days 02:04:45.935000,0 days 00:01:18.715000,200.363
+25168,1062,832,3,15.0,70,6,1,0 days 02:04:58.217000,0 days 00:01:21.423000,193.699
+25169,1062,4,4,12.0,70,3,1,0 days 02:04:58.850000,0 days 00:01:20.359000,196.264
+25170,1062,842,5,11.0,70,1,1,0 days 02:05:46.813000,0 days 00:01:18.394000,201.183
+25171,1062,852,6,8.0,70,10,1,0 days 02:05:59.002000,0 days 00:01:22.450000,191.286
+25172,1062,849,7,6.0,70,14,1,0 days 02:06:01.109000,0 days 00:01:22.831000,190.406
+25173,1062,847,8,4.0,70,9,1,0 days 02:06:02.293000,0 days 00:01:22.112000,192.074
+25174,1062,830,9,2.0,70,4,1,0 days 02:06:03.443000,0 days 00:01:20.945000,194.843
+25175,1062,8,10,1.0,69,8,11,,0 days 00:01:21.518000,193.473
+25176,1062,817,11,0.0,69,13,11,,0 days 00:01:22.802000,190.473
+25177,1062,854,12,0.0,69,11,11,,0 days 00:01:22.711000,190.683
+25178,1062,841,13,0.0,69,12,11,,0 days 00:01:22.736000,190.625
+25179,1062,853,14,0.0,3,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25180,1062,846,15,0.0,2,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25181,1062,822,16,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25182,1062,815,17,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25183,1062,844,18,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25184,1062,840,19,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25185,1062,20,20,0.0,70,7,2,,0 days 00:01:21.459000,193.613
+25186,1063,830,1,12.5,1,0,1,0 days 00:03:27.071000,0 days 00:01:28.217748947,210.58524607730575
+25187,1063,847,2,9.0,1,0,1,0 days 00:03:29.066000,0 days 00:01:28.217748947,210.58524607730575
+25188,1063,1,3,7.5,1,0,1,0 days 00:03:29.672000,0 days 00:01:28.217748947,210.58524607730575
+25189,1063,817,4,6.0,1,0,1,0 days 00:03:31.567000,0 days 00:01:28.217748947,210.58524607730575
+25190,1063,20,5,5.0,1,0,1,0 days 00:03:34.550000,0 days 00:01:28.217748947,210.58524607730575
+25191,1063,842,6,4.0,1,0,1,0 days 00:03:37.248000,0 days 00:01:28.217748947,210.58524607730575
+25192,1063,839,7,3.0,1,0,1,0 days 00:03:38.650000,0 days 00:01:28.217748947,210.58524607730575
+25193,1063,844,8,2.0,1,0,1,0 days 00:03:39.679000,0 days 00:01:28.217748947,210.58524607730575
+25194,1063,849,9,1.0,1,0,1,0 days 00:03:42.556000,0 days 00:01:28.217748947,210.58524607730575
+25195,1063,832,10,0.5,1,0,1,0 days 00:03:43.237000,0 days 00:01:28.217748947,210.58524607730575
+25196,1063,4,11,0.0,1,0,1,0 days 00:03:47.661000,0 days 00:01:28.217748947,210.58524607730575
+25197,1063,822,12,0.0,1,0,1,0 days 00:03:49.485000,0 days 00:01:28.217748947,210.58524607730575
+25198,1063,841,13,0.0,1,0,1,0 days 00:03:51.234000,0 days 00:01:28.217748947,210.58524607730575
+25199,1063,846,14,0.0,1,0,1,0 days 00:03:54.181000,0 days 00:01:28.217748947,210.58524607730575
+25200,1063,852,15,0.0,1,0,1,0 days 00:03:55.400000,0 days 00:01:28.217748947,210.58524607730575
+25201,1063,854,16,0.0,1,0,1,0 days 00:03:56.578000,0 days 00:01:28.217748947,210.58524607730575
+25202,1063,853,17,0.0,1,0,1,0 days 00:03:59.064000,0 days 00:01:28.217748947,210.58524607730575
+25203,1063,8,18,0.0,1,0,1,0 days 00:04:03.125000,0 days 00:01:28.217748947,210.58524607730575
+25204,1063,815,19,0.0,1,0,1,0 days 00:04:05.276000,0 days 00:01:28.217748947,210.58524607730575
+25205,1063,840,20,0.0,1,0,1,0 days 00:04:11.179000,0 days 00:01:28.217748947,210.58524607730575
+25206,1064,830,1,25.0,72,3,1,0 days 01:30:05.395000,0 days 00:01:13.275000,209.244
+25207,1064,1,2,19.0,72,1,1,0 days 01:30:26.327000,0 days 00:01:11.097000,215.654
+25208,1064,822,3,15.0,72,2,1,0 days 01:31:01.855000,0 days 00:01:12.549000,211.338
+25209,1064,842,4,12.0,71,10,11,,0 days 00:01:14.818000,204.929
+25210,1064,844,5,10.0,71,9,11,,0 days 00:01:14.780000,205.033
+25211,1064,4,6,8.0,71,7,11,,0 days 00:01:14.323000,206.294
+25212,1064,832,7,6.0,71,13,11,,0 days 00:01:15.260000,203.725
+25213,1064,815,8,4.0,71,4,11,,0 days 00:01:13.461000,208.714
+25214,1064,839,9,2.0,71,8,11,,0 days 00:01:14.675000,205.321
+25215,1064,846,10,1.0,71,6,11,,0 days 00:01:14.236000,206.535
+25216,1064,817,11,0.0,71,11,11,,0 days 00:01:14.920000,204.65
+25217,1064,840,12,0.0,70,15,12,,0 days 00:01:15.611000,202.78
+25218,1064,20,13,0.0,70,5,12,,0 days 00:01:13.958000,207.312
+25219,1064,841,14,0.0,70,12,12,,0 days 00:01:15.125000,204.091
+25220,1064,9,15,0.0,70,14,12,,0 days 00:01:15.442000,203.234
+25221,1064,849,16,0.0,70,18,12,,0 days 00:01:15.790000,202.301
+25222,1064,847,17,0.0,69,16,6,,0 days 00:01:15.628000,202.734
+25223,1064,854,18,0.0,69,19,13,,0 days 00:01:15.927000,201.936
+25224,1064,852,19,0.0,48,17,131,,0 days 00:01:15.783000,202.319
+25225,1064,853,20,0.0,41,20,9,,0 days 00:01:16.066000,201.567
+25226,1065,817,1,26.0,53,1,1,0 days 01:21:54.365000,0 days 00:01:24.812000,245.894
+25227,1065,846,2,18.0,53,3,1,0 days 01:21:56.112000,0 days 00:01:24.971000,245.434
+25228,1065,822,3,15.0,53,2,1,0 days 01:21:59.286000,0 days 00:01:24.827000,245.85
+25229,1065,844,4,12.0,53,6,1,0 days 01:22:01.674000,0 days 00:01:25.319000,244.433
+25230,1065,815,5,10.0,53,4,1,0 days 01:22:03.088000,0 days 00:01:25.156000,244.901
+25231,1065,832,6,8.0,53,8,1,0 days 01:22:04.900000,0 days 00:01:25.559000,243.747
+25232,1065,840,7,6.0,53,13,1,0 days 01:22:10.169000,0 days 00:01:25.853000,242.912
+25233,1065,4,8,4.0,53,7,1,0 days 01:22:11.566000,0 days 00:01:25.472000,243.995
+25234,1065,847,9,2.0,53,11,1,0 days 01:22:14.107000,0 days 00:01:25.835000,242.963
+25235,1065,839,10,1.0,53,9,1,0 days 01:22:15.233000,0 days 00:01:25.566000,243.727
+25236,1065,849,11,0.0,53,16,1,0 days 01:22:18.108000,0 days 00:01:25.953000,242.63
+25237,1065,20,12,0.0,53,15,1,0 days 01:22:18.986000,0 days 00:01:25.938000,242.672
+25238,1065,841,13,0.0,53,10,1,0 days 01:22:21.581000,0 days 00:01:25.718000,243.295
+25239,1065,9,14,0.0,53,12,1,0 days 01:22:24.134000,0 days 00:01:25.849000,242.924
+25240,1065,854,15,0.0,53,17,1,0 days 01:22:45.453000,0 days 00:01:26.707000,240.52
+25241,1065,853,16,0.0,41,18,131,,0 days 00:01:27.202000,239.155
+25242,1065,1,17,0.0,25,14,4,,0 days 00:01:25.870000,242.864
+25243,1065,830,18,0.0,25,5,4,,0 days 00:01:25.173000,244.852
+25244,1065,842,19,0.0,3,19,22,,0 days 00:01:29.005000,234.31
+25245,1065,852,20,0.0,0,0,23,,0 days 00:01:28.217748947,210.58524607730575
+25246,1066,1,1,25.0,53,2,1,0 days 01:30:41.001000,0 days 00:01:37.575000,215.76
+25247,1066,830,2,18.0,53,5,1,0 days 01:31:34.272000,0 days 00:01:38.396000,213.959
+25248,1066,832,3,15.0,53,12,1,0 days 01:31:43.476000,0 days 00:01:39.294000,212.024
+25249,1066,817,4,12.0,53,9,1,0 days 01:31:46.608000,0 days 00:01:39.124000,212.388
+25250,1066,822,5,10.0,53,3,1,0 days 01:31:48.534000,0 days 00:01:38.216000,214.352
+25251,1066,4,6,8.0,53,6,1,0 days 01:32:02.322000,0 days 00:01:38.686000,213.331
+25252,1066,846,7,7.0,53,1,1,0 days 01:32:08.225000,0 days 00:01:37.423000,216.096
+25253,1066,8,8,4.0,53,16,1,0 days 01:32:09.956000,0 days 00:01:40.289000,209.921
+25254,1066,815,9,2.0,53,10,1,0 days 01:32:11.077000,0 days 00:01:39.215000,212.193
+25255,1066,847,10,1.0,53,18,1,0 days 01:32:21.552000,0 days 00:01:40.596000,209.28
+25256,1066,840,11,0.0,53,17,1,0 days 01:32:27.199000,0 days 00:01:40.464000,209.555
+25257,1066,20,12,0.0,52,11,11,,0 days 00:01:39.251000,212.116
+25258,1066,842,13,0.0,52,4,11,,0 days 00:01:38.279000,214.214
+25259,1066,839,14,0.0,52,19,11,,0 days 00:01:40.598000,209.276
+25260,1066,844,15,0.0,52,7,11,,0 days 00:01:38.994000,212.667
+25261,1066,841,16,0.0,52,8,11,,0 days 00:01:39.058000,212.53
+25262,1066,852,17,0.0,52,13,11,,0 days 00:01:39.960000,210.612
+25263,1066,853,18,0.0,51,20,12,,0 days 00:01:41.713000,206.982
+25264,1066,849,19,0.0,47,14,3,,0 days 00:01:40,210.528
+25265,1066,854,20,0.0,32,15,44,,0 days 00:01:40.276000,209.948
+25266,1067,822,1,26.0,58,1,1,0 days 01:31:04.103000,0 days 00:01:30.432000,212.5
+25267,1067,830,2,18.0,58,9,1,0 days 01:31:18.687000,0 days 00:01:32.759000,207.169
+25268,1067,815,3,15.0,58,4,1,0 days 01:31:37.574000,0 days 00:01:32.459000,207.841
+25269,1067,844,4,12.0,58,8,1,0 days 01:31:41.917000,0 days 00:01:32.737000,207.218
+25270,1067,1,5,10.0,58,10,1,0 days 01:31:45.915000,0 days 00:01:32.763000,207.16
+25271,1067,842,6,8.0,58,11,1,0 days 01:31:48.395000,0 days 00:01:32.814000,207.046
+25272,1067,846,7,6.0,58,3,1,0 days 01:31:51.316000,0 days 00:01:32.446000,207.87
+25273,1067,832,8,4.0,58,2,1,0 days 01:31:55.629000,0 days 00:01:31.921000,209.057
+25274,1067,840,9,2.0,58,6,1,0 days 01:32:26.121000,0 days 00:01:32.608000,207.506
+25275,1067,839,10,1.0,57,19,11,,0 days 00:01:34.584000,203.171
+25276,1067,841,11,0.0,57,13,11,,0 days 00:01:32.904000,206.845
+25277,1067,8,12,0.0,57,5,11,,0 days 00:01:32.586000,207.556
+25278,1067,817,13,0.0,57,15,11,,0 days 00:01:33.255000,206.067
+25279,1067,852,14,0.0,57,12,11,,0 days 00:01:32.844000,206.979
+25280,1067,847,15,0.0,57,16,11,,0 days 00:01:33.399000,205.749
+25281,1067,4,16,0.0,57,14,11,,0 days 00:01:33.252000,206.073
+25282,1067,849,17,0.0,57,17,11,,0 days 00:01:33.672000,205.149
+25283,1067,20,18,0.0,57,7,11,,0 days 00:01:32.730000,207.233
+25284,1067,854,19,0.0,56,18,12,,0 days 00:01:34.209000,203.98
+25285,1067,853,20,0.0,56,20,12,,0 days 00:01:35.438000,201.353
+25286,1069,830,1,25.0,56,2,1,0 days 01:34:36.552000,0 days 00:01:39.096000,200.278
+25287,1069,1,2,19.0,56,1,1,0 days 01:34:37.885000,0 days 00:01:38.485000,201.521
+25288,1069,815,3,15.0,56,4,1,0 days 01:35:18.775000,0 days 00:01:39.566000,199.333
+25289,1069,844,4,12.0,56,3,1,0 days 01:35:28.798000,0 days 00:01:39.303000,199.861
+25290,1069,817,5,10.0,56,8,1,0 days 01:35:53.406000,0 days 00:01:40.345000,197.785
+25291,1069,822,6,8.0,56,6,1,0 days 01:35:56.680000,0 days 00:01:40.147000,198.176
+25292,1069,832,7,6.0,56,9,1,0 days 01:36:00.097000,0 days 00:01:40.377000,197.722
+25293,1069,846,8,4.0,56,7,1,0 days 01:36:00.947000,0 days 00:01:40.228000,198.016
+25294,1069,852,9,2.0,55,13,11,,0 days 00:01:41.151000,196.209
+25295,1069,20,10,1.0,55,10,11,,0 days 00:01:40.481000,197.517
+25296,1069,841,11,0.0,55,12,11,,0 days 00:01:41.145000,196.221
+25297,1069,840,12,0.0,55,14,11,,0 days 00:01:41.189000,196.135
+25298,1069,8,13,0.0,55,15,11,,0 days 00:01:41.340000,195.843
+25299,1069,847,14,0.0,55,11,11,,0 days 00:01:41.120000,196.269
+25300,1069,849,15,0.0,55,17,11,,0 days 00:01:41.818000,194.924
+25301,1069,854,16,0.0,54,16,12,,0 days 00:01:41.395000,195.737
+25302,1069,853,17,0.0,54,20,12,,0 days 00:01:42.886000,192.9
+25303,1069,4,18,0.0,49,5,65,,0 days 00:01:40.067000,198.335
+25304,1069,839,19,0.0,40,19,26,,0 days 00:01:42.194000,194.207
+25305,1069,842,20,0.0,14,18,22,,0 days 00:01:42.015000,194.547
+25306,1070,830,1,25.0,71,2,1,0 days 01:38:39.086000,0 days 00:01:18.999000,196.134
+25307,1070,1,2,18.0,71,4,1,0 days 01:38:55.641000,0 days 00:01:19.820000,194.116
+25308,1070,815,3,15.0,71,3,1,0 days 01:38:56.838000,0 days 00:01:19.468000,194.976
+25309,1070,842,4,12.0,71,7,1,0 days 01:39:42.931000,0 days 00:01:20.510000,192.453
+25310,1070,844,5,10.0,71,9,1,0 days 01:40:00.123000,0 days 00:01:20.665000,192.083
+25311,1070,832,6,8.0,70,5,11,,0 days 00:01:20.081000,193.484
+25312,1070,20,7,6.0,70,6,11,,0 days 00:01:20.460000,192.572
+25313,1070,8,8,4.0,70,11,11,,0 days 00:01:20.713000,191.969
+25314,1070,4,9,2.0,70,10,11,,0 days 00:01:20.711000,191.973
+25315,1070,846,10,1.0,70,8,11,,0 days 00:01:20.617000,192.197
+25316,1070,841,11,0.0,70,16,11,,0 days 00:01:21.523000,190.061
+25317,1070,817,12,0.0,70,13,11,,0 days 00:01:21.069000,191.126
+25318,1070,839,13,0.0,70,14,11,,0 days 00:01:21.348000,190.47
+25319,1070,840,14,0.0,69,12,12,,0 days 00:01:20.930000,191.454
+25320,1070,822,15,0.0,69,1,12,,0 days 00:01:17.774000,199.223
+25321,1070,847,16,0.0,69,18,12,,0 days 00:01:22.016000,188.919
+25322,1070,849,17,0.0,69,17,12,,0 days 00:01:21.546000,190.008
+25323,1070,853,18,0.0,68,15,13,,0 days 00:01:21.402000,190.344
+25324,1070,854,19,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25325,1070,852,20,0.0,0,0,4,,0 days 00:01:28.217748947,210.58524607730575
+25326,1071,1,1,25.0,71,2,1,0 days 01:32:22.851000,0 days 00:01:11.982000,215.503
+25327,1071,830,2,18.0,71,3,1,0 days 01:32:33.347000,0 days 00:01:12.486000,214.005
+25328,1071,822,3,15.0,71,4,1,0 days 01:32:36.427000,0 days 00:01:12.526000,213.887
+25329,1071,815,4,13.0,71,1,1,0 days 01:33:02.791000,0 days 00:01:11.010000,218.453
+25330,1071,844,5,10.0,71,7,1,0 days 01:33:12.368000,0 days 00:01:12.822000,213.018
+25331,1071,832,6,8.0,71,6,1,0 days 01:33:14.671000,0 days 00:01:12.710000,213.346
+25332,1071,842,7,6.0,70,8,11,,0 days 00:01:13.227000,211.839
+25333,1071,839,8,4.0,70,16,11,,0 days 00:01:14.430000,208.415
+25334,1071,4,9,2.0,70,12,11,,0 days 00:01:13.922000,209.848
+25335,1071,846,10,1.0,70,10,11,,0 days 00:01:13.761000,210.306
+25336,1071,20,11,0.0,70,9,11,,0 days 00:01:13.634000,210.668
+25337,1071,8,12,0.0,70,5,11,,0 days 00:01:12.621000,213.607
+25338,1071,847,13,0.0,70,15,11,,0 days 00:01:14.355000,208.626
+25339,1071,841,14,0.0,70,14,11,,0 days 00:01:14.227000,208.985
+25340,1071,852,15,0.0,70,13,11,,0 days 00:01:14.204000,209.05
+25341,1071,849,16,0.0,70,18,11,,0 days 00:01:14.616000,207.896
+25342,1071,853,17,0.0,69,19,12,,0 days 00:01:14.954000,206.958
+25343,1071,854,18,0.0,69,11,12,,0 days 00:01:13.793000,210.215
+25344,1071,817,19,0.0,49,17,75,,0 days 00:01:14.443000,208.379
+25345,1071,840,20,0.0,47,20,130,,0 days 00:01:15.344000,205.887
+25346,1051,1,1,25.0,57,2,1,0 days 01:24:28.471000,0 days 00:01:25.084000,227.633
+25347,1051,830,2,19.0,57,1,1,0 days 01:24:54.214000,0 days 00:01:23.196000,232.799
+25348,1051,4,3,15.0,57,10,1,0 days 01:25:27.928000,0 days 00:01:26.682000,223.437
+25349,1051,815,4,12.0,57,3,1,0 days 01:25:30.777000,0 days 00:01:25.613000,226.227
+25350,1051,839,5,10.0,57,13,1,0 days 01:25:49.041000,0 days 00:01:27.061000,222.464
+25351,1051,840,6,8.0,57,17,1,0 days 01:25:49.745000,0 days 00:01:27.356000,221.713
+25352,1051,832,7,6.0,57,9,1,0 days 01:25:50.382000,0 days 00:01:26.570000,223.726
+25353,1051,844,8,4.0,57,8,1,0 days 01:25:51.597000,0 days 00:01:26.555000,223.765
+25354,1051,846,9,2.0,56,4,11,,0 days 00:01:25.746000,225.876
+25355,1051,20,10,1.0,56,7,11,,0 days 00:01:26.434000,224.078
+25356,1051,842,11,0.0,56,11,11,,0 days 00:01:27.019000,222.572
+25357,1051,817,12,0.0,56,14,11,,0 days 00:01:27.198000,222.115
+25358,1051,852,13,0.0,56,12,11,,0 days 00:01:27.043000,222.51
+25359,1051,8,14,0.0,56,6,11,,0 days 00:01:26.358000,224.275
+25360,1051,841,15,0.0,56,18,11,,0 days 00:01:27.823000,220.534
+25361,1051,854,16,0.0,56,19,11,,0 days 00:01:28.412000,219.065
+25362,1051,847,17,0.0,55,5,12,,0 days 00:01:25.768000,225.818
+25363,1051,853,18,0.0,55,16,12,,0 days 00:01:27.340000,221.754
+25364,1051,849,19,0.0,50,20,29,,0 days 00:01:28.732000,218.275
+25365,1051,822,20,0.0,48,15,137,,0 days 00:01:27.246000,221.992
+25366,1072,1,1,26.0,50,1,1,0 days 02:06:15.118000,0 days 00:01:30.734000,244.962
+25367,1072,830,2,18.0,50,3,1,0 days 02:06:26.943000,0 days 00:01:31.488000,242.943
+25368,1072,822,3,15.0,50,2,1,0 days 02:06:42.649000,0 days 00:01:31.408000,243.155
+25369,1072,839,4,12.0,50,6,1,0 days 02:06:42.751000,0 days 00:01:31.797000,242.125
+25370,1072,817,5,10.0,50,11,1,0 days 02:06:55.239000,0 days 00:01:32.716000,239.725
+25371,1072,842,6,8.0,50,9,1,0 days 02:06:56.731000,0 days 00:01:32.297000,240.813
+25372,1072,844,7,6.0,50,4,1,0 days 02:06:59.593000,0 days 00:01:31.601000,242.643
+25373,1072,832,8,4.0,50,7,1,0 days 02:07:01.724000,0 days 00:01:31.851000,241.983
+25374,1072,841,9,2.0,50,15,1,0 days 02:07:13.623000,0 days 00:01:32.865000,239.34
+25375,1072,846,10,1.0,50,8,1,0 days 02:07:16.476000,0 days 00:01:31.914000,241.817
+25376,1072,840,11,0.0,50,14,1,0 days 02:07:32.330000,0 days 00:01:32.804000,239.498
+25377,1072,849,12,0.0,50,12,1,0 days 02:07:38.367000,0 days 00:01:32.751000,239.635
+25378,1072,4,13,0.0,49,5,11,,0 days 00:01:31.633000,242.558
+25379,1072,852,14,0.0,49,10,11,,0 days 00:01:32.506000,240.269
+25380,1072,8,15,0.0,49,13,11,,0 days 00:01:32.778000,239.565
+25381,1072,20,16,0.0,44,16,130,,0 days 00:01:34.030000,236.375
+25382,1072,815,17,0.0,14,17,4,,0 days 00:01:34.138000,236.104
+25383,1072,853,18,0.0,14,20,4,,0 days 00:01:37.043000,229.036
+25384,1072,847,19,0.0,14,19,4,,0 days 00:01:36.130000,231.211
+25385,1072,854,20,0.0,8,18,3,,0 days 00:01:36.043000,231.421
+25386,1073,830,1,26.0,58,1,1,0 days 01:30:17.345000,0 days 00:01:26.103000,220.8
+25387,1073,1,2,18.0,58,3,1,0 days 01:30:19.601000,0 days 00:01:26.615000,219.495
+25388,1073,832,3,15.0,58,9,1,0 days 01:30:22.518000,0 days 00:01:27.618000,216.982
+25389,1073,852,4,12.0,58,7,1,0 days 01:30:23.037000,0 days 00:01:27.496000,217.285
+25390,1073,842,5,10.0,58,6,1,0 days 01:30:23.876000,0 days 00:01:27.342000,217.668
+25391,1073,822,6,8.0,58,5,1,0 days 01:30:24.808000,0 days 00:01:26.862000,218.871
+25392,1073,846,7,6.0,58,4,1,0 days 01:31:16.545000,0 days 00:01:26.762000,219.123
+25393,1073,4,8,4.0,58,8,1,0 days 01:31:19.053000,0 days 00:01:27.607000,217.01
+25394,1073,839,9,2.0,58,10,1,0 days 01:31:21.371000,0 days 00:01:28.249000,215.431
+25395,1073,844,10,1.0,58,12,1,0 days 01:31:23.402000,0 days 00:01:28.433000,214.983
+25396,1073,20,11,0.0,58,11,1,0 days 01:31:24.872000,0 days 00:01:28.303000,215.299
+25397,1073,817,12,0.0,57,14,11,,0 days 00:01:28.723000,214.28
+25398,1073,840,13,0.0,57,13,11,,0 days 00:01:28.567000,214.657
+25399,1073,854,14,0.0,57,17,11,,0 days 00:01:29.457000,212.522
+25400,1073,815,15,0.0,55,2,5,,0 days 00:01:26.419000,219.993
+25401,1073,849,16,0.0,50,15,3,,0 days 00:01:29.293000,212.912
+25402,1073,841,17,0.0,33,16,6,,0 days 00:01:29.442000,212.557
+25403,1073,847,18,0.0,26,19,6,,0 days 00:01:30.647000,209.732
+25404,1073,8,19,0.0,25,18,23,,0 days 00:01:29.698000,211.951
+25405,1073,853,20,0.0,0,0,139,,0 days 00:01:28.217748947,210.58524607730575

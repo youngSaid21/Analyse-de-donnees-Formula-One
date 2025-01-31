@@ -10,10 +10,10 @@ st.set_page_config(layout="wide")
 st.logo("https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png")
 
 # Importer les données
-results = pd.read_csv('../Cleaned_Data_Saison/results_2018.csv')
-pilotes = pd.read_csv("../Data/drivers.csv")
-meteo = pd.read_csv("../Cleaned_Data_Saison/meteo_2018.csv")
-courses = pd.read_csv("../Cleaned_Data_Saison/courses_2018.csv")
+results = pd.read_csv('/mount/src/analyse-de-donnees-formula-one/Cleaned_Data_Saison/results_2018.csv')
+pilotes = pd.read_csv("/mount/src/analyse-de-donnees-formula-one/Data/drivers.csv")
+meteo = pd.read_csv("/mount/src/analyse-de-donnees-formula-one/Cleaned_Data_Saison/meteo_2018.csv")
+courses = pd.read_csv("/mount/src/analyse-de-donnees-formula-one/Cleaned_Data_Saison/courses_2018.csv")
 
 # Convertir la colonne "time_" en timedelta
 results['time_'] = pd.to_timedelta(results['time_'])
@@ -164,7 +164,7 @@ with row2_col2:
 
 	st.write("### 🏆 Leader de la Course")
 
-	st.image(f"../Streamlit/Images/{winner_info['forename']}.jpg")
+	st.image(f"/mount/src/analyse-de-donnees-formula-one/Streamlit/Images/{winner_info['forename']}.jpg")
 
 	st.write(f"🏎 **Pilote :** {winner_name}")
 	st.write(f"🌍 **Nationalité :** {winner_nationality}")

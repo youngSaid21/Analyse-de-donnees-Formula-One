@@ -14,9 +14,9 @@ st.logo("https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png")
 st.title("Tableau de bord : Formula One Saison 2018")
 
 # Importer les données
-results = pd.read_csv('../Cleaned_Data_Saison/results_2018.csv')
-pilotes = pd.read_csv("../Data/drivers.csv")
-meteo = pd.read_csv("../Cleaned_Data_Saison/meteo_2018.csv")
+results = pd.read_csv('/mount/src/analyse-de-donnees-formula-one/Cleaned_Data_Saison/results_2018.csv')
+pilotes = pd.read_csv("/mount/src/analyse-de-donnees-formula-one/Data/drivers.csv")
+meteo = pd.read_csv("/mount/src/analyse-de-donnees-formula-one/Cleaned_Data_Saison/meteo_2018.csv")
 
 # Convertir la colonne "time_" en timedelta
 results['time_'] = pd.to_timedelta(results['time_'])
